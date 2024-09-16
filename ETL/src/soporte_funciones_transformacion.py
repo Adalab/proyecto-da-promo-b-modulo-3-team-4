@@ -16,7 +16,8 @@ from scipy.stats import shapiro, kstest, ttest_ind, mannwhitneyu, expon, chisqua
 
 
 #%%
-def ordenar_columnas(dataframe):
+def limpieza_columnas(dataframe):
+    
     columnas_ordenadas = [
     'employeenumber', 
     'Age', 'Over18', 'DateBirth', 'Gender', 'MaritalStatus', 'Education', 'EducationField', 'NUMBERCHILDREN', 'NUMCOMPANIESWORKED',
@@ -30,39 +31,31 @@ def ordenar_columnas(dataframe):
     'employeecount'
     ]
     
+    cols=["Over18", "DateBirth", "MaritalStatus", "NUMBERCHILDREN", "RoleDepartament", "HourlyRate",
+            "DailyRate", "MonthlyRate", "SameAsMonthlyIncome", "Salary","TOTALWORKINGYEARS","YearsInCurrentRole",
+            "StandardHours", "employeecount"]
+    
     dataframe = dataframe[columnas_ordenadas]
-    return dataframe
-# %%
-
-def eliminar_columnas(df):
-    # Eliminar todas las columnas anteriores:
-    cols=["Over18", "DateBirth", "MaritalStatus","NUMBERCHILDREN", "Department", "RoleDepartament", "HourlyRate",
-            "DailyRate", "MonthlyRate", "SameAsMonthlyIncome", "Salary", "StandardHours", "employeecount"]
     
-    df.drop(labels=cols, axis=1, inplace=True)
-
-    return df
+    dataframe.drop(labels=cols, axis=1, inplace=True)
     
-#%%
-
-# RENOMBRAR COLUMNAS 
-
-def renombrar_columnas(df):
     dicc_col = {"TOTALWORKINGYEARS": "TotalWorkingYears",
                 "WORKLIFEBALANCE":"WorkLifeBalance",
                 "NUMCOMPANIESWORKED": "NumCompaniesWorked",
                 "YEARSWITHCURRMANAGER":"YearsWithCurrManager",
                 'employeenumber':'EmployeeNumber'
                 }
-    df.rename(columns=dicc_col, inplace=True)
     
-    return df
+    dataframe = dataframe.rename(columns=dicc_col)
+    
+    return dataframe
+
 
 # %%
 
 # CORRECCION ERRORES REGISTROS
 
-def correccion_tipografica(df):
+def correccion_tipografica(dataframe):
     number_mapping = {
         'forty-seven': 47,
         'fifty-eight':58,
@@ -77,64 +70,74 @@ def correccion_tipografica(df):
         'twenty-four':24
     }    
     
-    comma_list = ["EmployeeNumber", "MonthlyIncome", "PerformanceRating", "TotalWorkingYears", "WorkLifeBalance", "YearsInCurrentRole"]
+    comma_list = ["EmployeeNumber", "MonthlyIncome", "PerformanceRating", "WorkLifeBalance"]
 
-    df["Age"]= df["Age"].replace(number_mapping)
+    dataframe["Age"]= dataframe["Age"].replace(number_mapping)
     # CONVERSION Age a int despues de la corrección
-    df['Age'] = df['Age'].astype(int)
-    df['JobRole']=df['JobRole'].apply(lambda x : x.lower().title().strip())
+    dataframe['Age'] = dataframe['Age'].astype('int64')
+    dataframe['JobRole'] = dataframe['JobRole'].apply(lambda x : x.lower().title().strip())
 
     for col in comma_list:
-        df[col] = df[col].str.replace(",",".")
-        df[col] = pd.to_numeric(df[col], errors="coerce")
+        dataframe[col] = dataframe[col].str.replace(",",".")
+        dataframe[col] = pd.to_numeric(dataframe[col], errors="coerce")
 
-    return df
+    return dataframe
 
 # %%
 # ESTANDARIZACION COLUMNAS GENDER Y REMOTE WORK
-def estandarizacion(df):
+def estandarizacion(dataframe):
     gender_mapping = {0:"Male",1:"Female"}
     remote_mapping = {'1': 'Yes', '0':'No', 'True': 'Yes', 'False': 'No', 'Yes': 'Yes', 'No': 'No'}
 
-    df["Gender"] = df["Gender"].replace(gender_mapping)
-    df["RemoteWork"] = df["RemoteWork"].map(remote_mapping)
+    dataframe["Gender"] = dataframe["Gender"].replace(gender_mapping)
+    dataframe["RemoteWork"] = dataframe["RemoteWork"].map(remote_mapping)
     
-    return df
+    return dataframe
 # %%
 
-def eliminar_duplicados(df):
-    df.drop_duplicates(inplace=True)
-    return df
+def eliminar_duplicados(dataframe):
+    dataframe.drop_duplicates(inplace=True)
+    return dataframe
 # %%
 
-def conversion_distancia_positivo(df):
+def conversion_distancia_positivo(dataframe):
     # Convertimos Distancias negativas a positivas. 
 
-    df['DistanceFromHome'] = df['DistanceFromHome'].abs()
+    dataframe['DistanceFromHome'] = dataframe['DistanceFromHome'].abs()
 
-    return df
+    return dataframe
 
 
 #%% 
 # INCONGRUENCIAS EN EMPLOYEENUMBER
 
-def eliminar_employees_duplicados (df):
-    dup_con_nulos = df[df.duplicated(subset='EmployeeNumber',keep = False)].sort_values(by='EmployeeNumber', ascending=True)
+def eliminar_employees_duplicados (dataframe):
+    dup_con_nulos = dataframe[dataframe.duplicated(subset='EmployeeNumber',keep = False)].sort_values(by='EmployeeNumber', ascending=True)
     dup_sin_nulos = dup_con_nulos[dup_con_nulos['EmployeeNumber'].isnull() == False]
     lista_Employees_dup = list(dup_sin_nulos['EmployeeNumber'].unique())
     for employeenumber in lista_Employees_dup:
-        dups = df[df['EmployeeNumber'] == employeenumber]
+        dups = dataframe[dataframe['EmployeeNumber'] == employeenumber]
         distancia_1 = dups.iloc[0]['DistanceFromHome']
         distancia_2 = dups.iloc[1]['DistanceFromHome']
         
         if dups.iloc[0]['RemoteWork'] != dups.iloc[1]['RemoteWork']:
-            df.drop(df[(df['RemoteWork'] == 'Yes') & (df['EmployeeNumber'] == employeenumber)].index, inplace=True)
+            dataframe.drop(dataframe[(dataframe['RemoteWork'] == 'Yes') & (dataframe['EmployeeNumber'] == employeenumber)].index, inplace=True)
         
         if distancia_1 < distancia_2:
-            df.drop(df[(df['DistanceFromHome'] == distancia_2)&(df['EmployeeNumber'] == employeenumber)].index, inplace=True)
+            dataframe.drop(dataframe[(dataframe['DistanceFromHome'] == distancia_2)&(dataframe['EmployeeNumber'] == employeenumber)].index, inplace=True)
             
         elif distancia_2 < distancia_1:
-            df.drop(df[(df['DistanceFromHome'] == distancia_1)&(df['EmployeeNumber'] == employeenumber)].index, inplace=True)
+            dataframe.drop(dataframe[(dataframe['DistanceFromHome'] == distancia_1)&(dataframe['EmployeeNumber'] == employeenumber)].index, inplace=True)
         
-    return df
+    return dataframe
 # %%
+# Imputamos a los nulos de EmployeeNumber el valor 'Unknown'
+
+def imputacion_simple_nulos(dataframe, columna):
+    
+    print(f"Valores nulos antes de imputacion en EmployeeNumber ==> {dataframe[columna].isnull().sum()}")
+
+    # Cambiamos esos nulos por Unknown
+    dataframe[columna] = dataframe[columna].fillna('Unknown')
+
+    return dataframe
