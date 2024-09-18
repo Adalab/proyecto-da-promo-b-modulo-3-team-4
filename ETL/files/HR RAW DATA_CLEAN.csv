@@ -1,0 +1,1487 @@
+,EmployeeNumber,Age,Gender,Education,EducationField,NumCompaniesWorked,JobLevel,JobRole,Department,JobInvolvement,PerformanceRating,Attrition,JobSatisfaction,EnvironmentSatisfaction,RelationshipSatisfaction,WorkLifeBalance,MonthlyIncome,StockOptionLevel,PercentSalaryHike,YearsAtCompany,YearsSinceLastPromotion,YearsWithCurrManager,TrainingTimesLastYear,BusinessTravel,DistanceFromHome,OverTime,RemoteWork
+0,162.0,51,Male,3,,7,5,Research Director,Unknown,3,3.0,No,3,1,3,3.0,19537.0,0,13,20,15,15,5,Non-Travel,6,No,Yes
+1,259.0,52,Male,4,Life Sciences,0,5,Manager,Unknown,2,3.0,No,3,3,1,3.0,19999.0,1,14,33,11,9,5,Non-Travel,1,No,Yes
+2,319.0,42,Male,2,Technical Degree,1,5,Manager,Research & Development,3,3.0,No,4,3,4,,19232.0,0,11,22,11,15,3,travel_rarely,4,No,Yes
+3,Unknown,47,Female,4,Medical,3,4,Research Director,Unknown,3,3.0,No,3,1,2,,17169.0,2,19,20,5,6,2,travel_rarely,2,No,No
+4,Unknown,46,Female,3,Technical Degree,2,4,Sales Executive,Unknown,4,3.0,No,1,1,4,3.0,,1,12,19,2,8,5,Non-Travel,3,No,No
+5,1900.0,48,Female,3,Medical,3,4,Manager,Research & Development,3,3.0,No,4,4,2,3.0,17174.0,1,11,22,4,7,3,Non-Travel,22,No,Yes
+6,81.0,59,Female,3,Life Sciences,7,3,Sales Executive,Unknown,3,3.0,No,1,1,4,2.0,,0,11,21,7,9,3,Non-Travel,25,No,Yes
+7,387.0,42,Male,1,,1,2,Sales Executive,Unknown,3,4.0,No,3,2,3,3.0,,0,25,20,11,6,3,travel_rarely,1,No,No
+8,Unknown,41,Female,5,,7,4,Manager,Unknown,3,3.0,No,1,2,2,3.0,16595.0,1,16,18,11,8,2,Non-Travel,2,No,Yes
+9,999.0,41,Male,3,,2,5,Research Director,Unknown,3,3.0,No,3,1,2,4.0,,1,17,18,0,11,2,travel_frequently,9,No,No
+10,1035.0,41,Female,1,,1,5,Research Director,Unknown,1,4.0,No,3,2,2,3.0,19973.0,2,22,21,5,10,3,non-travel,7,No,No
+11,Unknown,56,Male,3,Life Sciences,4,4,Manufacturing Director,Unknown,3,,No,2,4,1,3.0,13402.0,1,12,19,15,9,0,travel_rarely,23,Yes,No
+12,Unknown,38,Female,3,Medical,3,3,Research Director,Unknown,1,3.0,No,3,2,1,3.0,13206.0,1,12,18,1,11,3,Non-Travel,10,No,Yes
+13,58.0,41,Female,3,,1,5,Research Director,Unknown,3,3.0,Yes,3,2,4,3.0,19545.0,0,12,22,15,8,0,travel_rarely,12,No,No
+14,Unknown,55,Male,4,Medical,8,5,Research Director,Unknown,4,3.0,No,2,3,4,3.0,,0,11,24,2,15,3,Non-Travel,14,No,Yes
+15,558.0,40,Female,4,,0,5,Manager,Unknown,3,3.0,No,3,3,4,3.0,18041.0,0,14,20,1,12,2,travel_rarely,2,No,No
+16,825.0,58,Male,4,,7,5,Research Director,Unknown,3,3.0,Yes,2,4,4,3.0,19246.0,0,12,31,13,8,2,travel_rarely,2,Yes,No
+17,Unknown,46,Female,3,,8,4,Manager,Unknown,3,4.0,No,1,3,1,3.0,,0,23,26,15,9,2,travel_rarely,2,No,No
+18,Unknown,35,Male,5,Life Sciences,1,2,Research Scientist,Unknown,4,3.0,No,1,2,4,3.0,,0,11,16,1,10,2,Non-Travel,13,No,No
+19,Unknown,40,Female,3,Life Sciences,1,3,Manufacturing Director,Unknown,2,3.0,No,3,1,4,,,2,13,18,14,12,2,travel_rarely,15,No,Yes
+20,1712.0,45,Male,1,,3,3,Healthcare Representative,Research & Development,2,4.0,No,3,3,4,2.0,10748.0,1,23,23,14,4,3,non-travel,1,No,No
+21,73.0,33,Female,2,Life Sciences,1,3,Research Director,Unknown,3,3.0,No,4,1,3,3.0,,0,12,15,8,12,1,Non-Travel,1,Yes,Yes
+22,Unknown,36,Female,3,,1,3,Healthcare Representative,Unknown,3,,No,3,3,2,3.0,,3,13,17,12,8,2,Non-Travel,8,No,Yes
+23,820.0,47,Female,2,Other,1,4,Manager,Unknown,3,3.0,No,4,3,3,2.0,16752.0,1,11,26,3,0,3,Non-Travel,2,No,No
+24,Unknown,36,Male,2,Life Sciences,1,2,Sales Executive,Unknown,3,3.0,No,4,42,4,,6201.0,1,14,18,4,11,1,travel_rarely,42,No,Yes
+25,Unknown,35,Female,3,Life Sciences,1,3,Manufacturing Director,Unknown,2,4.0,No,3,4,2,3.0,,1,20,17,5,15,2,Non-Travel,9,Yes,No
+26,Unknown,52,Female,1,,1,5,Manager,Unknown,1,3.0,Yes,4,1,4,3.0,19845.0,1,15,32,6,9,3,Non-Travel,2,No,Yes
+27,1294.0,36,Female,4,Life Sciences,9,2,Manufacturing Director,Unknown,3,3.0,No,2,3,4,3.0,,0,11,16,5,12,2,Non-Travel,2,Yes,No
+28,Unknown,33,Male,4,Life Sciences,1,2,Laboratory Technician,Unknown,3,3.0,No,3,2,2,3.0,,1,12,15,5,7,3,travel_rarely,28,No,Yes
+29,1774.0,34,Male,3,Life Sciences,1,2,Sales Executive,Sales,3,3.0,No,3,4,3,3.0,4001.0,1,14,15,0,7,3,non-travel,10,Yes,Yes
+30,1815.0,41,Female,1,,0,3,Sales Executive,Sales,3,3.0,No,3,37,4,4.0,10447.0,1,13,22,13,5,3,Non-Travel,37,No,Yes
+31,1993.0,47,Male,3,Medical,2,3,Healthcare Representative,Research & Development,3,4.0,No,3,1,2,3.0,,0,23,17,12,11,3,Non-Travel,25,No,Yes
+32,32.0,53,Female,3,,4,5,Manager,Unknown,3,3.0,No,3,3,4,2.0,,1,11,14,4,8,3,travel_rarely,5,No,Yes
+33,100.0,35,Male,4,Marketing,0,2,Sales Executive,Unknown,2,,No,1,3,2,3.0,,0,14,15,2,8,2,Non-Travel,1,No,No
+34,Unknown,34,Female,4,Other,1,2,Research Scientist,Unknown,3,3.0,No,3,1,3,3.0,,0,14,16,2,10,3,travel_rarely,6,No,Yes
+35,244.0,46,Female,2,,1,3,Sales Executive,Unknown,3,4.0,No,1,2,3,3.0,,3,25,24,15,7,2,travel_rarely,1,No,Yes
+36,327.0,43,Female,3,,5,4,Manager,Unknown,3,4.0,No,4,4,3,3.0,16064.0,1,22,17,1,9,3,Non-Travel,16,No,Yes
+37,373.0,36,Male,3,Life Sciences,0,1,Laboratory Technician,Research & Development,3,3.0,No,4,4,3,3.0,3210.0,1,11,15,10,11,4,Non-Travel,6,No,Yes
+38,Unknown,60,Female,3,,4,3,Sales Executive,Unknown,2,3.0,No,1,3,4,4.0,10266.0,0,19,18,13,11,5,travel_frequently,28,No,Yes
+39,729.0,40,Male,4,,5,3,Sales Executive,Unknown,2,4.0,No,1,4,3,3.0,10475.0,1,21,18,1,12,2,travel_frequently,5,Yes,No
+40,830.0,32,Female,3,,1,2,Manufacturing Director,Unknown,2,3.0,No,3,3,3,3.0,6162.0,1,12,14,6,8,3,travel_rarely,4,No,No
+41,Unknown,41,Male,3,,2,1,Laboratory Technician,Unknown,3,,No,1,35,3,3.0,4721.0,0,13,18,2,17,3,travel_rarely,35,Yes,Yes
+42,981.0,53,Male,2,Medical,6,4,Manager,Unknown,3,3.0,No,3,3,3,4.0,,1,13,17,15,2,3,Non-Travel,2,No,No
+43,1042.0,36,Female,4,,1,1,Laboratory Technician,Unknown,4,3.0,Yes,1,3,3,3.0,,0,16,17,15,14,1,travel_rarely,16,No,Yes
+44,1080.0,46,Female,4,Life Sciences,8,2,Research Scientist,Unknown,2,4.0,No,1,4,1,3.0,4615.0,3,23,16,1,7,2,Non-Travel,8,Yes,No
+45,1995.0,38,Male,4,,0,2,Sales Executive,Unknown,3,3.0,No,2,4,1,,,2,15,15,5,8,3,travel_rarely,1,No,Yes
+46,145.0,51,Female,4,,3,3,Healthcare Representative,Unknown,2,4.0,No,1,1,3,2.0,,0,20,13,12,8,1,Non-Travel,1,No,Yes
+47,158.0,43,Male,2,,1,4,Manager,Unknown,3,3.0,No,4,3,4,4.0,16959.0,2,12,25,4,12,3,Non-Travel,26,Yes,Yes
+48,391.0,37,Female,3,Life Sciences,1,1,Research Scientist,Unknown,3,3.0,No,4,4,2,3.0,,0,12,17,5,7,3,Non-Travel,1,No,Yes
+49,436.0,32,Female,2,Technical Degree,1,2,Sales Executive,Unknown,2,3.0,No,2,3,4,3.0,,0,11,13,11,9,2,travel_rarely,8,Yes,Yes
+50,Unknown,38,Female,3,,1,3,Research Director,Unknown,3,3.0,No,1,4,2,3.0,,1,13,15,5,11,3,Non-Travel,1,No,No
+51,1527.0,46,Female,3,Life Sciences,8,4,Manager,Unknown,3,3.0,No,2,3,4,4.0,,1,12,13,5,1,2,Non-Travel,3,No,Yes
+52,Unknown,35,Male,3,Medical,9,3,Sales Executive,Unknown,2,3.0,Yes,1,4,3,,10306.0,0,17,13,6,0,3,travel_rarely,10,No,No
+53,1866.0,43,Female,3,Medical,7,5,Manager,Unknown,2,3.0,No,3,1,4,3.0,,0,13,16,6,14,2,Non-Travel,6,No,Yes
+54,2026.0,56,Male,4,Life Sciences,1,2,Healthcare Representative,Unknown,3,,No,3,3,1,2.0,,1,21,13,1,9,2,non-travel,1,No,Yes
+55,Unknown,36,Male,4,Marketing,1,2,Sales Executive,Unknown,1,4.0,No,4,4,1,2.0,5406.0,1,24,15,11,11,4,non-travel,15,No,Yes
+56,107.0,38,Female,3,Medical,7,2,Research Scientist,Unknown,1,3.0,No,4,2,4,3.0,,3,12,13,1,9,3,Non-Travel,6,No,Yes
+57,170.0,49,Female,4,Medical,1,2,Manufacturing Director,Unknown,3,3.0,No,1,3,3,2.0,,0,14,15,5,11,2,Non-Travel,26,No,No
+58,Unknown,39,Female,4,Life Sciences,4,2,Sales Executive,Unknown,2,3.0,No,3,4,3,4.0,5902.0,1,14,15,5,9,1,travel_rarely,4,No,Yes
+59,215.0,40,Male,4,,7,3,Sales Executive,Unknown,2,,No,4,3,1,2.0,10855.0,1,11,12,2,11,2,Non-Travel,4,No,Yes
+60,304.0,36,Male,2,,8,2,Laboratory Technician,Unknown,3,3.0,No,2,4,4,4.0,5914.0,0,16,13,3,7,3,Non-Travel,5,No,Yes
+61,529.0,37,Female,5,,3,2,Research Scientist,Unknown,3,3.0,No,3,2,1,3.0,,2,15,13,10,7,2,Non-Travel,25,Yes,No
+62,691.0,35,Male,4,,1,2,Research Scientist,Unknown,1,3.0,No,4,2,2,3.0,6646.0,0,13,17,11,8,3,Non-Travel,6,No,Yes
+63,692.0,33,Male,3,Life Sciences,3,2,Healthcare Representative,Unknown,3,4.0,No,4,3,3,1.0,,1,23,13,4,7,2,travel_frequently,6,No,No
+64,1005.0,50,Male,3,,3,4,Manufacturing Director,Research & Development,3,3.0,No,3,4,4,3.0,13973.0,1,18,12,1,5,2,travel_rarely,24,Yes,No
+65,1024.0,48,Male,4,,7,3,Healthcare Representative,Unknown,2,,No,3,3,2,3.0,,0,14,15,4,8,3,travel_rarely,4,No,Yes
+66,1039.0,44,Female,3,,3,4,Sales Executive,Sales,4,3.0,No,4,4,3,3.0,13320.0,1,18,12,11,11,2,travel_rarely,28,No,Yes
+67,1225.0,44,Male,4,,1,2,Research Scientist,Unknown,3,4.0,No,4,4,2,3.0,,0,25,20,13,17,3,travel_rarely,29,No,Yes
+68,1375.0,40,Female,1,,5,2,Healthcare Representative,Unknown,4,4.0,No,3,25,2,3.0,,3,20,12,11,8,0,Non-Travel,25,No,Yes
+69,Unknown,34,Female,4,,1,2,Healthcare Representative,Unknown,3,3.0,No,4,3,4,4.0,6687.0,0,11,14,4,11,2,travel_rarely,2,No,Yes
+70,Unknown,35,Female,4,,1,2,Healthcare Representative,Research & Development,3,3.0,No,3,3,4,3.0,,1,12,14,2,9,5,non-travel,8,No,Yes
+71,Unknown,50,Female,5,Life Sciences,5,3,Research Director,Unknown,2,3.0,No,1,4,3,3.0,,3,15,14,1,11,3,Non-Travel,17,No,No
+72,1661.0,49,Female,1,Life Sciences,2,4,Healthcare Representative,Unknown,2,3.0,No,3,3,2,3.0,,1,19,15,2,12,3,Non-Travel,6,No,Yes
+73,1668.0,38,Male,3,Life Sciences,7,2,Research Scientist,Unknown,3,3.0,No,4,4,4,,4735.0,2,15,13,2,9,4,travel_frequently,1,No,Yes
+74,1698.0,33,Male,3,,1,1,Laboratory Technician,Unknown,4,3.0,No,2,2,4,,,3,18,14,2,13,6,Non-Travel,21,No,Yes
+75,Unknown,47,Female,3,Life Sciences,8,3,Manufacturing Director,Unknown,2,,No,2,3,3,3.0,,1,12,22,14,10,4,travel_rarely,4,Yes,Yes
+76,1937.0,38,Female,3,,1,2,Research Scientist,Research & Development,2,3.0,No,2,4,3,3.0,,1,16,20,0,7,3,Non-Travel,8,No,No
+77,2017.0,37,Female,3,Life Sciences,1,3,Research Director,Unknown,4,4.0,No,4,3,1,3.0,,1,25,16,6,8,2,travel_rarely,10,Yes,Yes
+78,117.0,30,Male,3,,1,2,Healthcare Representative,Unknown,2,,No,4,3,1,3.0,,3,19,11,10,8,3,Non-Travel,2,No,Yes
+79,131.0,58,Male,4,,0,4,Sales Executive,Unknown,3,3.0,No,3,4,3,2.0,13872.0,0,13,37,1,8,1,travel_rarely,18,No,Yes
+80,153.0,34,Female,3,,2,3,Manager,Unknown,2,3.0,No,1,3,4,3.0,,0,12,11,5,8,6,travel_rarely,5,No,No
+81,Unknown,58,Female,4,Medical,1,3,Healthcare Representative,Unknown,3,3.0,Yes,4,4,4,2.0,,1,12,40,15,6,3,travel_rarely,23,No,Yes
+82,307.0,38,Male,3,Life Sciences,0,3,Sales Executive,Unknown,3,3.0,No,3,1,3,2.0,,2,12,16,5,13,6,Non-Travel,3,No,Yes
+83,Unknown,29,Female,1,,1,3,Sales Executive,Unknown,3,3.0,No,4,2,4,3.0,,1,14,11,4,1,5,travel_frequently,1,No,Yes
+84,374.0,55,Male,3,Medical,0,5,Manager,Unknown,3,3.0,No,1,4,3,3.0,19045.0,0,14,36,4,13,2,travel_rarely,1,No,Yes
+85,Unknown,41,Male,4,,1,4,Manager,Unknown,3,3.0,No,2,4,2,3.0,16015.0,0,19,22,0,4,2,Non-Travel,10,No,Yes
+86,Unknown,39,Male,3,,0,3,Healthcare Representative,Research & Development,4,,No,4,3,1,2.0,9613.0,3,17,18,3,7,5,travel_rarely,1,No,No
+87,Unknown,38,Male,2,Life Sciences,0,3,Research Director,Unknown,2,3.0,No,4,3,2,3.0,11510.0,1,14,11,2,9,3,Non-Travel,15,No,Yes
+88,Unknown,43,Male,3,,1,4,Research Director,Unknown,2,3.0,No,2,1,3,,,1,11,25,3,9,3,Non-Travel,12,No,Yes
+90,569.0,50,Male,4,Life Sciences,0,4,Manager,Research & Development,2,3.0,No,3,27,2,3.0,17046.0,1,15,27,15,7,2,travel_rarely,27,No,Yes
+91,899.0,35,Male,3,Technical Degree,3,3,Manufacturing Director,Unknown,2,,No,2,4,1,3.0,,0,16,13,4,8,2,Non-Travel,25,No,No
+92,Unknown,47,Male,4,,1,2,Manufacturing Director,Unknown,4,3.0,No,3,3,3,,5067.0,0,19,19,2,7,3,Non-Travel,16,Yes,Yes
+93,1014.0,35,Female,4,,1,3,Healthcare Representative,Research & Development,3,,No,3,3,3,2.0,,1,11,16,10,1,3,Non-Travel,25,Yes,Yes
+94,Unknown,40,Male,4,,4,3,Healthcare Representative,Unknown,3,4.0,No,4,1,4,3.0,,1,20,11,11,1,6,travel_rarely,20,No,Yes
+95,1117.0,45,Female,4,Life Sciences,1,2,Sales Executive,Sales,2,3.0,No,3,2,4,3.0,,1,13,15,4,12,2,Non-Travel,9,No,No
+96,1238.0,33,Male,3,Medical,0,1,Research Scientist,Research & Development,3,3.0,No,4,1,2,3.0,,1,13,14,4,10,5,Non-Travel,9,No,No
+97,Unknown,36,Male,3,,1,1,Research Scientist,Unknown,3,3.0,No,2,3,3,2.0,3692.0,0,12,11,0,7,2,travel_frequently,3,No,No
+98,1277.0,45,Female,3,Marketing,2,5,Manager,Unknown,1,3.0,Yes,2,1,1,3.0,,0,16,24,1,11,2,Non-Travel,13,Yes,Yes
+99,Unknown,51,Male,3,,4,5,Manager,Unknown,3,,No,2,27,1,2.0,19847.0,1,24,29,11,10,5,travel_frequently,27,Yes,No
+100,1541.0,34,Male,2,Technical Degree,0,1,Sales Representative,Unknown,3,4.0,No,3,2,2,3.0,2308.0,1,25,11,5,7,4,travel_rarely,7,Yes,No
+101,1666.0,43,Male,2,,1,4,Research Director,Research & Development,2,4.0,No,3,3,1,3.0,,1,24,14,6,11,3,travel_rarely,15,No,Yes
+102,1696.0,34,Male,2,Medical,1,2,Laboratory Technician,Unknown,2,3.0,No,4,2,3,,,1,14,15,4,13,3,Non-Travel,5,No,No
+103,1805.0,38,Male,3,,5,1,Human Resources,Unknown,3,3.0,No,2,1,4,3.0,,3,13,11,3,8,3,Non-Travel,2,No,Yes
+104,Unknown,48,Male,3,,4,5,Research Director,Unknown,2,3.0,No,2,4,4,3.0,,0,12,22,12,9,3,Non-Travel,10,No,No
+105,1932.0,34,Male,4,Other,1,2,Research Scientist,Research & Development,2,3.0,No,4,3,2,3.0,5747.0,0,15,15,6,11,3,Non-Travel,22,Yes,No
+106,2016.0,32,Female,4,,1,3,Sales Executive,Unknown,3,3.0,No,4,31,3,3.0,10422.0,2,19,14,5,7,3,travel_rarely,31,No,Yes
+107,20.0,29,Female,4,Life Sciences,1,3,Manufacturing Director,Unknown,4,3.0,No,1,2,3,3.0,,1,11,10,8,8,1,travel_rarely,21,No,No
+108,Unknown,46,Male,3,Medical,2,3,Healthcare Representative,Unknown,2,3.0,No,1,3,3,2.0,,1,13,10,9,5,5,Non-Travel,1,Yes,No
+109,184.0,30,Male,3,,0,2,Human Resources,Human Resources,3,3.0,No,4,3,4,1.0,6347.0,0,19,11,4,7,2,Non-Travel,9,Yes,No
+110,206.0,45,Male,3,Life Sciences,8,2,Laboratory Technician,Unknown,3,3.0,No,2,2,3,,2348.0,1,18,17,0,15,2,Non-Travel,9,No,Yes
+111,228.0,30,Female,3,,2,3,Sales Executive,Unknown,3,3.0,No,4,2,3,3.0,,1,12,10,7,4,2,travel_rarely,5,No,Yes
+112,239.0,30,Male,3,,1,2,Laboratory Technician,Unknown,3,,No,1,3,3,3.0,3072.0,2,11,12,6,10,4,Non-Travel,9,No,Yes
+113,256.0,34,Male,1,,1,2,Manufacturing Director,Unknown,2,3.0,No,3,4,3,2.0,,0,17,10,1,9,2,travel_frequently,29,No,No
+114,Unknown,51,Male,4,Life Sciences,5,3,Research Director,Unknown,2,3.0,No,2,2,4,1.0,12490.0,2,16,10,4,7,5,travel_rarely,8,No,No
+115,339.0,34,Male,4,Life Sciences,6,2,Manufacturing Director,Unknown,2,3.0,No,1,39,2,3.0,,1,13,11,5,9,3,Non-Travel,39,No,Yes
+116,406.0,35,Male,3,,0,3,Sales Executive,Unknown,3,3.0,No,2,3,3,2.0,8020.0,2,15,11,6,9,3,travel_rarely,16,No,Yes
+117,Unknown,45,Male,3,Life Sciences,1,3,Laboratory Technician,Unknown,3,3.0,No,1,1,1,3.0,,1,18,24,9,11,2,travel_frequently,7,No,Yes
+118,429.0,39,Male,1,,1,4,Manager,Unknown,3,,No,1,3,4,3.0,17068.0,0,14,21,11,10,3,Non-Travel,10,No,Yes
+119,Unknown,31,Female,2,,1,3,Manufacturing Director,Unknown,2,4.0,No,3,3,1,3.0,8943.0,1,24,10,8,9,2,Non-Travel,7,No,No
+120,444.0,39,Male,2,,1,5,Manager,Research & Development,2,3.0,No,4,3,1,3.0,19272.0,1,15,21,13,3,2,Non-Travel,7,No,Yes
+121,452.0,45,Male,4,,9,2,Research Scientist,Unknown,3,3.0,No,4,4,1,3.0,,2,14,10,9,8,3,travel_rarely,8,No,Yes
+122,456.0,30,Female,3,Marketing,1,2,Sales Executive,Sales,2,3.0,No,3,4,3,3.0,,3,13,10,1,2,2,travel_rarely,5,No,Yes
+123,Unknown,31,Female,4,Medical,1,3,Manufacturing Director,Unknown,3,3.0,No,4,3,3,2.0,,0,14,11,4,10,2,Non-Travel,7,No,No
+124,481.0,36,Male,4,Medical,4,3,Sales Executive,Unknown,2,3.0,No,4,1,1,3.0,,1,11,13,1,12,2,Non-Travel,3,No,Yes
+125,513.0,36,Male,2,,1,3,Sales Executive,Unknown,2,3.0,No,3,2,2,3.0,,2,13,10,9,0,2,travel_rarely,2,No,Yes
+126,597.0,55,Female,5,,3,4,Manager,Unknown,3,4.0,No,2,1,4,3.0,,0,23,10,7,7,2,travel_rarely,18,No,Yes
+127,600.0,35,Male,3,,9,2,Sales Executive,Unknown,3,3.0,No,3,2,3,3.0,,0,11,11,6,9,2,Non-Travel,1,No,Yes
+128,Unknown,42,Male,3,Medical,1,3,Manufacturing Director,Unknown,3,4.0,No,1,4,4,2.0,,1,21,10,5,8,5,travel_rarely,24,No,No
+129,630.0,52,Male,2,,3,2,Research Scientist,Unknown,3,,No,1,4,2,3.0,5577.0,2,12,10,6,9,3,travel_rarely,6,Yes,Yes
+130,638.0,49,Male,4,Life Sciences,1,5,Research Director,Unknown,2,3.0,No,3,4,3,3.0,,1,17,31,0,9,5,Non-Travel,18,Yes,Yes
+131,683.0,34,Male,5,,1,1,Research Scientist,Research & Development,3,3.0,No,4,2,4,2.0,2691.0,1,12,10,8,8,4,travel_rarely,1,No,Yes
+132,780.0,33,Male,4,Other,1,1,Research Scientist,Unknown,3,3.0,Yes,4,4,3,2.0,,0,13,10,7,8,2,travel_rarely,1,No,No
+133,817.0,33,Male,3,Medical,0,3,Research Director,Research & Development,3,3.0,No,3,3,4,4.0,,0,11,13,3,7,3,Non-Travel,7,No,Yes
+134,901.0,53,Female,4,,6,4,Research Director,Unknown,3,3.0,No,4,4,3,3.0,,0,18,12,3,8,0,travel_rarely,23,No,Yes
+135,944.0,49,Female,2,Other,4,3,Laboratory Technician,Unknown,3,3.0,No,2,1,3,2.0,7403.0,1,11,26,1,7,3,travel_rarely,8,No,No
+136,984.0,35,Male,4,,6,3,Sales Executive,Unknown,3,3.0,No,4,21,2,3.0,,1,13,10,0,8,2,Non-Travel,21,No,No
+137,1088.0,38,Female,1,Life Sciences,0,3,Healthcare Representative,Unknown,2,3.0,No,3,3,1,2.0,8823.0,1,18,19,1,9,4,travel_rarely,17,No,No
+138,1124.0,46,Male,1,Marketing,3,4,Manager,Sales,3,3.0,No,3,1,4,3.0,,1,12,12,4,9,3,Non-Travel,3,No,No
+139,Unknown,36,Male,4,,2,2,Manufacturing Director,Unknown,3,4.0,No,4,1,1,3.0,,0,20,11,0,9,0,non-travel,18,No,No
+140,1167.0,42,Male,3,Life Sciences,0,4,Sales Executive,Unknown,3,,Yes,1,15,2,2.0,,0,12,21,13,14,2,travel_frequently,15,No,Yes
+141,1184.0,34,Male,3,,0,2,Healthcare Representative,Unknown,2,4.0,No,1,4,3,3.0,,0,20,13,4,9,3,travel_frequently,1,No,Yes
+142,Unknown,30,Male,3,Medical,0,1,Research Scientist,Research & Development,3,4.0,No,2,4,1,3.0,3579.0,1,21,11,5,7,2,travel_rarely,1,Yes,Yes
+143,Unknown,54,Male,3,Life Sciences,3,4,Research Director,Unknown,3,3.0,No,4,4,1,3.0,17779.0,0,14,10,0,9,2,travel_rarely,3,No,Yes
+144,1252.0,31,Female,3,Medical,1,2,Healthcare Representative,Unknown,2,,No,1,3,2,3.0,,0,19,10,1,8,2,travel_rarely,24,No,No
+145,1267.0,44,Male,3,,7,5,Manager,Unknown,3,3.0,No,2,2,3,3.0,18213.0,1,11,22,3,10,5,Non-Travel,5,No,Yes
+146,1278.0,55,Male,1,,1,4,Healthcare Representative,Unknown,2,3.0,No,2,4,4,3.0,13577.0,1,15,33,15,0,3,non-travel,8,Yes,No
+147,1288.0,44,Male,2,Life Sciences,1,5,Manager,Unknown,4,3.0,No,1,3,4,2.0,19190.0,2,14,25,14,13,4,travel_rarely,4,No,No
+148,Unknown,34,Male,3,Life Sciences,4,2,Human Resources,Human Resources,2,3.0,No,2,3,4,4.0,,2,11,10,1,8,5,travel_frequently,11,No,Yes
+149,1307.0,39,Female,4,,6,4,Manager,Unknown,2,3.0,No,2,3,4,3.0,17123.0,2,13,19,15,2,4,Non-Travel,13,Yes,No
+150,1336.0,55,Female,2,Medical,4,5,Manager,Unknown,1,,No,3,4,4,3.0,19187.0,1,14,19,9,11,5,travel_rarely,2,No,Yes
+151,1352.0,51,Male,3,Life Sciences,1,4,Manager,Unknown,3,3.0,No,2,3,2,3.0,,1,11,33,0,10,2,Non-Travel,5,No,Yes
+152,1360.0,58,Female,4,Medical,7,3,Manufacturing Director,Unknown,2,3.0,Yes,1,14,4,2.0,10008.0,0,14,10,5,9,0,Non-Travel,14,No,Yes
+153,Unknown,48,Male,3,Life Sciences,1,3,Manufacturing Director,Unknown,3,3.0,No,4,4,3,3.0,,0,11,10,0,8,2,Non-Travel,4,No,Yes
+154,1419.0,29,Male,3,,1,3,Human Resources,Human Resources,2,3.0,No,1,2,1,2.0,7988.0,0,13,10,0,9,3,travel_rarely,17,No,No
+155,1478.0,34,Male,3,Other,3,2,Sales Executive,Unknown,1,,No,1,4,4,3.0,,0,18,13,3,12,2,Non-Travel,3,No,Yes
+156,1480.0,42,Female,2,,1,1,Laboratory Technician,Unknown,3,3.0,No,4,1,3,3.0,,0,13,12,5,8,3,travel_frequently,9,No,Yes
+157,Unknown,57,Male,2,Life Sciences,0,2,Research Scientist,Unknown,4,4.0,No,3,2,1,2.0,,1,24,12,2,8,2,travel_rarely,1,No,Yes
+158,1489.0,34,Female,4,,0,2,Sales Executive,Unknown,2,4.0,Yes,2,1,3,4.0,,0,23,15,10,10,2,travel_rarely,24,Yes,No
+159,1520.0,54,Female,4,Medical,3,4,Manager,Unknown,3,,No,4,2,1,3.0,,1,20,14,1,12,2,travel_frequently,11,No,Yes
+160,1535.0,34,Male,3,,1,3,Sales Executive,Unknown,2,3.0,No,3,4,4,3.0,7083.0,0,14,10,8,6,3,travel_rarely,1,No,No
+161,1586.0,29,Male,1,Medical,1,1,Laboratory Technician,Unknown,3,3.0,No,1,2,4,,4723.0,0,18,10,1,5,3,Non-Travel,3,No,Yes
+162,1596.0,35,Male,3,Life Sciences,1,2,Laboratory Technician,Unknown,4,,No,3,2,4,2.0,3407.0,2,17,10,6,8,3,travel_rarely,28,No,Yes
+163,1667.0,35,Male,4,Other,3,2,Sales Executive,Unknown,3,4.0,Yes,4,4,1,4.0,,0,24,11,6,7,2,Non-Travel,12,No,Yes
+164,1701.0,34,Female,3,Life Sciences,1,1,Research Scientist,Unknown,2,3.0,No,4,2,2,3.0,2929.0,0,12,10,8,7,3,travel_rarely,19,No,Yes
+165,1706.0,43,Male,3,,1,2,Sales Executive,Unknown,3,3.0,No,4,4,1,3.0,,1,17,10,8,8,3,Non-Travel,2,Yes,No
+166,Unknown,58,Male,3,Medical,4,4,Manager,Unknown,3,4.0,No,2,2,4,2.0,,1,22,16,14,14,0,non-travel,2,No,Yes
+167,Unknown,36,Female,4,,1,2,Sales Executive,Sales,2,3.0,No,3,14,1,3.0,,1,13,10,1,7,4,travel_rarely,14,Yes,No
+168,1971.0,43,Male,3,Life Sciences,1,3,Healthcare Representative,Unknown,3,3.0,No,3,1,2,3.0,,1,17,10,0,9,1,travel_rarely,11,No,Yes
+169,Unknown,55,Male,4,Human Resources,4,5,Manager,Unknown,4,3.0,No,2,3,1,3.0,,1,18,10,1,4,0,Non-Travel,26,Yes,Yes
+170,1976.0,42,Male,2,,1,2,Research Scientist,Research & Development,2,3.0,No,3,4,4,3.0,,0,12,20,3,7,2,Non-Travel,23,No,Yes
+171,1985.0,40,Female,3,Technical Degree,1,2,Laboratory Technician,Unknown,3,,No,3,4,1,4.0,,1,11,10,9,4,2,Non-Travel,11,No,Yes
+172,2032.0,56,Male,2,Technical Degree,8,1,Laboratory Technician,Research & Development,3,3.0,Yes,3,4,4,1.0,,1,11,10,9,8,4,Non-Travel,7,No,Yes
+173,2056.0,39,Female,1,Marketing,0,4,Sales Executive,Unknown,2,3.0,No,4,33,1,2.0,12031.0,1,11,20,9,6,2,travel_rarely,33,No,Yes
+174,Unknown,53,Female,4,Life Sciences,2,4,Manager,Unknown,2,3.0,No,4,1,3,3.0,15427.0,0,16,25,3,7,3,travel_rarely,2,No,Yes
+175,Unknown,27,Male,3,,1,3,Sales Executive,Unknown,3,3.0,No,3,4,4,3.0,,0,15,9,1,7,0,travel_frequently,8,No,No
+176,57.0,30,Female,2,,1,2,Laboratory Technician,Unknown,3,4.0,No,4,3,4,,,0,23,12,3,7,2,travel_frequently,1,No,Yes
+177,Unknown,35,Male,5,Life Sciences,1,3,Sales Executive,Unknown,3,4.0,No,1,2,4,2.0,,1,22,9,1,8,3,Non-Travel,18,No,Yes
+178,78.0,32,Male,3,Medical,1,2,Manufacturing Director,Research & Development,3,4.0,No,4,1,2,3.0,6162.0,1,22,9,7,8,3,travel_rarely,1,Yes,Yes
+179,104.0,30,Male,1,Life Sciences,1,2,Laboratory Technician,Unknown,2,3.0,No,4,4,3,,5126.0,2,12,10,3,0,1,travel_rarely,1,No,No
+180,118.0,46,Male,2,Medical,1,3,Sales Executive,Sales,2,3.0,Yes,4,3,4,3.0,9619.0,0,16,9,4,7,3,Non-Travel,9,No,No
+181,121.0,30,Female,2,,1,2,Sales Executive,Unknown,2,3.0,No,2,3,2,2.0,,3,12,11,2,7,4,travel_rarely,4,Yes,No
+182,125.0,32,Male,4,,1,2,Sales Executive,Unknown,3,3.0,No,3,2,1,3.0,5010.0,0,16,11,5,7,0,Non-Travel,6,No,Yes
+183,Unknown,35,Male,5,Marketing,1,3,Sales Executive,Unknown,3,3.0,No,2,3,1,3.0,,2,13,10,0,6,3,travel_rarely,37,No,No
+184,207.0,32,Female,3,Marketing,1,3,Sales Executive,Unknown,3,3.0,No,4,2,4,3.0,,0,14,9,3,7,2,Non-Travel,8,No,Yes
+185,227.0,41,Male,3,Life Sciences,4,1,Research Scientist,Research & Development,3,3.0,No,3,1,1,3.0,,1,12,9,1,8,2,travel_rarely,34,No,Yes
+186,253.0,40,Female,1,Medical,1,5,Manager,Unknown,3,3.0,No,3,4,2,3.0,19033.0,1,14,20,9,9,2,travel_rarely,4,No,No
+187,264.0,45,Male,2,,9,4,Manager,Unknown,2,4.0,No,4,1,4,3.0,,1,23,20,11,8,1,Non-Travel,2,No,Yes
+188,291.0,32,Male,4,,1,3,Sales Executive,Unknown,1,3.0,Yes,4,4,3,2.0,10400.0,0,11,14,9,8,2,travel_rarely,4,No,No
+189,292.0,30,Male,1,Life Sciences,1,3,Manufacturing Director,Research & Development,2,4.0,No,3,3,3,3.0,,0,22,11,5,8,2,non-travel,1,No,Yes
+190,306.0,37,Male,3,,1,3,Research Director,Unknown,3,3.0,No,4,2,3,3.0,,3,14,10,0,7,1,Non-Travel,11,No,Yes
+191,Unknown,37,Male,4,,4,1,Sales Representative,Unknown,3,3.0,No,4,1,3,3.0,2793.0,1,17,9,5,8,2,Non-Travel,4,No,No
+192,335.0,40,Male,2,Technical Degree,1,2,Research Scientist,Unknown,3,3.0,No,4,1,1,3.0,,2,17,9,4,7,3,Non-Travel,24,No,No
+193,Unknown,36,Female,4,,7,2,Laboratory Technician,Unknown,3,3.0,No,2,2,3,3.0,5674.0,1,15,9,0,8,3,non-travel,24,No,Yes
+194,420.0,32,Male,3,Life Sciences,1,2,Sales Executive,Unknown,2,3.0,No,3,4,3,2.0,,1,14,13,4,8,3,travel_rarely,7,No,Yes
+195,421.0,38,Female,2,Life Sciences,3,3,Research Director,Unknown,2,3.0,No,2,1,3,3.0,,1,17,10,0,1,2,Non-Travel,25,No,Yes
+196,441.0,30,Female,2,,1,2,Research Scientist,Unknown,3,3.0,No,4,4,4,3.0,,2,13,10,1,9,2,travel_rarely,28,No,Yes
+197,531.0,39,Male,1,,1,5,Manager,Unknown,3,3.0,No,3,2,3,3.0,19197.0,1,14,21,1,6,3,Non-Travel,1,No,Yes
+198,549.0,60,Female,3,Life Sciences,5,5,Manager,Unknown,3,3.0,No,1,1,4,1.0,,0,11,29,11,10,5,Non-Travel,7,No,Yes
+199,567.0,30,Female,4,Other,0,3,Sales Executive,Unknown,3,3.0,No,1,3,3,3.0,8412.0,0,11,9,7,8,3,Non-Travel,22,No,Yes
+200,581.0,31,Male,1,,1,3,Manufacturing Director,Research & Development,3,4.0,No,2,3,4,4.0,,1,25,13,0,8,6,travel_rarely,9,No,Yes
+201,702.0,33,Male,3,Life Sciences,1,1,Research Scientist,Unknown,3,3.0,Yes,1,1,1,3.0,3348.0,0,11,10,9,7,3,Non-Travel,3,Yes,No
+202,716.0,50,Male,1,Medical,1,1,Laboratory Technician,Unknown,4,,No,3,4,3,3.0,,3,11,20,3,8,3,Non-Travel,28,Yes,Yes
+203,772.0,32,Male,4,Life Sciences,1,2,Laboratory Technician,Research & Development,3,,No,4,1,4,3.0,5309.0,2,15,10,4,7,2,Non-Travel,24,No,Yes
+204,836.0,42,Male,3,,1,2,Manufacturing Director,Unknown,3,3.0,No,2,2,4,2.0,,1,13,9,7,8,3,Non-Travel,29,No,Yes
+205,840.0,49,Female,3,Marketing,1,3,Sales Executive,Sales,3,3.0,Yes,4,3,1,4.0,7654.0,2,18,9,7,7,3,Non-Travel,11,No,No
+206,844.0,27,Male,1,,1,3,Research Director,Unknown,2,3.0,No,4,3,2,3.0,12808.0,1,16,9,0,8,3,Non-Travel,5,No,Yes
+207,Unknown,33,Male,3,Medical,1,2,Sales Executive,Unknown,4,,No,1,1,1,3.0,,1,22,9,0,8,5,travel_rarely,1,No,Yes
+208,867.0,52,Female,4,,3,4,Manufacturing Director,Research & Development,2,4.0,No,4,3,3,3.0,,0,22,9,0,0,3,Non-Travel,26,No,No
+209,889.0,32,Male,2,Life Sciences,1,2,Sales Executive,Unknown,3,3.0,No,2,2,4,3.0,,1,14,10,5,3,3,Non-Travel,5,No,Yes
+210,924.0,36,Male,1,Life Sciences,0,2,Healthcare Representative,Unknown,3,3.0,No,4,3,1,2.0,6586.0,1,17,16,4,11,2,Non-Travel,14,No,No
+211,Unknown,31,Female,2,,1,2,Sales Executive,Sales,3,3.0,No,3,4,4,2.0,,1,13,9,0,0,2,non-travel,20,No,No
+212,Unknown,36,Male,4,Medical,4,1,Laboratory Technician,Unknown,3,4.0,No,3,3,3,3.0,2519.0,0,21,11,3,9,6,travel_rarely,2,No,Yes
+213,976.0,52,Male,2,Life Sciences,2,4,Manager,Unknown,3,3.0,No,4,4,2,,17099.0,1,15,9,7,8,2,Non-Travel,1,No,Yes
+214,992.0,33,Male,3,,1,4,Manager,Unknown,3,3.0,No,3,4,4,3.0,,0,11,10,6,0,2,non-travel,17,No,No
+215,1002.0,45,Male,2,Life Sciences,1,2,Laboratory Technician,Unknown,3,3.0,No,1,4,3,3.0,,1,15,9,0,8,2,non-travel,23,Yes,Yes
+216,1073.0,36,Female,5,,0,3,Manufacturing Director,Research & Development,2,3.0,No,4,4,2,2.0,,0,11,14,7,8,2,travel_rarely,12,No,Yes
+217,1138.0,49,Male,4,,6,4,Sales Executive,Unknown,2,3.0,No,2,4,2,3.0,13120.0,1,17,9,2,3,3,Non-Travel,8,No,No
+218,Unknown,29,Female,1,,1,3,Sales Executive,Unknown,2,,Yes,1,4,1,1.0,,1,13,11,3,10,3,Non-Travel,23,No,Yes
+219,1192.0,29,Female,1,,1,1,Laboratory Technician,Unknown,3,3.0,No,4,2,1,3.0,3131.0,1,13,10,0,8,5,Non-Travel,6,No,No
+220,1196.0,37,Female,3,Life Sciences,1,2,Manufacturing Director,Research & Development,2,3.0,No,4,4,2,2.0,,1,13,14,3,11,2,Non-Travel,1,No,Yes
+221,Unknown,33,Male,5,,0,3,Sales Executive,Unknown,4,3.0,No,3,4,4,3.0,,2,14,9,0,8,3,travel_rarely,10,No,Yes
+222,Unknown,34,Female,3,Medical,4,2,Laboratory Technician,Unknown,3,3.0,No,2,3,3,4.0,4444.0,2,13,11,5,10,2,travel_frequently,19,No,Yes
+223,1315.0,28,Female,3,,0,2,Laboratory Technician,Unknown,1,3.0,No,4,3,1,3.0,6674.0,3,11,9,7,5,6,non-travel,1,No,Yes
+224,1324.0,31,Female,4,,1,3,Sales Executive,Unknown,3,3.0,No,3,4,1,2.0,9852.0,1,19,10,9,6,5,non-travel,2,Yes,Yes
+225,1334.0,42,Male,1,Life Sciences,0,4,Manager,Unknown,3,,No,3,3,4,2.0,17861.0,0,13,20,2,10,3,non-travel,2,Yes,No
+226,1346.0,40,Male,3,Life Sciences,1,2,Research Scientist,Unknown,3,3.0,No,4,3,3,3.0,,0,13,9,8,8,4,travel_rarely,2,No,Yes
+227,1356.0,34,Female,2,Medical,1,2,Sales Executive,Unknown,3,3.0,No,1,3,4,4.0,,0,12,10,9,6,6,Non-Travel,15,No,Yes
+228,1423.0,58,Female,3,,3,5,Research Director,Unknown,3,4.0,No,1,4,3,3.0,,1,21,9,1,5,3,travel_rarely,1,No,No
+229,1459.0,31,Female,5,,1,3,Manufacturing Director,Unknown,4,3.0,Yes,2,3,1,3.0,7446.0,0,11,10,4,7,2,travel_frequently,1,No,Yes
+230,Unknown,40,Male,1,,2,3,Research Director,Unknown,2,3.0,No,2,4,3,3.0,13757.0,1,11,9,4,8,5,non-travel,8,No,Yes
+231,1472.0,53,Male,3,Medical,4,4,Research Director,Unknown,4,3.0,No,2,4,2,2.0,16598.0,0,12,9,8,8,2,Non-Travel,2,No,Yes
+232,1485.0,34,Male,3,,7,4,Research Director,Research & Development,3,3.0,No,1,2,4,2.0,,2,14,14,6,9,3,Non-Travel,15,No,Yes
+233,Unknown,35,Female,3,Life Sciences,1,3,Healthcare Representative,Unknown,2,3.0,No,2,4,4,1.0,,0,19,11,3,3,3,travel_rarely,16,No,Yes
+234,1543.0,37,Male,3,,1,2,Research Scientist,Unknown,3,3.0,No,4,1,1,3.0,4285.0,0,17,10,3,7,2,Non-Travel,13,No,Yes
+235,1547.0,42,Male,3,,2,3,Healthcare Representative,Unknown,3,3.0,No,4,4,3,1.0,10124.0,1,14,20,13,9,3,travel_frequently,2,Yes,Yes
+236,1553.0,45,Male,4,,1,3,Healthcare Representative,Unknown,3,3.0,No,2,1,1,3.0,,3,12,10,7,7,4,Non-Travel,1,No,Yes
+237,1562.0,30,Male,3,,1,2,Sales Executive,Unknown,2,3.0,Yes,1,2,4,3.0,9714.0,1,11,10,6,7,4,travel_rarely,1,No,Yes
+238,1582.0,38,Male,3,Life Sciences,0,2,Sales Executive,Unknown,3,3.0,No,2,3,4,3.0,9924.0,1,11,9,7,7,3,travel_rarely,14,No,Yes
+239,1606.0,50,Male,5,Medical,2,4,Healthcare Representative,Unknown,3,3.0,No,3,2,3,3.0,11245.0,1,15,30,12,13,3,Non-Travel,20,No,No
+240,Unknown,39,Male,2,,0,2,Laboratory Technician,Unknown,2,3.0,No,3,3,4,,3069.0,1,15,10,0,7,3,travel_rarely,3,No,Yes
+241,1658.0,34,Female,3,,1,2,Research Scientist,Unknown,3,3.0,No,2,4,3,3.0,,1,12,11,7,9,2,travel_rarely,3,No,Yes
+242,1665.0,54,Female,5,,3,4,Manager,Research & Development,3,4.0,No,3,2,3,3.0,,1,25,10,4,7,6,travel_rarely,22,No,Yes
+243,Unknown,41,Male,3,Marketing,1,3,Sales Executive,Unknown,3,3.0,No,3,4,2,3.0,9241.0,0,12,10,8,7,3,travel_rarely,6,No,No
+244,1737.0,39,Male,3,Life Sciences,1,2,Laboratory Technician,Unknown,3,3.0,No,4,4,4,3.0,6472.0,1,15,9,5,8,2,Non-Travel,1,No,Yes
+245,Unknown,40,Male,4,,1,5,Manager,Unknown,3,3.0,No,2,2,2,2.0,,0,14,21,12,8,3,travel_rarely,7,No,No
+246,Unknown,33,Male,3,Technical Degree,5,2,Research Scientist,Unknown,3,,No,2,4,4,2.0,3055.0,2,15,9,1,7,2,Non-Travel,4,No,Yes
+247,1790.0,36,Male,3,Life Sciences,7,3,Healthcare Representative,Unknown,3,3.0,No,1,4,4,3.0,8321.0,1,13,12,5,7,1,Non-Travel,10,No,No
+248,Unknown,33,Male,4,Life Sciences,6,1,Research Scientist,Unknown,4,3.0,No,1,4,2,3.0,3143.0,1,19,10,7,6,1,Non-Travel,8,No,Yes
+249,1823.0,34,Male,2,,1,2,Sales Executive,Unknown,4,4.0,No,3,2,3,3.0,,2,21,10,4,8,5,travel_rarely,8,No,No
+250,Unknown,29,Male,1,Medical,1,1,Laboratory Technician,Research & Development,3,,No,4,4,2,4.0,,0,13,11,3,10,3,travel_frequently,46,No,No
+251,1857.0,46,Male,2,Life Sciences,3,3,Manufacturing Director,Unknown,3,3.0,No,4,4,3,2.0,8578.0,1,14,9,4,7,4,travel_rarely,2,No,Yes
+252,1864.0,27,Female,1,Medical,1,2,Sales Representative,Unknown,2,4.0,No,3,2,4,3.0,,1,21,9,5,8,5,travel_rarely,23,No,No
+253,1881.0,31,Male,3,Life Sciences,1,2,Laboratory Technician,Unknown,3,3.0,No,3,2,1,3.0,4197.0,1,11,10,0,2,2,Non-Travel,36,No,No
+254,1888.0,45,Female,2,Life Sciences,0,2,Manufacturing Director,Research & Development,2,,No,4,2,4,2.0,,2,13,9,3,8,2,travel_rarely,25,No,Yes
+255,1950.0,34,Male,3,Marketing,1,3,Sales Executive,Unknown,3,4.0,No,4,1,1,2.0,9888.0,0,21,14,2,1,3,travel_rarely,1,No,No
+256,Unknown,31,Male,3,Life Sciences,1,2,Research Scientist,Research & Development,1,,No,1,4,2,3.0,,0,21,10,8,7,6,Non-Travel,1,No,Yes
+257,1962.0,35,Female,4,,1,2,Sales Executive,Unknown,3,3.0,No,4,3,4,3.0,,0,11,10,0,9,2,Non-Travel,7,Yes,No
+258,1975.0,39,Male,4,Marketing,0,4,Sales Executive,Unknown,3,3.0,No,1,2,1,3.0,13341.0,0,12,20,11,10,3,travel_rarely,15,No,No
+259,1986.0,40,Female,2,Marketing,3,2,Sales Executive,Unknown,3,3.0,No,2,2,3,3.0,5677.0,1,14,11,5,10,4,travel_rarely,2,No,Yes
+260,Unknown,30,Male,2,Medical,1,1,Laboratory Technician,Unknown,3,3.0,No,2,4,3,2.0,,0,13,12,1,7,6,travel_rarely,1,No,No
+261,2000.0,47,Female,1,,0,3,Research Director,Research & Development,3,3.0,No,2,3,1,1.0,,2,18,13,5,12,3,Non-Travel,1,No,Yes
+262,Unknown,52,Male,4,,2,1,Sales Representative,Unknown,3,3.0,No,4,1,2,,,2,15,9,0,0,3,non-travel,29,No,Yes
+263,2.0,49,Male,1,,1,2,Research Scientist,Unknown,2,4.0,No,2,3,4,3.0,,1,23,10,1,7,3,travel_frequently,8,No,Yes
+264,5.0,33,Female,4,Life Sciences,1,1,Research Scientist,Unknown,3,3.0,No,3,19,3,3.0,2909.0,0,11,8,3,0,3,travel_frequently,19,No,Yes
+265,Unknown,32,Male,2,Life Sciences,0,1,Laboratory Technician,Unknown,3,3.0,No,4,4,3,2.0,,0,13,7,3,6,2,Non-Travel,2,No,Yes
+266,Unknown,38,Male,3,,0,3,Manufacturing Director,Research & Development,2,4.0,No,3,4,2,3.0,9526.0,0,21,9,1,8,2,travel_frequently,23,No,Yes
+267,Unknown,36,Male,3,Medical,6,2,Healthcare Representative,Research & Development,3,3.0,No,3,3,2,2.0,,2,13,7,7,7,3,travel_rarely,27,No,Yes
+268,35.0,42,Male,4,,0,2,Sales Executive,Unknown,3,,No,2,3,4,3.0,6825.0,1,11,9,4,2,2,Non-Travel,8,No,No
+269,76.0,31,Male,4,Life Sciences,3,2,Laboratory Technician,Research & Development,3,4.0,No,4,4,4,2.0,,1,22,7,1,7,3,Non-Travel,7,No,No
+270,98.0,31,Female,4,,1,2,Manufacturing Director,Unknown,3,4.0,No,4,3,4,3.0,4424.0,0,23,11,1,8,2,travel_rarely,8,No,No
+271,120.0,51,Male,4,Marketing,0,2,Sales Executive,Unknown,3,4.0,No,4,3,4,1.0,5441.0,0,22,10,1,0,2,Non-Travel,21,No,Yes
+272,147.0,34,Male,3,,1,2,Laboratory Technician,Unknown,1,4.0,Yes,3,1,4,,6074.0,0,24,9,0,6,3,travel_frequently,7,Yes,Yes
+273,154.0,36,Female,2,Technical Degree,0,3,Sales Executive,Unknown,3,3.0,No,4,2,3,3.0,,1,14,9,2,8,6,Non-Travel,11,No,No
+274,159.0,30,Male,3,,1,1,Research Scientist,Unknown,1,4.0,No,3,1,3,2.0,,3,25,10,0,9,2,travel_frequently,23,No,No
+275,160.0,33,Male,2,,0,2,Sales Executive,Unknown,3,3.0,No,2,12,1,4.0,6146.0,1,13,7,0,7,2,non-travel,12,No,Yes
+276,163.0,31,Male,4,Life Sciences,4,2,Sales Executive,Unknown,1,3.0,Yes,3,2,2,2.0,6172.0,0,18,7,7,7,3,Non-Travel,6,No,No
+277,176.0,41,Male,1,,3,3,Sales Executive,Unknown,3,3.0,No,3,3,3,3.0,,1,13,9,0,7,2,travel_rarely,23,Yes,No
+278,177.0,26,Female,1,,1,1,Human Resources,Unknown,3,4.0,No,3,3,4,3.0,,1,23,8,5,7,3,travel_rarely,25,No,Yes
+279,195.0,32,Male,2,,0,2,Sales Executive,Unknown,1,3.0,No,4,4,4,4.0,4668.0,3,17,8,0,7,2,Non-Travel,9,No,Yes
+280,202.0,40,Female,3,,1,2,Research Scientist,Unknown,3,3.0,No,2,2,1,3.0,5605.0,1,11,20,2,13,2,travel_frequently,26,No,No
+281,205.0,53,Male,2,Marketing,2,2,Sales Representative,Sales,3,4.0,No,3,2,4,1.0,,1,20,7,4,5,3,travel_rarely,6,Yes,Yes
+282,Unknown,29,Male,1,Technical Degree,1,2,Manufacturing Director,Research & Development,3,3.0,No,3,4,1,3.0,4319.0,1,13,10,0,9,1,non-travel,1,No,No
+283,Unknown,36,Male,2,,4,1,Laboratory Technician,Research & Development,3,,No,2,4,3,2.0,,0,12,8,7,2,3,travel_frequently,3,No,Yes
+284,252.0,33,Female,3,,1,1,Research Scientist,Research & Development,3,3.0,No,2,4,4,3.0,,1,13,8,1,6,5,travel_rarely,14,No,Yes
+285,258.0,51,Female,3,,3,4,Healthcare Representative,Unknown,3,3.0,No,2,4,3,3.0,,0,18,7,1,0,6,travel_rarely,3,No,No
+286,260.0,27,Female,3,Medical,1,1,Research Scientist,Unknown,3,3.0,No,2,4,4,2.0,,0,16,7,0,3,2,travel_rarely,9,No,No
+287,267.0,37,Male,3,Life Sciences,1,1,Research Scientist,Unknown,4,3.0,No,1,2,1,2.0,3564.0,1,12,8,1,7,3,Non-Travel,21,Yes,Yes
+288,Unknown,38,Male,3,,3,2,Manufacturing Director,Unknown,3,3.0,No,4,4,1,1.0,6261.0,1,18,7,1,7,3,Non-Travel,29,No,Yes
+289,275.0,49,Male,4,,1,2,Manufacturing Director,Unknown,3,3.0,No,4,4,1,3.0,6804.0,2,15,7,1,7,0,non-travel,18,Yes,No
+290,293.0,27,Female,3,Life Sciences,1,2,Sales Executive,Unknown,3,3.0,No,3,4,4,3.0,,0,14,7,0,7,2,Non-Travel,20,No,No
+291,302.0,45,Female,3,Medical,6,3,Sales Executive,Sales,2,3.0,No,4,4,4,3.0,,0,12,19,12,8,2,Non-Travel,6,No,Yes
+292,314.0,35,Female,3,,1,3,Sales Executive,Unknown,3,3.0,No,3,3,1,4.0,,0,14,10,0,8,3,Non-Travel,1,No,Yes
+293,Unknown,33,Female,2,,7,1,Laboratory Technician,Unknown,3,,Yes,1,1,1,4.0,,0,20,9,1,7,3,travel_rarely,2,No,Yes
+294,329.0,52,Male,4,Life Sciences,1,5,Manager,Unknown,2,3.0,No,3,1,4,4.0,,0,18,33,15,12,2,Non-Travel,2,Yes,Yes
+295,Unknown,40,Male,2,Medical,0,5,Research Director,Research & Development,3,3.0,No,3,1,4,3.0,19436.0,1,19,21,3,9,5,Non-Travel,2,No,Yes
+296,361.0,38,Male,2,Life Sciences,3,2,Sales Executive,Sales,2,3.0,No,4,4,4,3.0,,1,18,8,7,5,0,non-travel,2,No,Yes
+297,363.0,46,Female,3,,3,4,Manager,Unknown,1,3.0,No,2,27,2,2.0,,1,12,7,7,7,2,Non-Travel,27,Yes,No
+298,Unknown,45,Male,2,Medical,0,4,Healthcare Representative,Unknown,3,3.0,No,4,3,2,3.0,,0,14,20,4,10,2,travel_rarely,20,Yes,Yes
+300,381.0,35,Female,3,Life Sciences,7,3,Manager,Unknown,4,,No,2,2,2,2.0,,1,18,7,6,2,6,Non-Travel,22,No,No
+301,388.0,29,Male,2,,1,2,Sales Executive,Unknown,3,3.0,No,4,2,1,,,0,18,10,0,9,3,travel_frequently,2,No,Yes
+307,Unknown,32,Female,4,Medical,7,2,Research Scientist,Unknown,4,3.0,No,4,1,3,2.0,5055.0,0,16,7,0,7,0,Non-Travel,2,No,Yes
+308,446.0,33,Male,3,,3,2,Sales Executive,Unknown,2,3.0,No,4,2,3,2.0,4682.0,0,14,7,0,1,6,Non-Travel,10,No,No
+309,448.0,43,Female,4,Life Sciences,1,2,Laboratory Technician,Research & Development,2,,No,3,3,2,4.0,5257.0,1,11,9,0,0,3,travel_frequently,10,No,No
+310,454.0,29,Male,4,,1,1,Laboratory Technician,Unknown,1,3.0,Yes,1,2,4,2.0,2119.0,0,11,7,0,7,4,travel_rarely,8,No,No
+311,458.0,27,Female,4,,1,2,Sales Executive,Sales,3,3.0,No,2,2,1,3.0,,1,18,8,0,7,3,Non-Travel,8,No,No
+312,Unknown,29,Female,1,,1,2,Sales Executive,Unknown,2,3.0,No,2,4,1,3.0,,2,14,7,1,7,2,travel_rarely,10,Yes,No
+313,Unknown,37,Male,3,Medical,4,2,Research Scientist,Unknown,4,3.0,No,1,3,1,3.0,5974.0,2,13,7,6,7,2,Non-Travel,6,No,No
+315,483.0,40,Female,4,Life Sciences,3,1,Laboratory Technician,Unknown,4,3.0,No,3,4,3,3.0,,1,13,7,1,7,3,travel_rarely,10,Yes,Yes
+316,488.0,41,Male,3,,1,2,Sales Executive,Unknown,3,3.0,Yes,2,1,3,3.0,,0,18,8,7,7,5,Non-Travel,4,No,No
+318,Unknown,37,Female,3,,1,1,Laboratory Technician,Unknown,3,3.0,No,1,4,3,2.0,3034.0,1,12,18,12,17,2,Non-Travel,14,No,No
+319,Unknown,56,Female,3,Life Sciences,9,4,Sales Executive,Unknown,4,3.0,No,1,3,4,2.0,13212.0,3,11,7,7,7,0,Non-Travel,6,No,Yes
+320,534.0,41,Male,3,Marketing,1,3,Sales Executive,Sales,4,3.0,No,1,2,3,3.0,8392.0,1,16,10,0,7,2,travel_rarely,1,No,Yes
+321,Unknown,46,Female,3,Medical,2,2,Manufacturing Director,Unknown,3,3.0,No,3,3,3,2.0,,1,14,10,0,8,5,Non-Travel,18,No,No
+322,Unknown,30,Female,3,,0,1,Laboratory Technician,Unknown,3,3.0,No,4,3,3,2.0,,0,14,11,6,7,2,non-travel,2,No,No
+323,586.0,35,Male,3,Life Sciences,4,3,Healthcare Representative,Unknown,3,3.0,No,3,4,3,3.0,,0,12,8,0,0,2,travel_rarely,16,Yes,No
+324,595.0,48,Female,5,,2,2,Sales Executive,Unknown,3,3.0,No,4,2,1,3.0,4051.0,1,14,9,6,7,2,travel_rarely,2,No,Yes
+325,Unknown,45,Male,3,Other,0,2,Sales Executive,Unknown,3,3.0,No,2,4,2,4.0,4805.0,1,19,8,3,7,3,travel_rarely,2,No,Yes
+326,608.0,26,Female,4,Life Sciences,0,1,Human Resources,Unknown,3,3.0,Yes,3,2,2,,2741.0,1,11,7,1,0,2,travel_frequently,17,Yes,Yes
+327,616.0,41,Female,4,Other,2,2,Healthcare Representative,Unknown,2,3.0,No,3,1,1,3.0,,0,17,8,0,7,3,Non-Travel,2,Yes,Yes
+329,653.0,31,Male,4,Medical,4,2,Sales Executive,Unknown,4,4.0,No,4,1,4,4.0,,2,22,7,5,7,4,travel_rarely,6,No,Yes
+330,663.0,43,Male,5,,3,2,Laboratory Technician,Unknown,3,3.0,No,3,4,2,3.0,,1,13,8,4,7,3,travel_frequently,9,No,No
+331,682.0,53,Female,1,,7,2,Sales Executive,Sales,3,4.0,No,1,4,4,4.0,,0,20,14,8,10,2,Non-Travel,1,No,No
+332,Unknown,37,Male,3,Other,1,3,Manufacturing Director,Unknown,3,,No,3,3,3,3.0,9434.0,1,15,10,7,8,2,travel_rarely,3,No,Yes
+333,Unknown,54,Male,4,,2,3,Human Resources,Unknown,3,,No,2,3,3,4.0,,1,15,9,7,1,1,Non-Travel,19,No,Yes
+334,Unknown,38,Female,4,Marketing,0,2,Sales Executive,Sales,2,,No,4,4,1,3.0,,0,20,7,0,5,2,travel_rarely,7,No,Yes
+335,710.0,29,Male,4,Life Sciences,1,1,Research Scientist,Research & Development,1,3.0,No,4,2,4,3.0,,1,18,10,2,8,5,Non-Travel,1,No,Yes
+336,717.0,34,Female,3,Medical,1,3,Healthcare Representative,Unknown,2,3.0,No,2,4,2,4.0,,0,14,8,7,7,3,Non-Travel,9,No,No
+337,721.0,39,Female,4,Technical Degree,1,2,Healthcare Representative,Unknown,2,3.0,No,3,4,1,3.0,,0,11,20,11,10,4,Non-Travel,2,No,No
+338,722.0,32,Male,3,Marketing,1,2,Sales Executive,Unknown,3,3.0,No,4,4,4,2.0,5396.0,0,12,10,0,8,2,Non-Travel,10,No,Yes
+340,725.0,27,Female,2,Life Sciences,1,3,Manufacturing Director,Unknown,3,3.0,No,1,3,4,3.0,,0,11,9,0,7,3,travel_rarely,1,No,No
+341,Unknown,32,Female,2,Life Sciences,3,3,Research Director,Unknown,3,3.0,No,4,3,4,3.0,11159.0,0,15,7,7,7,6,travel_rarely,3,No,No
+343,733.0,27,Male,2,,1,3,Manufacturing Director,Unknown,3,4.0,No,1,4,3,2.0,8793.0,2,21,9,1,7,4,travel_frequently,10,No,Yes
+344,734.0,41,Male,3,,1,5,Manager,Unknown,2,,No,3,4,2,3.0,19189.0,1,12,22,2,10,3,Non-Travel,1,No,No
+345,Unknown,28,Female,2,,7,1,Research Scientist,Research & Development,1,3.0,Yes,2,35,4,3.0,2216.0,0,13,7,3,7,4,Non-Travel,35,Yes,Yes
+346,742.0,36,Female,3,,9,3,Research Director,Research & Development,4,3.0,No,1,1,1,3.0,11713.0,1,14,8,0,5,2,Non-Travel,8,No,No
+348,762.0,56,Male,3,,7,4,Healthcare Representative,Unknown,3,3.0,No,4,3,3,2.0,11103.0,0,11,10,1,1,1,travel_rarely,9,No,No
+349,783.0,45,Male,2,,0,2,Sales Representative,Unknown,1,3.0,No,3,2,1,3.0,6632.0,0,13,8,3,1,3,travel_rarely,2,No,Yes
+350,789.0,36,Male,4,,1,3,Sales Executive,Unknown,2,3.0,No,1,1,2,3.0,7587.0,0,15,10,0,9,1,non-travel,8,No,No
+351,793.0,29,Female,3,Medical,4,2,Healthcare Representative,Unknown,3,3.0,No,3,2,1,2.0,4335.0,1,12,8,1,1,3,Non-Travel,27,No,Yes
+353,Unknown,40,Female,2,Medical,1,2,Healthcare Representative,Unknown,4,4.0,No,2,13,4,3.0,4244.0,1,24,8,3,7,2,Non-Travel,13,No,Yes
+354,809.0,42,Male,3,,1,5,Manager,Unknown,3,3.0,No,4,2,2,2.0,,1,13,24,14,9,4,travel_frequently,8,No,Yes
+355,823.0,36,Female,3,Other,0,2,Manufacturing Director,Unknown,3,3.0,No,2,3,1,3.0,5228.0,1,15,9,0,5,2,travel_rarely,1,No,No
+356,Unknown,29,Male,2,,1,1,Research Scientist,Unknown,4,4.0,No,3,3,3,3.0,2700.0,1,24,10,0,7,3,travel_rarely,23,No,Yes
+357,842.0,55,Male,1,Medical,4,2,Sales Executive,Unknown,3,3.0,Yes,4,3,3,2.0,,0,16,9,7,3,3,Non-Travel,2,No,No
+358,Unknown,28,Female,4,,1,2,Sales Executive,Sales,3,4.0,No,2,2,1,3.0,,0,20,8,7,5,2,Non-Travel,2,No,Yes
+359,Unknown,26,Female,2,Medical,1,1,Research Scientist,Unknown,2,3.0,Yes,3,3,1,3.0,2366.0,1,14,8,1,7,2,Non-Travel,5,No,Yes
+361,927.0,41,Female,4,Life Sciences,4,1,Laboratory Technician,Research & Development,1,3.0,Yes,4,2,3,2.0,,1,13,7,1,0,1,Non-Travel,2,Yes,Yes
+362,941.0,31,Male,4,,3,1,Sales Representative,Unknown,2,,No,3,2,2,4.0,2329.0,0,15,7,5,2,2,travel_rarely,7,No,No
+364,Unknown,31,Female,3,Medical,0,2,Healthcare Representative,Unknown,3,3.0,No,4,4,3,1.0,,2,11,9,8,5,2,Non-Travel,12,No,No
+365,966.0,32,Female,4,Medical,1,2,Manufacturing Director,Unknown,3,3.0,No,1,3,3,4.0,6725.0,1,12,8,6,3,2,Non-Travel,3,No,No
+366,967.0,36,Male,1,Life Sciences,1,3,Sales Executive,Unknown,2,,Yes,4,3,1,3.0,10325.0,1,11,16,3,7,6,travel_rarely,3,No,No
+368,Unknown,39,Male,5,,0,3,Sales Executive,Unknown,4,3.0,No,3,1,4,3.0,,0,18,8,0,7,3,travel_rarely,2,No,No
+369,990.0,36,Male,4,Technical Degree,4,2,Sales Executive,Unknown,3,,No,4,1,4,3.0,,2,13,7,0,7,3,non-travel,8,No,Yes
+370,Unknown,46,Male,2,Medical,6,3,Manufacturing Director,Unknown,3,3.0,No,3,4,2,3.0,10845.0,1,13,8,0,7,3,Non-Travel,7,No,No
+371,1013.0,54,Female,3,Technical Degree,8,3,Manufacturing Director,Unknown,3,,No,3,3,3,3.0,,1,11,10,0,8,2,travel_rarely,17,No,Yes
+372,1015.0,30,Female,2,,0,3,Research Director,Unknown,4,3.0,No,1,2,3,2.0,,3,12,8,1,7,4,travel_rarely,8,Yes,Yes
+373,1018.0,26,Male,2,Medical,1,2,Manufacturing Director,Unknown,4,3.0,No,4,4,2,3.0,5472.0,0,12,8,1,3,2,Non-Travel,2,No,No
+374,1034.0,55,Male,4,Medical,3,2,Healthcare Representative,Unknown,3,3.0,No,2,3,4,3.0,6385.0,2,14,8,6,7,3,travel_frequently,18,No,Yes
+375,Unknown,50,Female,3,Life Sciences,0,2,Sales Executive,Sales,3,3.0,No,3,4,1,3.0,6347.0,1,12,18,0,13,3,non-travel,1,No,Yes
+376,1046.0,32,Female,4,,9,1,Laboratory Technician,Unknown,3,3.0,No,3,4,2,3.0,,0,12,8,7,7,2,non-travel,29,No,Yes
+377,1050.0,53,Female,3,Marketing,2,3,Sales Executive,Unknown,2,3.0,No,2,3,1,,7525.0,1,12,15,6,12,2,travel_frequently,2,No,Yes
+378,Unknown,40,Male,3,,1,2,Sales Executive,Unknown,3,3.0,No,1,3,2,2.0,,1,14,7,7,5,3,travel_rarely,26,No,No
+379,1074.0,55,Male,1,,7,4,Manager,Unknown,2,3.0,No,1,3,2,4.0,,0,15,9,6,2,3,Non-Travel,2,No,Yes
+380,1082.0,28,Male,2,,1,3,Healthcare Representative,Unknown,2,3.0,Yes,1,2,1,2.0,,0,12,10,1,9,2,non-travel,24,No,No
+381,1097.0,28,Female,3,Other,3,2,Research Scientist,Unknown,3,3.0,No,3,3,4,4.0,3660.0,0,13,8,1,7,4,travel_rarely,10,No,Yes
+382,1100.0,35,Male,3,Technical Degree,0,3,Sales Executive,Unknown,3,4.0,Yes,1,4,1,3.0,,0,22,8,4,7,2,Non-Travel,4,No,Yes
+383,1101.0,33,Female,4,Medical,1,2,Research Scientist,Research & Development,2,4.0,Yes,3,36,2,3.0,,0,22,13,3,8,4,travel_frequently,36,No,Yes
+384,1106.0,25,Male,1,Technical Degree,1,1,Laboratory Technician,Research & Development,3,,Yes,4,4,2,4.0,,1,15,7,5,6,3,Non-Travel,4,No,Yes
+385,1119.0,38,Male,4,,0,3,Sales Executive,Sales,2,3.0,No,3,3,2,,8740.0,2,14,8,2,7,2,Non-Travel,10,Yes,Yes
+386,Unknown,28,Female,3,,0,3,Manufacturing Director,Unknown,3,3.0,No,2,12,2,2.0,,3,17,9,1,7,3,Non-Travel,12,No,Yes
+387,1126.0,43,Female,3,Life Sciences,8,3,Manufacturing Director,Unknown,3,3.0,No,1,3,3,3.0,,1,11,8,0,1,1,travel_frequently,27,No,No
+388,Unknown,39,Male,3,Life Sciences,7,4,Healthcare Representative,Research & Development,3,3.0,Yes,4,1,4,3.0,,3,11,18,11,5,4,travel_frequently,2,No,No
+389,1128.0,40,Male,3,,1,5,Research Director,Unknown,2,,No,3,3,1,,,0,14,20,4,9,2,travel_rarely,14,No,Yes
+390,Unknown,29,Male,1,Medical,1,2,Manufacturing Director,Unknown,2,3.0,No,4,2,3,2.0,,1,15,10,1,2,2,travel_rarely,8,No,Yes
+391,Unknown,40,Female,4,,9,3,Research Director,Unknown,3,3.0,No,3,2,3,2.0,13499.0,0,17,18,2,13,3,Non-Travel,32,No,No
+392,1177.0,26,Male,4,,1,1,Laboratory Technician,Unknown,4,4.0,No,4,1,2,3.0,,1,22,8,0,7,2,travel_rarely,3,No,Yes
+393,1182.0,35,Male,3,,2,3,Manufacturing Director,Unknown,2,3.0,No,2,3,2,4.0,,1,18,7,6,4,2,travel_rarely,2,No,Yes
+394,1201.0,53,Female,2,Medical,3,5,Manager,Research & Development,3,3.0,No,3,4,2,3.0,,1,18,7,4,7,6,Non-Travel,7,No,No
+395,1218.0,35,Male,4,Life Sciences,3,2,Sales Executive,Unknown,3,3.0,No,1,3,4,3.0,,3,15,7,1,7,2,Non-Travel,17,No,Yes
+396,1220.0,33,Female,3,Medical,1,2,Sales Executive,Unknown,3,3.0,No,3,2,1,2.0,,1,12,10,0,1,3,Non-Travel,25,No,Yes
+397,Unknown,36,Male,4,Life Sciences,1,1,Laboratory Technician,Research & Development,1,3.0,No,3,3,3,3.0,,1,14,7,1,7,4,Non-Travel,6,No,Yes
+398,1224.0,30,Male,4,Life Sciences,1,2,Laboratory Technician,Unknown,3,,No,3,3,1,2.0,3491.0,3,13,10,8,9,4,travel_rarely,7,No,Yes
+399,Unknown,60,Male,4,,0,2,Sales Executive,Unknown,4,3.0,No,4,29,2,3.0,5220.0,1,18,11,1,9,3,Non-Travel,29,No,Yes
+400,1235.0,32,Female,2,Life Sciences,4,2,Research Scientist,Unknown,3,3.0,No,3,4,4,3.0,,0,14,8,0,7,2,Non-Travel,2,Yes,No
+401,1237.0,36,Female,3,Technical Degree,2,3,Manufacturing Director,Unknown,1,4.0,No,1,3,3,3.0,10252.0,1,21,7,7,7,2,Non-Travel,1,Yes,Yes
+402,Unknown,27,Male,3,,1,1,Research Scientist,Unknown,3,3.0,No,1,1,4,2.0,,2,14,9,6,8,3,travel_rarely,14,No,Yes
+403,1255.0,43,Male,3,Life Sciences,3,5,Research Director,Research & Development,1,3.0,No,4,3,2,3.0,19740.0,1,14,8,0,7,2,Non-Travel,3,No,Yes
+404,1264.0,29,Female,3,,3,4,Research Director,Unknown,2,3.0,No,4,4,2,2.0,,2,14,7,1,7,2,travel_rarely,1,No,Yes
+405,1283.0,59,Male,4,,6,3,Manufacturing Director,Unknown,3,3.0,No,4,24,4,2.0,,0,12,9,5,4,6,Non-Travel,24,No,No
+406,1293.0,43,Female,4,Marketing,3,3,Sales Executive,Unknown,2,3.0,No,4,4,4,4.0,,0,14,21,15,17,3,travel_rarely,4,No,Yes
+407,1295.0,44,Female,3,Medical,1,3,Healthcare Representative,Unknown,3,3.0,Yes,4,1,4,3.0,,1,11,10,0,5,2,travel_rarely,15,No,Yes
+408,Unknown,29,Female,3,Technical Degree,3,1,Laboratory Technician,Research & Development,3,3.0,Yes,3,2,1,3.0,,2,13,7,7,7,2,Non-Travel,7,Yes,Yes
+409,Unknown,32,Male,3,,1,2,Sales Executive,Unknown,4,3.0,No,4,3,3,4.0,6209.0,2,15,10,0,8,4,travel_rarely,8,No,No
+410,Unknown,36,Female,4,Technical Degree,3,3,Healthcare Representative,Unknown,3,3.0,No,3,4,1,3.0,7094.0,0,12,7,1,7,0,travel_rarely,10,No,Yes
+411,Unknown,52,Male,3,,9,3,Sales Executive,Sales,3,3.0,Yes,2,2,3,2.0,,0,19,8,7,7,2,Non-Travel,5,Yes,Yes
+412,1322.0,39,Male,2,,0,2,Manufacturing Director,Unknown,3,3.0,No,3,1,1,,4534.0,0,11,8,1,7,6,travel_rarely,33,No,Yes
+413,1344.0,34,Male,3,,0,3,Healthcare Representative,Unknown,3,,No,4,4,4,2.0,8500.0,1,11,9,1,6,0,Non-Travel,9,No,Yes
+414,1355.0,38,Female,2,Life Sciences,3,2,Sales Executive,Unknown,3,3.0,No,1,2,4,3.0,,1,15,7,1,7,3,Non-Travel,2,No,Yes
+415,1362.0,36,Female,3,Marketing,2,2,Sales Executive,Sales,4,3.0,No,1,12,4,2.0,4639.0,1,16,15,6,13,2,travel_frequently,12,No,Yes
+416,1369.0,35,Female,3,,0,2,Laboratory Technician,Unknown,2,3.0,No,4,4,2,3.0,5363.0,1,12,9,0,0,0,Non-Travel,1,No,No
+417,Unknown,55,Male,4,,6,4,Sales Executive,Unknown,4,3.0,Yes,3,1,3,2.0,,0,17,19,3,8,2,Non-Travel,13,No,Yes
+418,1377.0,34,Male,3,,4,2,Laboratory Technician,Unknown,3,3.0,No,3,2,1,3.0,,2,13,8,7,7,1,Non-Travel,29,No,No
+419,1402.0,43,Female,3,Medical,1,2,Research Scientist,Unknown,2,3.0,No,3,1,1,1.0,4081.0,0,14,20,1,8,3,Non-Travel,6,Yes,No
+420,1408.0,42,Female,3,Human Resources,0,4,Manager,Unknown,3,3.0,No,1,3,3,3.0,,1,14,20,0,9,5,travel_rarely,10,No,No
+421,1417.0,26,Male,3,,0,1,Laboratory Technician,Unknown,4,3.0,No,1,3,4,3.0,3578.0,0,12,7,0,7,2,travel_rarely,7,No,Yes
+422,1421.0,29,Female,1,Other,0,3,Healthcare Representative,Unknown,3,3.0,Yes,4,3,1,3.0,,0,12,8,7,7,1,Non-Travel,14,Yes,Yes
+423,1422.0,54,Female,3,,6,4,Research Director,Research & Development,3,3.0,No,4,4,4,2.0,17328.0,0,19,20,12,7,3,Non-Travel,1,No,No
+424,1424.0,55,Male,4,,2,4,Research Director,Unknown,4,3.0,No,4,2,4,4.0,,2,13,7,0,0,4,Non-Travel,1,No,Yes
+425,Unknown,40,Male,4,Other,3,2,Laboratory Technician,Unknown,3,3.0,No,3,3,3,,,2,11,8,0,7,2,non-travel,9,No,Yes
+426,Unknown,31,Male,2,,1,3,Sales Executive,Unknown,3,,No,4,1,1,3.0,10793.0,1,18,13,9,9,5,Non-Travel,8,No,Yes
+427,1457.0,46,Male,3,Marketing,4,3,Sales Executive,Unknown,3,3.0,Yes,4,1,1,4.0,,1,11,7,4,3,1,Non-Travel,9,No,Yes
+428,1460.0,45,Male,3,Medical,2,3,Healthcare Representative,Unknown,1,3.0,No,1,2,2,3.0,10851.0,1,18,7,0,7,2,travel_rarely,20,Yes,No
+429,1484.0,49,Male,4,Life Sciences,3,3,Healthcare Representative,Unknown,3,3.0,No,2,3,2,3.0,10466.0,2,14,8,0,7,3,travel_rarely,7,No,No
+430,1497.0,29,Male,3,,1,2,Sales Executive,Unknown,2,3.0,No,3,3,3,3.0,,2,14,10,0,4,3,travel_rarely,19,No,Yes
+431,1522.0,29,Male,4,Technical Degree,6,1,Research Scientist,Unknown,2,3.0,Yes,1,1,3,1.0,2362.0,0,13,9,0,7,2,Non-Travel,1,No,Yes
+432,1544.0,29,Female,1,Other,3,2,Healthcare Representative,Unknown,1,3.0,No,1,3,3,3.0,,1,13,7,0,7,3,Non-Travel,8,No,Yes
+433,Unknown,40,Male,2,,1,4,Manager,Human Resources,3,4.0,No,4,3,4,3.0,,0,21,21,7,7,2,travel_rarely,6,Yes,Yes
+434,Unknown,48,Female,4,Life Sciences,8,2,Sales Executive,Sales,3,3.0,No,3,3,3,,6439.0,1,14,8,7,7,2,Non-Travel,16,No,Yes
+435,1572.0,53,Female,5,,0,3,Manufacturing Director,Unknown,2,3.0,Yes,4,3,2,3.0,,1,16,33,1,9,4,Non-Travel,2,No,Yes
+436,1608.0,44,Female,3,Medical,0,5,Research Director,Unknown,3,,No,4,2,4,2.0,,1,14,22,1,10,4,Non-Travel,7,Yes,No
+437,1611.0,45,Female,5,,1,2,Laboratory Technician,Unknown,1,3.0,No,1,3,1,3.0,5769.0,0,14,10,1,4,3,Non-Travel,5,No,No
+438,1612.0,45,Male,3,Marketing,1,2,Sales Executive,Unknown,2,,No,1,1,1,,4385.0,1,15,10,4,5,2,non-travel,26,No,No
+439,1615.0,34,Male,4,,1,2,Manufacturing Director,Unknown,4,3.0,No,4,3,1,,,1,13,9,7,2,3,travel_frequently,10,No,Yes
+440,Unknown,39,Male,5,Medical,2,2,Manufacturing Director,Research & Development,3,3.0,No,1,2,4,3.0,,3,13,7,7,7,3,Non-Travel,10,No,No
+441,1619.0,27,Male,3,,1,1,Laboratory Technician,Research & Development,2,3.0,No,1,36,1,3.0,4066.0,2,11,7,0,7,3,Non-Travel,36,No,Yes
+442,1635.0,45,Female,2,,1,2,Manufacturing Director,Unknown,2,3.0,No,4,4,1,3.0,,2,19,10,3,9,3,travel_rarely,2,No,Yes
+443,1642.0,44,Male,5,,4,2,Human Resources,Unknown,3,3.0,No,4,1,3,3.0,,0,11,10,0,2,3,Non-Travel,1,Yes,Yes
+444,1653.0,25,Male,1,Life Sciences,1,2,Manufacturing Director,Unknown,4,3.0,No,3,4,3,3.0,5206.0,2,17,7,0,7,6,Non-Travel,2,No,No
+445,Unknown,49,Male,3,,4,4,Manager,Unknown,3,3.0,No,3,3,1,3.0,,0,14,8,0,0,2,Non-Travel,1,No,Yes
+446,1691.0,48,Female,2,,2,1,Sales Representative,Unknown,3,,Yes,3,4,3,3.0,2655.0,2,11,9,7,7,3,travel_frequently,7,No,No
+447,1693.0,26,Male,3,Medical,1,1,Laboratory Technician,Unknown,3,4.0,No,4,4,3,3.0,2570.0,0,20,7,5,7,5,Non-Travel,7,No,Yes
+448,1703.0,44,Female,3,Life Sciences,1,3,Healthcare Representative,Unknown,4,,No,4,3,2,3.0,,1,19,8,6,7,2,travel_rarely,2,No,Yes
+449,Unknown,36,Female,4,,3,2,Sales Representative,Unknown,3,,No,4,3,3,2.0,4502.0,0,15,13,6,7,2,Non-Travel,2,No,Yes
+450,1727.0,46,Male,4,,6,2,Healthcare Representative,Research & Development,3,3.0,No,2,3,4,3.0,,0,14,10,0,9,3,Non-Travel,13,No,Yes
+451,1728.0,35,Male,4,Life Sciences,2,2,Manufacturing Director,Unknown,3,3.0,No,3,4,2,3.0,,1,16,7,0,7,3,Non-Travel,27,No,Yes
+452,1745.0,30,Female,4,,0,1,Research Scientist,Unknown,2,3.0,No,1,4,4,,4968.0,0,16,9,0,7,2,travel_frequently,2,No,No
+453,1754.0,30,Male,2,Marketing,2,3,Sales Executive,Unknown,2,3.0,No,1,3,1,3.0,,1,11,7,1,7,2,Non-Travel,15,No,Yes
+454,1756.0,33,Female,3,Marketing,8,2,Sales Executive,Unknown,3,3.0,No,2,4,4,2.0,5147.0,0,15,11,1,7,2,non-travel,2,No,Yes
+455,1764.0,32,Male,4,,2,1,Research Scientist,Unknown,3,3.0,No,2,2,2,3.0,2718.0,0,14,7,0,7,3,Non-Travel,5,No,Yes
+456,1778.0,43,Male,3,Life Sciences,0,1,Human Resources,Unknown,3,3.0,No,4,2,2,3.0,3539.0,0,13,9,1,8,5,travel_rarely,2,No,No
+457,Unknown,31,Female,4,Marketing,1,2,Sales Executive,Unknown,2,3.0,No,4,1,1,3.0,5468.0,2,14,12,5,7,3,travel_rarely,29,No,Yes
+458,1797.0,35,Male,3,,1,2,Sales Executive,Unknown,3,3.0,Yes,4,3,4,3.0,5813.0,0,18,10,7,7,2,Non-Travel,27,No,No
+459,1804.0,35,Male,2,Medical,2,2,Manufacturing Director,Research & Development,3,3.0,No,4,2,3,3.0,,1,14,7,1,7,6,non-travel,2,No,No
+460,1816.0,30,Female,3,Medical,9,3,Manufacturing Director,Unknown,3,3.0,No,3,1,2,3.0,9667.0,0,14,7,0,2,3,Non-Travel,10,No,No
+461,1821.0,46,Female,2,Medical,4,2,Healthcare Representative,Unknown,3,4.0,Yes,2,4,4,4.0,,1,22,9,3,7,2,travel_rarely,19,No,No
+462,Unknown,45,Female,4,,4,2,Sales Executive,Unknown,3,4.0,No,3,3,2,4.0,5154.0,2,22,8,5,7,3,non-travel,2,No,No
+463,1849.0,43,Male,4,Life Sciences,1,2,Sales Executive,Unknown,3,4.0,No,4,1,3,3.0,5675.0,1,20,7,7,7,5,travel_frequently,2,No,No
+465,Unknown,40,Male,4,,2,4,Manager,Research & Development,3,3.0,No,1,1,1,,,1,11,19,11,16,3,travel_rarely,1,No,Yes
+466,1898.0,27,Female,2,,0,2,Sales Executive,Sales,4,3.0,No,3,1,2,2.0,,0,14,8,0,7,5,travel_rarely,2,No,No
+468,Unknown,26,Male,3,Other,0,1,Laboratory Technician,Unknown,4,3.0,No,4,3,1,3.0,,1,18,7,7,7,3,travel_frequently,6,No,Yes
+469,1927.0,28,Male,2,Life Sciences,1,2,Sales Executive,Unknown,2,3.0,No,4,3,3,3.0,,1,12,7,0,7,2,travel_frequently,1,No,Yes
+470,1934.0,47,Male,4,,8,2,Research Scientist,Unknown,3,3.0,No,2,3,3,4.0,,1,18,8,1,7,4,Non-Travel,14,No,No
+471,1951.0,34,Male,4,Medical,1,3,Sales Executive,Unknown,3,3.0,No,3,4,3,2.0,,1,18,8,1,1,2,travel_rarely,13,No,Yes
+472,1952.0,26,Male,3,Medical,0,1,Laboratory Technician,Research & Development,3,3.0,No,1,3,4,,,0,13,7,7,6,6,Non-Travel,1,No,Yes
+473,1965.0,27,Male,3,,1,2,Sales Executive,Unknown,3,3.0,No,4,4,1,,,0,14,7,0,7,5,travel_rarely,9,No,No
+474,1967.0,31,Male,4,Marketing,1,2,Sales Executive,Sales,3,3.0,Yes,4,1,3,3.0,,0,11,10,0,8,4,travel_frequently,26,Yes,Yes
+475,Unknown,33,Male,2,Life Sciences,1,2,Healthcare Representative,Unknown,3,,No,3,4,3,3.0,,3,20,9,2,8,2,travel_frequently,7,No,Yes
+476,1979.0,31,Female,3,,4,3,Research Director,Unknown,3,4.0,No,3,3,3,4.0,,1,20,11,4,8,2,Non-Travel,10,No,Yes
+477,2008.0,35,Male,4,Medical,1,2,Research Scientist,Unknown,3,3.0,No,3,2,2,3.0,5098.0,0,19,10,0,8,5,Non-Travel,9,No,Yes
+478,2009.0,33,Female,2,,0,2,Healthcare Representative,Unknown,3,,No,4,2,1,3.0,,1,13,9,8,1,6,travel_rarely,15,Yes,Yes
+479,2014.0,39,Male,1,Life Sciences,7,2,Research Scientist,Unknown,3,,No,4,1,1,3.0,,0,13,7,1,7,2,travel_rarely,24,No,No
+480,Unknown,36,Female,3,,0,3,Sales Executive,Unknown,2,3.0,No,4,46,3,3.0,,2,19,9,3,4,2,travel_rarely,46,No,Yes
+481,2034.0,41,Female,4,Life Sciences,0,4,Manufacturing Director,Unknown,2,,No,2,1,3,3.0,13570.0,1,23,20,0,10,3,travel_rarely,28,No,Yes
+482,2035.0,34,Female,3,Marketing,1,2,Sales Executive,Sales,2,4.0,No,3,4,4,3.0,6712.0,2,21,8,1,7,2,Non-Travel,28,No,No
+483,Unknown,38,Female,2,,1,2,Sales Executive,Unknown,3,3.0,No,4,1,3,3.0,,1,11,10,1,9,1,travel_rarely,10,No,Yes
+484,2062.0,39,Male,1,,4,3,Healthcare Representative,Unknown,2,3.0,No,1,4,1,3.0,9991.0,1,15,7,1,7,5,travel_rarely,6,No,Yes
+485,28.0,34,Female,4,,0,3,Research Director,Unknown,3,,No,2,1,3,3.0,,0,11,12,2,11,4,travel_rarely,7,No,No
+486,Unknown,44,Female,4,Medical,3,3,Healthcare Representative,Unknown,2,,No,4,1,4,3.0,10248.0,1,14,22,5,17,4,travel_rarely,7,No,Yes
+487,62.0,46,Male,4,,4,2,Sales Executive,Unknown,3,,No,4,1,3,3.0,,0,21,9,0,8,4,Non-Travel,5,No,Yes
+488,199.0,41,Male,3,Life Sciences,4,4,Manager,Research & Development,2,3.0,No,1,4,2,2.0,,1,13,7,7,7,2,travel_frequently,10,No,No
+489,343.0,39,Female,4,,0,3,Healthcare Representative,Research & Development,3,4.0,No,3,3,4,3.0,10938.0,0,25,19,11,8,1,Non-Travel,2,No,No
+490,351.0,42,Female,3,Medical,0,1,Laboratory Technician,Unknown,2,3.0,No,1,4,3,3.0,2593.0,1,11,9,7,8,4,travel_rarely,2,Yes,Yes
+491,428.0,33,Female,4,,6,3,Manager,Research & Development,3,,No,2,4,2,3.0,11878.0,2,11,10,8,8,2,travel_frequently,5,No,Yes
+492,464.0,35,Male,4,Technical Degree,0,3,Manufacturing Director,Unknown,3,3.0,No,2,3,4,3.0,8095.0,0,13,16,0,13,5,travel_rarely,5,No,Yes
+493,Unknown,33,Male,1,Medical,7,3,Manager,Unknown,3,3.0,Yes,3,2,4,4.0,,0,12,7,7,7,2,travel_rarely,15,No,Yes
+494,Unknown,40,Female,3,Life Sciences,7,4,Manufacturing Director,Unknown,3,3.0,No,3,2,3,3.0,,0,15,20,5,13,3,travel_rarely,6,No,No
+495,731.0,41,Male,4,Human Resources,3,5,Manager,Unknown,2,3.0,No,4,2,2,2.0,,3,15,21,12,6,2,travel_rarely,10,No,No
+496,764.0,27,Female,3,,8,2,Healthcare Representative,Unknown,2,3.0,No,1,4,1,1.0,,0,19,7,0,7,2,Non-Travel,7,No,No
+497,Unknown,52,Male,4,Marketing,1,4,Manager,Unknown,2,3.0,No,1,3,1,4.0,16856.0,0,11,34,1,16,3,travel_rarely,3,No,Yes
+498,851.0,51,Female,4,Marketing,2,4,Manager,Unknown,3,3.0,No,3,1,3,2.0,,1,14,20,4,17,2,travel_rarely,26,No,No
+499,903.0,47,Female,2,Marketing,0,2,Sales Executive,Unknown,3,4.0,No,4,3,1,3.0,4537.0,1,22,7,7,7,2,travel_rarely,2,No,Yes
+500,905.0,50,Male,4,,1,4,Manager,Research & Development,3,3.0,No,1,1,4,3.0,17924.0,1,11,31,14,7,3,non-travel,2,No,No
+501,942.0,35,Female,1,Life Sciences,1,2,Healthcare Representative,Research & Development,3,4.0,No,4,4,4,1.0,4014.0,1,25,10,0,7,2,travel_rarely,21,No,Yes
+502,1026.0,39,Female,1,,1,4,Manufacturing Director,Unknown,2,3.0,No,4,4,3,3.0,12742.0,1,16,21,11,8,3,travel_rarely,1,No,Yes
+503,Unknown,39,Female,3,Medical,1,3,Manufacturing Director,Unknown,3,3.0,No,1,4,3,3.0,,0,13,21,2,8,2,travel_frequently,22,No,No
+504,1085.0,41,Female,2,,1,1,Research Scientist,Unknown,4,3.0,No,3,2,3,3.0,3376.0,0,13,10,0,8,3,Non-Travel,7,No,No
+505,Unknown,44,Male,2,Medical,9,3,Human Resources,Human Resources,2,,Yes,1,2,4,3.0,10482.0,1,14,20,3,6,1,Non-Travel,1,No,Yes
+506,1109.0,42,Male,2,Medical,0,4,Manager,Unknown,3,3.0,No,1,4,4,3.0,,1,17,22,13,7,3,Non-Travel,2,No,No
+507,1118.0,52,Male,4,Life Sciences,7,3,Healthcare Representative,Unknown,3,3.0,No,2,2,4,,,0,19,8,4,0,4,travel_rarely,7,No,Yes
+508,1152.0,38,Male,3,,1,1,Human Resources,Unknown,4,3.0,No,3,3,4,4.0,,1,13,7,5,0,2,Non-Travel,1,No,Yes
+509,Unknown,46,Female,2,Life Sciences,6,1,Human Resources,Human Resources,3,3.0,No,1,4,3,4.0,,0,12,7,5,7,3,Non-Travel,1,No,Yes
+510,1350.0,35,Male,4,Life Sciences,1,2,Research Scientist,Unknown,3,3.0,No,3,3,2,3.0,4249.0,0,11,9,1,1,3,Non-Travel,4,No,No
+511,1514.0,28,Male,1,Life Sciences,1,2,Manufacturing Director,Research & Development,1,,No,2,3,2,2.0,6549.0,2,14,8,1,7,2,travel_rarely,29,No,Yes
+512,1523.0,44,Male,3,Life Sciences,3,4,Research Director,Unknown,3,3.0,No,1,4,3,4.0,,1,13,20,14,17,1,Non-Travel,28,No,Yes
+513,1539.0,50,Male,5,,1,4,Research Director,Unknown,1,3.0,No,4,3,4,3.0,14411.0,0,13,32,13,9,2,Non-Travel,22,No,No
+514,Unknown,55,Male,5,Marketing,1,5,Manager,Unknown,2,4.0,No,4,3,3,3.0,19586.0,1,21,36,2,13,3,travel_rarely,23,No,Yes
+515,1588.0,39,Male,3,,2,3,Sales Executive,Sales,4,3.0,No,3,4,1,3.0,8237.0,1,11,7,7,6,3,Non-Travel,6,No,Yes
+516,1617.0,49,Female,4,,1,1,Laboratory Technician,Research & Development,3,3.0,No,1,13,4,2.0,3211.0,1,14,9,1,4,3,Non-Travel,13,No,Yes
+517,1719.0,45,Female,2,Technical Degree,1,4,Research Director,Unknown,2,,No,2,4,3,3.0,16704.0,0,11,21,8,6,2,Non-Travel,28,No,No
+518,Unknown,46,Male,3,,4,3,Sales Executive,Unknown,3,3.0,No,4,3,2,2.0,,1,12,10,0,3,5,Non-Travel,2,No,No
+519,1870.0,27,Female,3,,0,1,Research Scientist,Unknown,2,3.0,No,1,4,4,,4774.0,1,19,7,7,3,2,Non-Travel,15,No,No
+520,2031.0,42,Male,3,,5,5,Manager,Unknown,3,3.0,No,3,1,1,2.0,,0,11,22,4,14,2,travel_rarely,2,No,Yes
+521,2065.0,49,Male,3,,2,2,Sales Executive,Sales,2,3.0,No,2,4,4,2.0,,0,14,9,0,8,3,Non-Travel,2,No,Yes
+522,15.0,29,Female,2,Life Sciences,0,2,Laboratory Technician,Unknown,2,3.0,No,3,4,4,3.0,,0,12,9,0,8,3,travel_rarely,15,Yes,Yes
+523,60.0,34,Male,4,Marketing,0,2,Sales Executive,Unknown,3,4.0,No,3,12,3,3.0,4568.0,0,20,9,8,7,2,non-travel,12,No,No
+524,Unknown,37,Male,4,,1,2,Manufacturing Director,Unknown,2,3.0,No,3,1,3,,5993.0,1,18,7,0,7,2,Non-Travel,1,No,No
+525,85.0,36,Male,3,,1,2,Manufacturing Director,Unknown,2,3.0,No,2,2,3,3.0,6499.0,0,13,6,0,3,3,Non-Travel,11,No,Yes
+526,Unknown,45,Male,3,,5,1,Research Scientist,Unknown,3,3.0,No,4,3,2,2.0,3452.0,0,13,6,0,3,2,Non-Travel,29,No,Yes
+527,346.0,29,Male,3,,1,1,Research Scientist,Unknown,3,3.0,No,4,3,1,3.0,,0,19,6,1,5,1,travel_rarely,15,No,No
+528,384.0,26,Female,3,,1,2,Manufacturing Director,Unknown,3,4.0,No,2,3,1,1.0,6397.0,1,20,6,1,4,6,Non-Travel,1,No,No
+529,498.0,28,Male,4,Life Sciences,1,2,Sales Executive,Unknown,3,3.0,No,4,2,4,3.0,,0,16,7,0,7,1,Non-Travel,9,No,Yes
+530,551.0,42,Female,4,Technical Degree,0,2,Healthcare Representative,Unknown,2,3.0,No,4,4,4,4.0,,3,11,6,0,4,4,travel_frequently,30,No,Yes
+531,604.0,31,Male,1,Life Sciences,4,2,Sales Executive,Sales,3,3.0,No,4,2,3,4.0,,0,13,6,0,5,2,travel_rarely,2,Yes,Yes
+532,Unknown,37,Female,3,,4,3,Manufacturing Director,Unknown,3,3.0,No,4,47,4,4.0,,0,17,6,1,2,3,travel_rarely,47,No,Yes
+533,626.0,37,Male,4,,1,3,Sales Executive,Unknown,3,3.0,No,2,1,4,3.0,,1,13,9,7,7,6,non-travel,9,No,No
+534,Unknown,37,Female,4,Life Sciences,6,2,Manufacturing Director,Unknown,3,3.0,No,2,2,2,2.0,,1,12,6,4,3,2,travel_rarely,1,No,No
+535,Unknown,24,Male,3,Medical,1,1,Research Scientist,Unknown,4,3.0,No,4,2,2,3.0,2725.0,2,11,6,1,4,3,travel_rarely,23,No,Yes
+536,644.0,50,Male,3,,1,5,Manager,Unknown,3,3.0,No,2,1,3,3.0,,1,11,32,10,7,2,Non-Travel,3,No,No
+537,649.0,34,Male,2,Life Sciences,1,1,Research Scientist,Unknown,2,3.0,No,4,2,4,3.0,3622.0,1,13,6,1,3,3,Non-Travel,1,Yes,Yes
+538,714.0,27,Female,1,Medical,1,2,Sales Executive,Unknown,4,,No,4,4,2,3.0,,2,20,6,0,4,3,travel_frequently,3,No,No
+539,781.0,25,Female,1,,1,2,Sales Executive,Sales,3,4.0,No,4,42,2,2.0,6180.0,0,23,6,1,4,5,Non-Travel,42,No,No
+540,Unknown,34,Male,3,Other,1,2,Sales Executive,Sales,3,4.0,No,4,4,3,3.0,6274.0,0,22,6,1,4,5,Non-Travel,25,No,Yes
+541,804.0,34,Female,4,,1,1,Research Scientist,Research & Development,2,,No,1,3,3,3.0,4381.0,0,11,6,1,3,3,Non-Travel,2,No,Yes
+542,Unknown,35,Male,3,Other,3,3,Manufacturing Director,Unknown,3,4.0,No,3,3,2,4.0,,0,21,8,1,6,3,Non-Travel,7,No,No
+543,856.0,35,Female,1,Medical,1,1,Research Scientist,Unknown,2,3.0,No,1,16,4,2.0,2559.0,0,11,6,1,1,3,Non-Travel,16,No,No
+544,998.0,33,Female,4,,1,2,Healthcare Representative,Research & Development,4,3.0,No,2,3,1,3.0,5488.0,1,13,6,1,2,2,Non-Travel,1,Yes,Yes
+545,1120.0,29,Female,4,Life Sciences,4,1,Research Scientist,Unknown,3,4.0,No,4,3,1,3.0,2514.0,1,22,7,1,7,1,Non-Travel,28,No,No
+546,1143.0,29,Female,3,,0,1,Research Scientist,Research & Development,3,3.0,No,2,4,4,2.0,,2,14,7,1,1,2,travel_frequently,10,No,Yes
+547,Unknown,34,Female,1,Life Sciences,1,2,Sales Executive,Unknown,3,4.0,No,3,2,1,2.0,,0,20,6,1,3,3,Non-Travel,9,No,No
+548,Unknown,28,Male,4,Medical,1,1,Laboratory Technician,Unknown,2,3.0,No,1,4,3,3.0,3196.0,3,12,6,3,3,2,travel_rarely,19,No,No
+549,Unknown,44,Female,1,Life Sciences,1,1,Research Scientist,Unknown,4,3.0,No,4,1,4,3.0,,1,13,10,7,7,5,Non-Travel,2,No,No
+550,1251.0,31,Male,2,,1,2,Healthcare Representative,Research & Development,3,,No,1,3,4,2.0,,0,12,6,0,1,2,travel_rarely,11,Yes,No
+551,Unknown,26,Male,2,Life Sciences,1,1,Research Scientist,Research & Development,3,4.0,No,4,3,2,2.0,,0,20,8,2,2,2,Non-Travel,4,Yes,No
+552,1438.0,47,Male,3,,7,1,Research Scientist,Unknown,3,3.0,No,4,1,3,2.0,3420.0,1,12,6,1,2,2,travel_rarely,1,No,Yes
+553,Unknown,37,Male,2,,0,1,Laboratory Technician,Research & Development,4,3.0,No,3,3,1,1.0,,0,14,6,1,3,2,Non-Travel,5,No,No
+554,1574.0,32,Male,4,,4,2,Research Scientist,Unknown,3,3.0,No,1,4,2,2.0,4087.0,1,14,6,1,2,3,Non-Travel,1,No,Yes
+555,1671.0,32,Male,3,Medical,0,2,Research Scientist,Unknown,3,3.0,No,2,4,3,2.0,,2,13,9,1,6,4,Non-Travel,2,No,Yes
+556,Unknown,33,Female,3,Life Sciences,1,2,Sales Executive,Unknown,3,4.0,No,4,3,3,3.0,5368.0,1,25,6,1,2,2,non-travel,16,Yes,No
+557,Unknown,47,Male,3,,7,4,Sales Executive,Sales,1,,Yes,3,3,3,1.0,12936.0,0,11,23,14,10,3,Non-Travel,9,No,Yes
+558,Unknown,41,Female,2,,8,2,Sales Executive,Unknown,3,3.0,Yes,4,2,1,1.0,,0,11,6,0,5,0,Non-Travel,1,Yes,No
+559,Unknown,35,Male,3,Medical,0,1,Laboratory Technician,Research & Development,4,3.0,No,2,1,3,3.0,,1,13,5,0,3,5,travel_rarely,16,No,No
+560,94.0,29,Male,3,Life Sciences,0,1,Research Scientist,Unknown,3,4.0,No,2,3,4,3.0,,1,23,5,0,4,3,travel_rarely,2,No,No
+561,Unknown,32,Male,3,Life Sciences,1,2,Research Scientist,Unknown,3,3.0,No,2,2,2,3.0,,2,17,10,0,9,3,travel_rarely,1,No,Yes
+562,Unknown,35,Male,3,Medical,1,1,Research Scientist,Unknown,2,3.0,No,3,2,1,3.0,,0,18,6,0,4,3,travel_rarely,1,No,No
+563,112.0,56,Male,3,,4,3,Manufacturing Director,Unknown,1,3.0,No,4,4,1,2.0,,0,11,6,0,2,3,Non-Travel,13,No,Yes
+564,129.0,28,Male,3,Medical,1,2,Sales Executive,Unknown,3,3.0,No,3,2,2,4.0,4221.0,0,15,5,0,4,3,Non-Travel,4,No,Yes
+565,142.0,25,Male,3,,1,2,Sales Executive,Unknown,2,3.0,Yes,3,3,4,3.0,,0,11,6,0,3,1,travel_rarely,5,Yes,Yes
+566,161.0,56,Female,4,Life Sciences,9,1,Research Scientist,Unknown,3,3.0,Yes,2,2,1,3.0,4963.0,3,18,5,4,3,2,Non-Travel,14,No,Yes
+567,164.0,26,Female,3,,1,1,Research Scientist,Research & Development,2,3.0,No,2,3,3,2.0,,0,19,5,4,3,3,Non-Travel,6,No,No
+568,190.0,32,Female,3,Medical,7,1,Laboratory Technician,Unknown,3,4.0,Yes,1,1,1,4.0,4200.0,0,22,5,0,4,2,Non-Travel,9,No,No
+569,194.0,30,Female,3,Life Sciences,1,1,Research Scientist,Unknown,3,3.0,No,3,1,3,2.0,,0,14,5,0,4,4,travel_rarely,18,No,Yes
+570,226.0,50,Female,3,,3,5,Manager,Unknown,3,3.0,No,2,3,2,3.0,,0,15,5,4,4,5,travel_rarely,11,No,No
+571,231.0,32,Male,5,Life Sciences,3,1,Research Scientist,Unknown,3,4.0,No,3,3,1,,,0,20,5,1,4,2,Non-Travel,6,No,No
+572,240.0,45,Female,2,,4,2,Sales Executive,Unknown,3,3.0,No,1,3,1,4.0,5006.0,1,11,5,0,3,3,travel_rarely,4,No,No
+573,262.0,43,Male,3,,4,1,Research Scientist,Unknown,4,3.0,No,4,4,4,4.0,,3,14,5,2,2,3,Non-Travel,7,No,Yes
+574,283.0,29,Female,3,Marketing,1,3,Sales Executive,Unknown,3,4.0,Yes,4,2,4,2.0,7639.0,3,22,10,1,9,3,Non-Travel,27,No,Yes
+575,308.0,31,Male,4,Medical,0,2,Manufacturing Director,Research & Development,1,3.0,No,3,3,4,3.0,,1,12,5,1,4,2,non-travel,1,No,Yes
+576,325.0,33,Male,3,,5,1,Laboratory Technician,Unknown,3,3.0,Yes,4,3,3,1.0,,1,13,5,0,4,2,Non-Travel,14,Yes,No
+577,355.0,31,Male,2,,0,1,Laboratory Technician,Unknown,2,3.0,Yes,2,3,2,4.0,,0,11,5,1,4,2,Non-Travel,29,No,Yes
+578,378.0,37,Male,4,,4,2,Sales Executive,Unknown,3,3.0,No,4,3,2,4.0,6502.0,1,14,5,0,1,5,Non-Travel,6,No,Yes
+579,Unknown,50,Male,1,,3,5,Research Director,Research & Development,3,3.0,No,2,1,1,2.0,,2,14,10,1,6,4,Non-Travel,4,No,No
+580,Unknown,42,Female,3,,5,4,Sales Executive,Unknown,3,3.0,No,2,3,4,,13525.0,1,14,20,4,8,2,travel_frequently,26,No,Yes
+581,Unknown,27,Male,3,,1,2,Sales Executive,Unknown,3,3.0,No,3,4,1,3.0,,0,11,5,0,4,3,Non-Travel,2,Yes,Yes
+582,449.0,27,Male,1,Marketing,0,2,Sales Executive,Unknown,3,3.0,No,2,3,4,,6349.0,1,13,5,1,4,0,non-travel,1,Yes,Yes
+583,466.0,41,Male,3,,6,2,Manufacturing Director,Unknown,2,3.0,No,2,4,4,3.0,,0,15,5,1,2,3,travel_rarely,6,Yes,Yes
+584,486.0,37,Female,3,Medical,6,1,Laboratory Technician,Unknown,3,4.0,No,1,3,2,3.0,,1,20,5,0,3,3,travel_rarely,10,No,Yes
+585,492.0,40,Male,2,,2,2,Sales Executive,Unknown,2,3.0,Yes,3,22,1,3.0,6380.0,2,12,6,1,0,6,Non-Travel,22,Yes,Yes
+586,505.0,55,Female,3,,2,4,Manager,Unknown,3,3.0,No,4,3,3,3.0,,0,13,5,1,2,2,Non-Travel,2,Yes,No
+587,510.0,26,Male,1,,0,1,Research Scientist,Unknown,3,4.0,Yes,1,3,3,3.0,3102.0,0,22,6,0,4,2,travel_frequently,3,No,Yes
+588,Unknown,40,Female,2,Marketing,7,2,Sales Executive,Unknown,3,3.0,No,2,4,3,3.0,,2,12,5,1,3,5,travel_rarely,2,No,Yes
+589,527.0,25,Female,2,,1,2,Sales Executive,Sales,2,3.0,No,4,2,2,3.0,,0,11,5,1,3,3,Non-Travel,4,Yes,No
+590,Unknown,30,Female,3,,0,2,Sales Executive,Unknown,3,,No,3,2,2,3.0,,0,11,5,4,4,6,Non-Travel,12,No,Yes
+591,Unknown,52,Male,3,,2,3,Manufacturing Director,Unknown,2,,No,3,4,3,3.0,,0,14,5,0,4,4,travel_rarely,32,No,No
+592,547.0,42,Female,2,,2,2,Research Scientist,Unknown,3,3.0,No,3,1,2,3.0,4556.0,1,11,5,0,2,3,travel_frequently,12,No,No
+593,548.0,30,Female,3,Life Sciences,2,2,Manufacturing Director,Unknown,1,4.0,No,4,3,3,3.0,,0,20,5,0,2,2,travel_rarely,2,No,Yes
+594,577.0,35,Male,3,Life Sciences,0,1,Laboratory Technician,Unknown,1,3.0,No,3,4,3,3.0,4230.0,0,15,5,4,3,2,travel_rarely,22,No,No
+595,Unknown,31,Male,3,,9,3,Manager,Unknown,2,4.0,No,4,3,3,2.0,,1,21,5,0,1,3,travel_rarely,7,No,Yes
+596,Unknown,35,Female,3,,1,2,Sales Executive,Sales,3,3.0,No,3,1,4,3.0,4859.0,0,16,5,0,3,3,travel_rarely,1,No,Yes
+597,Unknown,25,Male,1,,1,1,Sales Representative,Unknown,3,3.0,No,3,2,3,3.0,,0,11,7,0,6,1,Non-Travel,13,No,Yes
+598,679.0,32,Female,4,,1,2,Research Scientist,Unknown,3,3.0,No,4,1,4,,6322.0,1,12,6,0,5,2,travel_rarely,9,No,No
+599,785.0,47,Female,2,Life Sciences,4,2,Sales Executive,Unknown,4,3.0,Yes,3,2,4,3.0,,0,12,5,1,3,2,Non-Travel,27,Yes,No
+600,861.0,30,Male,4,Life Sciences,9,1,Research Scientist,Unknown,2,3.0,No,4,2,2,2.0,,1,12,5,0,3,3,travel_frequently,5,No,Yes
+601,864.0,45,Male,3,Marketing,4,3,Sales Executive,Unknown,3,3.0,No,1,4,3,3.0,10761.0,1,12,5,0,2,2,Non-Travel,9,Yes,No
+602,878.0,36,Male,3,Life Sciences,0,1,Human Resources,Unknown,2,4.0,No,1,1,3,3.0,,0,21,5,0,3,3,travel_rarely,8,No,Yes
+603,895.0,31,Male,4,,3,1,Research Scientist,Unknown,3,3.0,No,4,4,2,3.0,,1,19,6,0,2,2,Non-Travel,11,No,Yes
+604,900.0,37,Female,2,Medical,5,1,Sales Representative,Unknown,3,3.0,No,4,3,2,3.0,2973.0,1,15,5,0,0,3,travel_frequently,21,No,No
+605,Unknown,39,Female,3,Life Sciences,8,2,Human Resources,Unknown,2,3.0,No,4,4,3,3.0,5204.0,2,11,5,0,4,2,travel_rarely,2,No,No
+606,936.0,42,Female,2,,7,2,Sales Executive,Unknown,2,3.0,No,3,3,1,3.0,,0,17,5,0,3,6,Non-Travel,14,No,Yes
+607,Unknown,30,Male,2,,5,3,Sales Executive,Unknown,3,3.0,No,3,3,1,4.0,,1,11,8,7,7,2,travel_rarely,8,No,No
+608,997.0,50,Male,2,Medical,9,4,Research Director,Unknown,3,,No,4,4,3,2.0,17399.0,1,22,5,1,3,1,Non-Travel,1,No,Yes
+609,1048.0,59,Male,2,,3,3,Manager,Sales,3,3.0,No,4,2,3,1.0,,1,14,6,0,4,1,travel_rarely,1,Yes,Yes
+610,Unknown,54,Female,4,Life Sciences,6,3,Sales Executive,Unknown,2,3.0,No,3,3,2,3.0,,1,11,9,7,0,4,Non-Travel,2,No,Yes
+611,1071.0,56,Female,3,Medical,2,1,Research Scientist,Unknown,3,3.0,No,3,1,2,3.0,,1,19,5,0,3,4,Non-Travel,9,No,No
+612,1116.0,48,Male,4,,2,4,Manager,Unknown,4,,No,4,1,3,2.0,16885.0,0,22,5,2,1,3,Non-Travel,1,No,Yes
+613,1132.0,39,Male,3,Life Sciences,9,2,Laboratory Technician,Research & Development,3,3.0,No,2,3,3,2.0,,0,15,5,0,3,2,Non-Travel,9,No,No
+614,Unknown,35,Male,4,Technical Degree,1,1,Human Resources,Unknown,3,3.0,No,3,3,2,1.0,4323.0,0,17,5,1,4,2,travel_rarely,8,No,Yes
+615,1171.0,42,Male,4,Marketing,7,2,Sales Executive,Sales,3,3.0,No,1,2,4,,5155.0,0,13,6,1,5,3,travel_rarely,4,No,No
+616,1200.0,44,Male,4,,1,1,Research Scientist,Unknown,3,3.0,Yes,3,3,3,3.0,2936.0,0,11,6,0,2,4,Non-Travel,10,Yes,No
+617,1202.0,29,Female,1,,0,1,Research Scientist,Unknown,1,,No,4,2,1,2.0,,1,18,5,1,3,2,travel_rarely,15,Yes,No
+618,Unknown,33,Male,3,Human Resources,1,1,Human Resources,Unknown,3,3.0,No,3,2,4,3.0,,1,13,5,1,4,2,Non-Travel,2,No,Yes
+619,1245.0,54,Female,4,,7,3,Manufacturing Director,Unknown,3,3.0,No,3,4,1,1.0,,1,17,5,1,4,2,travel_frequently,1,No,No
+620,1280.0,46,Female,2,,2,5,Manager,Sales,2,3.0,No,2,4,3,3.0,18789.0,1,14,11,0,8,2,Non-Travel,4,No,Yes
+621,Unknown,30,Female,2,Medical,7,2,Manufacturing Director,Unknown,3,,No,3,3,3,3.0,,0,18,8,1,7,3,non-travel,9,Yes,Yes
+622,1309.0,32,Male,2,Life Sciences,1,2,Laboratory Technician,Unknown,3,3.0,Yes,3,4,1,3.0,4883.0,1,18,10,1,1,3,travel_rarely,7,No,Yes
+623,Unknown,40,Male,4,,2,3,Sales Executive,Unknown,2,3.0,Yes,2,4,3,3.0,,0,12,5,1,0,2,Non-Travel,25,Yes,Yes
+624,1374.0,34,Female,1,,1,1,Research Scientist,Unknown,2,4.0,No,3,1,3,3.0,2029.0,3,20,5,0,0,2,non-travel,26,No,Yes
+625,1390.0,39,Male,4,,3,2,Sales Executive,Sales,2,3.0,No,4,1,4,4.0,,2,12,5,1,4,2,travel_rarely,21,No,No
+626,Unknown,37,Male,1,,7,1,Research Scientist,Unknown,3,3.0,No,3,3,4,3.0,2996.0,0,15,6,1,3,2,Non-Travel,4,Yes,No
+627,1395.0,33,Male,1,Life Sciences,6,2,Sales Executive,Sales,3,3.0,No,4,41,1,4.0,,0,13,5,1,2,2,Non-Travel,41,No,Yes
+628,1397.0,39,Male,2,,3,3,Healthcare Representative,Research & Development,3,4.0,No,3,3,2,3.0,,1,21,6,0,5,2,non-travel,25,No,No
+629,1409.0,52,Female,4,Other,9,1,Laboratory Technician,Unknown,3,,No,1,3,3,1.0,,0,13,5,0,4,2,travel_rarely,8,No,Yes
+630,1425.0,36,Female,4,,3,2,Sales Executive,Unknown,3,3.0,No,2,1,4,3.0,9278.0,0,16,5,0,1,3,Non-Travel,3,Yes,Yes
+631,1435.0,36,Male,4,Life Sciences,1,2,Laboratory Technician,Unknown,2,3.0,No,4,47,3,2.0,,0,16,10,1,8,2,Non-Travel,47,No,Yes
+632,1445.0,24,Female,1,,1,2,Sales Executive,Unknown,3,3.0,No,3,4,3,3.0,4162.0,2,12,5,0,3,3,travel_rarely,4,Yes,Yes
+633,Unknown,34,Female,3,Life Sciences,5,1,Laboratory Technician,Unknown,2,3.0,No,2,4,1,2.0,,1,17,5,0,2,2,travel_rarely,1,No,No
+634,1469.0,28,Male,3,,0,2,Sales Executive,Sales,3,3.0,No,1,4,4,3.0,,0,18,5,1,3,4,Non-Travel,5,No,Yes
+635,Unknown,33,Female,4,Medical,8,1,Laboratory Technician,Research & Development,2,3.0,No,2,1,4,3.0,,0,11,5,0,2,5,travel_rarely,4,No,Yes
+636,1503.0,47,Female,3,Medical,3,2,Sales Executive,Unknown,3,3.0,No,3,3,3,2.0,,1,17,5,1,2,4,travel_rarely,14,No,Yes
+637,1534.0,40,Male,4,Life Sciences,3,1,Laboratory Technician,Unknown,3,3.0,Yes,1,4,2,1.0,,0,14,5,1,0,3,Non-Travel,9,No,No
+638,1546.0,45,Male,3,Technical Degree,4,1,Research Scientist,Unknown,3,4.0,No,4,49,4,3.0,,1,20,5,0,3,3,travel_rarely,49,No,Yes
+639,1548.0,40,Male,2,,0,2,Sales Executive,Unknown,3,3.0,No,1,1,4,4.0,,0,12,8,7,1,5,travel_rarely,9,No,Yes
+640,Unknown,29,Male,1,Life Sciences,1,2,Healthcare Representative,Unknown,3,3.0,No,4,1,4,4.0,8853.0,1,19,6,1,3,0,Non-Travel,2,No,Yes
+641,1598.0,40,Female,2,Life Sciences,1,2,Sales Executive,Unknown,3,3.0,No,1,4,3,3.0,,1,15,5,1,2,2,Non-Travel,14,No,Yes
+642,1599.0,43,Male,3,,5,1,Laboratory Technician,Unknown,4,3.0,No,2,4,3,,4876.0,1,12,6,0,2,0,Non-Travel,27,No,No
+643,1609.0,30,Male,3,,1,1,Research Scientist,Unknown,2,3.0,No,2,2,2,2.0,2141.0,1,12,6,1,1,3,Non-Travel,7,No,Yes
+644,1638.0,38,Female,2,,3,3,Manufacturing Director,Research & Development,2,3.0,No,3,4,4,4.0,7756.0,1,19,5,0,2,6,Non-Travel,2,No,Yes
+645,1640.0,37,Female,3,,1,1,Research Scientist,Research & Development,3,3.0,No,2,2,1,1.0,3936.0,1,11,8,7,7,2,travel_rarely,10,No,No
+646,Unknown,39,Male,3,Medical,4,2,Manufacturing Director,Unknown,3,4.0,No,2,4,3,3.0,,0,21,5,1,0,3,travel_rarely,12,No,Yes
+647,1664.0,36,Male,2,Life Sciences,6,2,Healthcare Representative,Research & Development,4,4.0,No,1,11,1,3.0,6842.0,1,20,5,0,4,3,travel_rarely,11,No,Yes
+648,1684.0,23,Male,1,Medical,1,1,Laboratory Technician,Unknown,2,,Yes,3,4,1,3.0,3989.0,0,11,5,1,2,2,travel_rarely,8,No,Yes
+649,1704.0,35,Male,4,,0,1,Research Scientist,Unknown,2,3.0,No,4,1,3,4.0,4930.0,0,14,5,1,4,2,Non-Travel,2,Yes,Yes
+650,1736.0,31,Female,1,Technical Degree,2,2,Manufacturing Director,Unknown,3,4.0,No,4,4,4,2.0,,0,20,5,1,4,3,travel_frequently,24,No,Yes
+651,1782.0,38,Female,2,Other,1,1,Laboratory Technician,Research & Development,2,3.0,No,3,4,2,3.0,3702.0,1,11,5,0,4,3,travel_rarely,6,No,Yes
+652,1826.0,35,Male,4,Medical,0,1,Laboratory Technician,Unknown,1,,No,3,2,2,4.0,2705.0,1,16,5,0,3,2,Non-Travel,23,No,Yes
+653,Unknown,40,Female,3,,2,2,Healthcare Representative,Unknown,3,3.0,No,1,2,2,3.0,4448.0,1,12,7,7,7,3,Non-Travel,12,No,Yes
+654,1850.0,27,Female,2,,0,1,Laboratory Technician,Research & Development,3,3.0,No,4,48,3,2.0,2379.0,0,14,5,0,2,3,travel_frequently,48,Yes,Yes
+655,1909.0,41,Female,3,,5,2,Sales Executive,Unknown,3,4.0,No,2,3,3,3.0,,1,21,5,1,4,3,Non-Travel,8,No,Yes
+656,1924.0,33,Male,4,Marketing,1,2,Sales Executive,Unknown,3,3.0,No,3,2,2,2.0,5487.0,0,14,10,0,9,2,travel_rarely,15,No,No
+657,1941.0,49,Male,1,Life Sciences,3,5,Research Director,Unknown,3,3.0,No,4,2,4,3.0,,0,15,5,4,3,3,Non-Travel,2,No,No
+658,1949.0,36,Male,4,,1,1,Laboratory Technician,Unknown,4,4.0,No,2,1,2,3.0,2810.0,0,22,5,0,2,3,non-travel,9,No,Yes
+659,Unknown,41,Male,3,Life Sciences,2,2,Sales Executive,Unknown,2,3.0,No,2,3,3,3.0,8938.0,1,11,5,0,4,5,Non-Travel,3,No,No
+660,Unknown,29,Female,4,Medical,1,1,Research Scientist,Unknown,2,3.0,No,1,41,2,1.0,,0,14,5,0,4,3,Non-Travel,41,No,Yes
+661,Unknown,31,Male,3,Medical,0,2,Manufacturing Director,Unknown,3,3.0,No,1,2,2,3.0,9936.0,0,19,9,1,7,2,non-travel,5,No,Yes
+662,27.0,36,Male,4,Life Sciences,7,1,Sales Representative,Unknown,2,4.0,Yes,1,3,2,,,0,23,5,0,3,4,travel_rarely,9,No,No
+663,46.0,43,Female,2,Medical,1,1,Research Scientist,Unknown,4,3.0,No,3,4,4,2.0,,2,12,5,1,4,3,travel_rarely,2,No,No
+664,52.0,33,Female,3,Life Sciences,2,2,Sales Executive,Unknown,4,,No,1,18,1,3.0,,2,19,5,1,3,3,travel_frequently,18,No,No
+665,68.0,44,Female,5,Marketing,5,2,Sales Executive,Sales,3,4.0,No,1,2,3,2.0,5454.0,1,21,4,1,3,2,Non-Travel,1,No,No
+666,79.0,38,Female,5,Life Sciences,1,2,Laboratory Technician,Unknown,3,3.0,No,4,4,4,3.0,,0,11,10,9,9,2,Non-Travel,29,No,Yes
+667,80.0,50,Female,2,Medical,5,5,Research Director,Unknown,2,,No,3,2,4,2.0,18740.0,1,12,27,13,8,2,Non-Travel,7,No,No
+668,91.0,59,Female,1,,7,2,Sales Executive,Unknown,2,,No,3,1,4,2.0,5473.0,0,11,4,1,3,2,travel_frequently,1,No,No
+669,119.0,40,Male,4,Life Sciences,1,4,Healthcare Representative,Unknown,2,4.0,No,2,3,4,2.0,13503.0,1,22,22,11,11,3,travel_frequently,1,No,No
+670,126.0,54,Female,4,Technical Degree,9,3,Research Director,Unknown,3,3.0,No,3,1,1,1.0,13549.0,1,12,4,0,3,5,travel_rarely,2,No,No
+671,Unknown,50,Female,3,,3,5,Research Director,Unknown,3,3.0,No,2,1,1,2.0,18172.0,0,19,8,0,7,1,Non-Travel,47,Yes,Yes
+672,148.0,54,Female,3,,2,4,Manager,Unknown,4,,No,4,4,3,3.0,,0,12,5,4,4,3,non-travel,26,No,Yes
+673,150.0,24,Male,1,Life Sciences,0,1,Laboratory Technician,Unknown,3,3.0,No,3,2,3,3.0,2774.0,1,12,5,1,2,2,Non-Travel,18,No,Yes
+674,Unknown,37,Male,3,Life Sciences,2,3,Sales Executive,Unknown,3,3.0,No,4,3,1,3.0,,0,12,5,1,3,3,travel_rarely,3,No,Yes
+675,198.0,30,Male,1,,0,1,Laboratory Technician,Unknown,2,3.0,No,4,2,4,3.0,,0,13,5,1,2,3,travel_rarely,2,No,Yes
+676,216.0,34,Female,4,,6,1,Sales Representative,Unknown,3,3.0,No,3,10,4,3.0,,1,18,4,1,2,3,travel_frequently,10,No,No
+677,Unknown,57,Male,2,,3,3,Healthcare Representative,Research & Development,4,3.0,No,4,3,2,1.0,9439.0,1,16,5,1,4,2,travel_rarely,24,No,Yes
+678,230.0,38,Female,4,Life Sciences,4,2,Sales Executive,Unknown,2,,No,4,1,3,4.0,,0,22,8,0,7,2,travel_rarely,1,No,No
+679,Unknown,41,Female,2,Marketing,1,1,Sales Representative,Unknown,3,4.0,Yes,2,2,4,2.0,,0,22,4,0,2,5,travel_rarely,20,Yes,Yes
+680,270.0,42,Female,2,,2,2,Manufacturing Director,Unknown,3,3.0,No,3,3,2,3.0,5265.0,1,16,5,0,2,5,Non-Travel,21,No,No
+681,277.0,34,Male,4,,1,1,Research Scientist,Unknown,3,3.0,No,3,4,4,4.0,3815.0,1,17,5,2,0,4,Non-Travel,10,Yes,Yes
+682,299.0,30,Female,4,,5,2,Sales Executive,Unknown,2,3.0,Yes,1,3,3,2.0,,0,15,6,0,1,5,Non-Travel,26,No,Yes
+683,315.0,29,Male,1,Medical,1,1,Research Scientist,Unknown,2,3.0,Yes,4,13,3,,2389.0,0,13,4,0,1,3,travel_rarely,13,No,Yes
+684,330.0,32,Female,2,,2,1,Sales Representative,Unknown,3,,No,2,3,1,3.0,,1,11,4,1,2,5,Non-Travel,4,No,No
+685,369.0,25,Male,2,Life Sciences,1,2,Healthcare Representative,Unknown,4,3.0,No,1,2,4,3.0,4000.0,2,12,6,1,5,2,Non-Travel,5,No,Yes
+686,386.0,53,Male,4,,3,4,Research Director,Unknown,3,3.0,No,3,3,4,2.0,17584.0,3,16,5,1,3,5,Non-Travel,3,Yes,Yes
+687,390.0,26,Male,2,Medical,1,2,Healthcare Representative,Research & Development,3,3.0,No,1,1,3,3.0,,1,13,5,3,3,3,Non-Travel,11,No,Yes
+688,Unknown,28,Female,2,,1,1,Research Scientist,Unknown,3,4.0,No,4,4,4,3.0,,0,21,5,0,2,3,Non-Travel,8,No,Yes
+689,412.0,28,Male,2,Medical,0,2,Healthcare Representative,Unknown,4,3.0,No,1,2,3,3.0,5661.0,0,19,8,0,7,2,travel_rarely,16,No,Yes
+690,422.0,58,Male,4,Life Sciences,2,2,Healthcare Representative,Research & Development,1,3.0,No,3,4,4,3.0,,1,13,5,1,2,2,Non-Travel,1,Yes,Yes
+691,434.0,27,Female,3,,1,1,Research Scientist,Unknown,3,3.0,No,2,3,2,,,0,12,4,1,2,2,travel_rarely,5,No,Yes
+692,450.0,54,Female,4,Life Sciences,3,2,Research Scientist,Unknown,3,,No,3,4,4,2.0,4869.0,0,12,4,0,3,4,travel_frequently,20,No,No
+693,Unknown,40,Male,2,,2,2,Sales Executive,Unknown,1,4.0,No,4,45,3,2.0,,3,22,4,0,2,2,travel_rarely,45,No,Yes
+694,469.0,29,Male,3,Life Sciences,1,2,Sales Executive,Unknown,3,,No,3,4,1,2.0,4649.0,1,14,4,0,2,3,non-travel,2,No,Yes
+695,491.0,50,Male,3,,6,3,Healthcare Representative,Unknown,2,3.0,No,4,4,4,3.0,10496.0,0,15,4,1,3,2,travel_rarely,10,No,No
+696,554.0,24,Female,1,Technical Degree,1,1,Sales Representative,Unknown,3,3.0,Yes,2,1,2,3.0,,0,16,5,1,4,4,travel_rarely,1,Yes,Yes
+697,Unknown,30,Male,3,,4,1,Laboratory Technician,Research & Development,3,3.0,No,4,37,3,1.0,,1,15,5,1,4,3,Non-Travel,37,No,No
+698,579.0,34,Male,4,,3,1,Research Scientist,Unknown,2,3.0,No,3,4,3,3.0,2768.0,1,12,7,5,7,3,Non-Travel,2,No,Yes
+699,Unknown,33,Male,1,,7,1,Laboratory Technician,Unknown,1,3.0,Yes,4,1,1,3.0,3408.0,3,13,4,1,3,2,travel_rarely,10,No,No
+700,592.0,36,Male,4,Medical,1,3,Sales Executive,Unknown,3,3.0,No,4,2,4,2.0,,0,14,10,9,7,3,non-travel,30,No,Yes
+701,599.0,41,Male,2,,7,2,Sales Executive,Sales,3,3.0,No,4,4,4,3.0,,0,14,14,1,10,3,non-travel,10,No,Yes
+702,Unknown,39,Female,1,,1,1,Laboratory Technician,Unknown,3,3.0,No,3,3,1,3.0,3755.0,1,11,8,0,7,3,travel_frequently,8,No,Yes
+703,641.0,26,Male,2,Marketing,1,2,Sales Executive,Unknown,3,4.0,No,2,1,4,4.0,,2,20,5,1,4,5,travel_rarely,28,No,Yes
+704,Unknown,24,Female,3,,1,1,Laboratory Technician,Research & Development,3,3.0,Yes,3,1,4,3.0,,1,16,6,1,2,4,travel_frequently,7,No,Yes
+705,655.0,27,Female,4,,0,1,Research Scientist,Research & Development,2,3.0,No,3,1,3,2.0,2187.0,2,12,5,0,3,5,Non-Travel,6,No,Yes
+706,667.0,27,Male,1,Marketing,0,1,Sales Representative,Unknown,3,3.0,Yes,1,3,2,3.0,,1,11,4,0,2,3,travel_rarely,2,No,Yes
+707,Unknown,50,Male,2,Technical Degree,3,2,Sales Executive,Sales,3,3.0,Yes,3,2,1,3.0,,1,14,4,1,3,4,Non-Travel,8,No,No
+708,758.0,23,Male,1,,1,1,Laboratory Technician,Unknown,3,3.0,No,1,2,4,4.0,,1,14,4,0,2,2,travel_rarely,49,No,Yes
+709,760.0,39,Female,3,,9,2,Human Resources,Unknown,4,3.0,No,2,3,3,1.0,,1,15,8,3,6,3,travel_rarely,24,No,No
+710,791.0,52,Male,4,Medical,0,1,Research Scientist,Unknown,3,3.0,No,4,4,1,3.0,4258.0,1,18,4,1,2,3,non-travel,19,No,Yes
+711,796.0,26,Male,3,,6,2,Sales Executive,Unknown,2,3.0,Yes,1,4,3,2.0,5326.0,0,17,4,1,2,2,Non-Travel,8,No,Yes
+712,799.0,54,Female,4,,9,2,Manufacturing Director,Unknown,3,,No,1,4,2,3.0,5485.0,2,11,5,1,4,4,Non-Travel,19,Yes,Yes
+713,Unknown,37,Female,1,Life Sciences,0,1,Research Scientist,Unknown,3,3.0,No,1,4,2,2.0,2782.0,2,13,5,4,3,3,travel_rarely,10,Yes,No
+714,815.0,50,Male,3,,5,4,Research Director,Research & Development,3,3.0,No,3,3,4,3.0,17639.0,0,16,4,0,3,3,travel_rarely,2,No,No
+715,827.0,42,Female,2,Life Sciences,9,2,Manufacturing Director,Unknown,2,3.0,No,4,4,4,3.0,6062.0,1,13,4,0,2,4,Non-Travel,1,No,No
+716,Unknown,38,Male,3,,2,2,Healthcare Representative,Research & Development,2,3.0,No,1,1,3,2.0,6288.0,1,15,4,1,2,3,travel_frequently,12,No,No
+717,Unknown,25,Male,1,Medical,7,1,Research Scientist,Unknown,4,3.0,No,1,1,3,2.0,3424.0,0,13,4,0,1,3,travel_rarely,2,No,No
+718,865.0,32,Female,2,,5,2,Research Scientist,Unknown,4,3.0,No,3,3,3,2.0,,1,12,5,1,3,3,Non-Travel,8,No,Yes
+719,Unknown,25,Male,1,,1,2,Sales Executive,Unknown,3,3.0,No,1,3,4,3.0,4194.0,0,18,5,0,3,3,Non-Travel,3,Yes,Yes
+720,894.0,42,Female,3,,2,2,Laboratory Technician,Unknown,4,3.0,No,4,3,2,2.0,,1,13,5,1,3,1,Non-Travel,3,Yes,Yes
+721,Unknown,33,Male,2,Human Resources,3,1,Human Resources,Unknown,3,3.0,No,2,4,3,4.0,,1,11,4,0,3,4,Non-Travel,3,Yes,No
+722,Unknown,29,Female,1,Medical,6,1,Laboratory Technician,Unknown,2,3.0,No,4,1,3,3.0,2532.0,3,14,4,0,3,5,travel_rarely,7,No,No
+723,983.0,38,Female,3,,1,2,Sales Executive,Unknown,3,3.0,No,4,3,2,3.0,5666.0,0,13,5,1,3,1,non-travel,10,Yes,Yes
+724,996.0,45,Female,4,,3,1,Laboratory Technician,Research & Development,3,,No,4,4,4,3.0,,2,14,5,0,2,2,travel_rarely,1,No,No
+725,1011.0,31,Female,1,,1,2,Manufacturing Director,Unknown,3,3.0,No,1,3,3,3.0,,1,12,4,0,3,1,travel_frequently,1,No,No
+726,1019.0,22,Male,1,Life Sciences,1,1,Laboratory Technician,Research & Development,1,3.0,No,1,2,1,2.0,,1,15,4,1,1,3,Non-Travel,8,No,Yes
+727,1032.0,59,Female,3,,3,4,Manufacturing Director,Unknown,2,3.0,No,4,3,1,3.0,13726.0,0,13,5,4,3,4,travel_rarely,2,No,No
+728,1045.0,45,Female,2,,3,4,Manager,Sales,3,3.0,No,4,4,2,4.0,,1,13,9,1,1,4,Non-Travel,11,No,No
+729,1049.0,45,Male,4,,1,1,Human Resources,Unknown,3,3.0,No,2,2,1,3.0,,0,16,6,0,4,3,travel_rarely,24,No,Yes
+730,Unknown,37,Female,3,,3,2,Healthcare Representative,Unknown,3,3.0,No,2,4,1,2.0,4107.0,0,15,4,0,1,3,travel_rarely,3,No,Yes
+731,1068.0,26,Female,1,Medical,1,1,Research Scientist,Unknown,2,3.0,No,3,1,3,3.0,,2,13,5,1,3,5,Non-Travel,26,No,No
+732,Unknown,26,Male,2,Medical,1,1,Laboratory Technician,Unknown,2,3.0,No,1,1,1,3.0,,2,16,5,1,3,2,Non-Travel,1,No,Yes
+733,1136.0,28,Male,1,,0,1,Research Scientist,Unknown,2,3.0,No,2,42,1,1.0,,0,17,5,0,4,2,Non-Travel,42,No,Yes
+734,Unknown,24,Male,3,Medical,8,1,Laboratory Technician,Unknown,3,4.0,No,2,4,4,3.0,3597.0,0,22,4,1,2,2,Non-Travel,24,No,No
+735,1179.0,30,Male,3,Marketing,1,2,Sales Executive,Unknown,2,3.0,No,3,3,1,3.0,,1,18,10,1,4,3,travel_rarely,10,No,No
+736,1188.0,43,Female,3,,8,2,Sales Executive,Unknown,1,,Yes,3,1,2,2.0,,0,13,4,1,3,2,Non-Travel,9,No,Yes
+737,1211.0,30,Male,4,Life Sciences,8,2,Sales Executive,Unknown,3,3.0,No,1,3,3,3.0,4115.0,3,19,4,0,3,3,travel_rarely,29,No,No
+738,1228.0,46,Male,4,Technical Degree,2,2,Manufacturing Director,Unknown,3,3.0,No,4,4,3,2.0,,1,11,6,1,4,3,travel_rarely,2,No,Yes
+739,1231.0,42,Male,5,,7,2,Human Resources,Human Resources,4,3.0,No,1,4,1,4.0,6272.0,1,16,4,0,3,3,non-travel,2,No,Yes
+740,Unknown,25,Male,4,Life Sciences,0,2,Sales Executive,Unknown,3,3.0,No,4,3,2,3.0,,0,14,4,1,1,4,Non-Travel,10,No,No
+741,1259.0,27,Male,2,,1,1,Research Scientist,Unknown,3,3.0,No,3,1,2,,2517.0,3,11,5,0,3,2,Non-Travel,4,No,Yes
+742,1338.0,56,Male,4,Life Sciences,6,5,Manager,Unknown,3,3.0,No,2,4,1,3.0,,0,14,7,7,7,4,travel_rarely,8,No,No
+743,1349.0,41,Female,3,Marketing,0,2,Sales Executive,Sales,3,3.0,No,1,3,4,3.0,,1,17,9,1,7,2,travel_frequently,1,No,Yes
+744,1387.0,28,Male,3,Life Sciences,1,2,Sales Executive,Unknown,2,3.0,No,1,3,3,3.0,,1,11,5,0,4,0,Non-Travel,26,No,Yes
+745,1401.0,52,Female,2,,2,4,Manufacturing Director,Unknown,4,3.0,No,3,4,2,2.0,,1,11,5,0,2,3,travel_frequently,28,No,Yes
+746,1407.0,26,Male,1,Medical,0,1,Research Scientist,Unknown,2,3.0,No,4,1,4,3.0,3904.0,0,12,4,1,1,2,travel_rarely,2,No,Yes
+747,1420.0,49,Male,2,,3,2,Laboratory Technician,Unknown,2,4.0,Yes,1,1,1,,,0,20,4,1,3,2,travel_frequently,28,No,Yes
+748,1431.0,34,Male,4,Other,5,1,Research Scientist,Unknown,3,3.0,No,1,4,3,3.0,,2,14,4,1,3,2,travel_frequently,1,No,Yes
+749,1446.0,32,Male,5,Marketing,4,2,Sales Executive,Unknown,3,3.0,No,4,4,3,,9204.0,1,12,4,0,3,3,Non-Travel,7,No,Yes
+750,1477.0,33,Male,3,Medical,0,2,Sales Executive,Unknown,3,3.0,No,1,4,1,3.0,4373.0,2,14,4,0,3,2,Non-Travel,7,No,No
+751,1487.0,29,Female,3,,5,2,Sales Executive,Sales,3,,Yes,2,1,1,1.0,,0,11,5,0,0,4,Non-Travel,13,No,No
+752,1499.0,30,Male,3,Life Sciences,0,1,Human Resources,Unknown,3,4.0,No,3,3,1,4.0,2064.0,1,21,5,1,3,3,Non-Travel,16,No,No
+753,1533.0,23,Male,1,Life Sciences,0,2,Laboratory Technician,Research & Development,3,3.0,No,3,11,2,3.0,,0,14,4,1,2,2,Non-Travel,11,No,No
+754,1545.0,33,Male,3,,1,2,Manufacturing Director,Unknown,2,3.0,No,2,4,4,3.0,,0,13,5,0,2,2,Non-Travel,25,No,Yes
+755,1554.0,35,Female,4,,0,1,Sales Representative,Unknown,2,4.0,No,3,2,1,3.0,2430.0,2,23,5,4,2,5,Non-Travel,28,No,Yes
+756,1563.0,38,Male,4,,3,2,Human Resources,Unknown,3,3.0,No,3,3,3,3.0,,0,11,6,1,2,2,travel_frequently,10,No,Yes
+757,1622.0,28,Female,3,,0,2,Manufacturing Director,Unknown,1,4.0,No,1,2,2,2.0,4877.0,1,21,5,0,0,5,Non-Travel,27,No,Yes
+758,1631.0,37,Male,3,Life Sciences,3,2,Manufacturing Director,Unknown,3,3.0,No,3,3,1,2.0,,3,17,4,0,2,2,Non-Travel,19,No,No
+759,1646.0,24,Female,1,Technical Degree,1,1,Research Scientist,Research & Development,3,3.0,No,4,1,3,3.0,3760.0,0,13,6,1,3,2,Non-Travel,2,No,No
+760,1659.0,36,Male,3,,2,1,Laboratory Technician,Unknown,3,3.0,No,2,1,3,3.0,2013.0,0,11,4,1,3,4,Non-Travel,7,No,Yes
+761,Unknown,38,Female,3,,1,1,Laboratory Technician,Unknown,2,4.0,No,2,4,2,3.0,,0,22,4,3,3,3,travel_frequently,2,No,No
+762,1689.0,53,Male,4,Medical,3,3,Healthcare Representative,Unknown,4,3.0,No,4,2,3,3.0,,0,15,4,1,2,2,travel_rarely,24,No,No
+763,1700.0,37,Male,4,,1,2,Sales Executive,Unknown,1,3.0,No,4,3,3,2.0,,2,14,6,1,3,2,travel_frequently,1,No,Yes
+764,Unknown,24,Male,3,Medical,1,1,Research Scientist,Research & Development,4,3.0,No,3,3,4,3.0,,1,16,5,0,4,1,Non-Travel,12,No,Yes
+765,Unknown,29,Female,4,Medical,9,1,Laboratory Technician,Unknown,3,3.0,No,3,4,3,3.0,2974.0,1,17,5,1,2,2,travel_rarely,9,No,No
+766,1739.0,32,Male,3,,3,3,Sales Executive,Unknown,1,3.0,No,3,4,3,1.0,,1,13,4,0,2,2,travel_rarely,19,No,No
+767,1768.0,42,Male,3,Medical,8,1,Laboratory Technician,Unknown,3,4.0,No,2,2,2,2.0,2766.0,3,22,5,0,4,6,travel_rarely,12,No,Yes
+768,1772.0,41,Male,4,Life Sciences,1,1,Laboratory Technician,Unknown,3,4.0,No,1,3,2,3.0,,2,20,5,0,4,2,Non-Travel,9,No,Yes
+769,1792.0,44,Male,2,,1,1,Research Scientist,Unknown,3,3.0,Yes,2,3,3,2.0,,3,12,5,2,3,2,Non-Travel,1,Yes,Yes
+770,Unknown,28,Male,3,,1,1,Research Scientist,Unknown,3,3.0,No,4,3,3,4.0,,1,11,5,0,3,6,travel_rarely,1,No,Yes
+771,1800.0,39,Male,1,Medical,7,3,Research Director,Research & Development,3,4.0,No,3,3,3,3.0,,0,21,4,2,2,3,Non-Travel,10,No,Yes
+772,Unknown,40,Female,2,Life Sciences,4,1,Laboratory Technician,Unknown,3,3.0,No,1,3,4,2.0,3377.0,1,17,4,0,2,5,Non-Travel,2,No,Yes
+773,Unknown,37,Male,4,,1,2,Manufacturing Director,Unknown,3,3.0,Yes,1,4,2,,4213.0,0,15,10,0,8,4,travel_rarely,10,No,Yes
+774,1822.0,40,Female,3,,4,2,Healthcare Representative,Unknown,3,3.0,No,4,3,4,3.0,6513.0,1,17,5,0,3,3,Non-Travel,1,No,Yes
+775,Unknown,26,Male,3,,1,2,Sales Executive,Sales,3,3.0,No,4,3,1,3.0,,0,13,5,1,2,4,travel_rarely,10,No,No
+776,1854.0,42,Male,4,Technical Degree,3,1,Research Scientist,Unknown,3,4.0,No,3,3,2,2.0,,2,22,6,3,3,1,Non-Travel,10,No,No
+777,1882.0,34,Male,3,,2,3,Sales Executive,Unknown,3,3.0,No,4,3,4,3.0,,3,13,5,1,0,3,travel_rarely,4,Yes,Yes
+778,1885.0,37,Male,4,Medical,5,2,Research Scientist,Unknown,3,4.0,No,1,4,3,3.0,4284.0,1,22,5,0,4,2,travel_rarely,7,No,Yes
+779,1931.0,27,Male,4,Technical Degree,1,1,Research Scientist,Unknown,3,,No,2,2,3,2.0,2226.0,1,11,5,1,2,3,Non-Travel,2,No,No
+780,1945.0,35,Male,4,,0,2,Sales Executive,Unknown,3,3.0,No,1,2,4,1.0,5561.0,1,16,5,0,4,2,travel_rarely,18,No,Yes
+782,1954.0,29,Male,3,Life Sciences,0,2,Healthcare Representative,Unknown,3,3.0,No,1,1,1,2.0,5373.0,1,12,5,0,2,5,Non-Travel,1,No,No
+783,1969.0,54,Female,2,,3,2,Research Scientist,Research & Development,3,3.0,No,3,1,3,2.0,2897.0,2,11,4,2,3,6,Non-Travel,9,No,No
+784,1981.0,24,Male,2,Life Sciences,1,2,Healthcare Representative,Unknown,2,3.0,No,3,41,2,2.0,,0,12,4,1,2,2,travel_rarely,41,No,Yes
+785,1997.0,38,Male,4,,2,2,Manufacturing Director,Unknown,2,3.0,No,3,1,4,3.0,5321.0,1,11,8,7,7,1,travel_frequently,6,No,No
+786,1998.0,42,Male,4,,6,2,Research Scientist,Unknown,3,3.0,No,1,4,3,2.0,5410.0,1,17,4,1,2,3,Non-Travel,18,No,Yes
+787,1999.0,41,Male,3,Life Sciences,3,1,Research Scientist,Unknown,3,,No,4,4,1,3.0,2782.0,1,22,5,1,0,3,Non-Travel,1,No,Yes
+788,2018.0,25,Female,2,,0,2,Sales Executive,Unknown,3,4.0,No,3,1,2,2.0,,1,22,5,0,4,3,travel_rarely,8,Yes,Yes
+789,Unknown,44,Male,3,Medical,6,1,Research Scientist,Unknown,3,3.0,No,4,2,3,3.0,,0,12,4,1,2,2,Non-Travel,1,Yes,Yes
+790,2044.0,50,Male,4,,7,2,Sales Executive,Unknown,3,3.0,Yes,3,2,4,,,2,12,6,0,1,3,Non-Travel,1,No,Yes
+791,Unknown,36,Female,4,Marketing,4,2,Sales Executive,Sales,2,3.0,No,4,2,1,2.0,,1,13,6,0,0,2,Non-Travel,11,No,No
+792,2046.0,45,Female,3,,8,2,Sales Executive,Unknown,3,3.0,No,3,4,3,3.0,4850.0,0,15,5,0,1,3,Non-Travel,20,No,Yes
+793,Unknown,40,Female,4,,2,1,Research Scientist,Unknown,3,3.0,No,3,3,2,3.0,2001.0,3,14,5,0,2,2,Non-Travel,2,No,Yes
+794,2052.0,35,Female,4,,1,1,Research Scientist,Unknown,1,3.0,No,4,3,4,3.0,,1,12,4,1,1,5,travel_rarely,1,No,Yes
+795,2053.0,29,Male,2,Other,4,2,Laboratory Technician,Unknown,2,3.0,No,2,4,1,3.0,,1,13,4,0,3,2,travel_rarely,13,No,No
+796,2068.0,34,Male,3,,2,2,Laboratory Technician,Unknown,4,3.0,No,3,2,1,4.0,4404.0,0,12,4,1,2,3,Non-Travel,8,No,Yes
+797,7.0,27,Male,1,,9,1,Laboratory Technician,Unknown,3,3.0,No,2,1,4,3.0,,1,12,2,2,2,3,travel_rarely,2,No,No
+798,16.0,31,Male,1,,1,1,Research Scientist,Research & Development,3,3.0,No,3,1,4,2.0,,1,17,5,4,3,1,Non-Travel,26,No,Yes
+799,18.0,34,Male,2,,0,1,Laboratory Technician,Unknown,3,3.0,No,4,2,3,3.0,,1,11,2,1,2,2,travel_rarely,38,No,Yes
+800,19.0,28,Male,3,Life Sciences,5,1,Laboratory Technician,Research & Development,2,3.0,Yes,3,3,2,3.0,,0,14,4,0,3,4,travel_rarely,24,Yes,Yes
+801,21.0,32,Male,2,,0,1,Research Scientist,Unknown,4,3.0,No,2,1,4,2.0,,2,12,6,0,5,5,travel_rarely,5,Yes,Yes
+802,24.0,38,Male,3,Life Sciences,5,1,Research Scientist,Research & Development,3,3.0,No,4,4,3,3.0,3944.0,0,11,3,1,2,3,Non-Travel,2,Yes,Yes
+803,26.0,24,Female,2,,0,2,Manufacturing Director,Unknown,4,3.0,No,3,1,4,2.0,,1,18,4,1,3,5,Non-Travel,11,No,Yes
+804,31.0,34,Male,1,,2,1,Research Scientist,Unknown,3,3.0,Yes,1,2,3,3.0,2960.0,0,11,4,1,3,2,Non-Travel,6,No,Yes
+805,33.0,32,Female,1,,1,1,Research Scientist,Research & Development,1,,Yes,1,2,2,3.0,,0,22,10,6,7,5,travel_frequently,16,No,No
+806,38.0,46,Female,4,Marketing,3,5,Manager,Unknown,3,3.0,No,1,2,4,2.0,18947.0,0,12,2,2,1,2,travel_rarely,2,No,No
+807,40.0,44,Male,4,Other,2,2,Healthcare Representative,Unknown,3,3.0,No,4,4,4,4.0,6465.0,0,13,4,1,3,5,Non-Travel,10,No,No
+808,47.0,50,Male,2,,1,1,Sales Representative,Unknown,2,3.0,Yes,3,1,3,3.0,2683.0,0,14,3,0,2,2,travel_rarely,3,No,Yes
+809,49.0,35,Female,3,Marketing,1,1,Sales Representative,Unknown,3,3.0,No,4,4,1,3.0,2014.0,0,13,2,2,2,3,Non-Travel,2,No,Yes
+810,65.0,28,Male,4,,1,1,Laboratory Technician,Unknown,3,,Yes,3,3,3,2.0,3441.0,0,13,2,2,2,3,Non-Travel,5,Yes,Yes
+811,72.0,26,Female,3,,7,2,Sales Executive,Unknown,2,3.0,No,4,22,3,2.0,,1,19,2,0,0,2,Non-Travel,22,Yes,No
+812,Unknown,35,Female,4,,3,1,Laboratory Technician,Unknown,3,,No,1,3,3,3.0,,1,15,2,2,2,3,travel_rarely,31,Yes,No
+813,88.0,35,Male,3,Medical,4,1,Research Scientist,Unknown,3,3.0,No,1,2,4,2.0,,1,13,3,1,2,2,Non-Travel,31,No,Yes
+814,102.0,37,Male,4,Medical,4,3,Research Director,Unknown,3,,No,3,1,1,4.0,13664.0,0,13,5,0,2,3,travel_rarely,20,No,Yes
+815,103.0,46,Male,2,Medical,8,2,Human Resources,Unknown,3,4.0,No,2,38,4,3.0,5021.0,1,22,4,0,2,2,travel_rarely,38,Yes,Yes
+816,110.0,34,Male,2,Medical,1,2,Manufacturing Director,Unknown,3,3.0,No,2,1,3,3.0,,0,15,5,1,3,2,travel_rarely,1,No,Yes
+817,116.0,51,Male,4,,3,1,Laboratory Technician,Unknown,3,4.0,No,4,4,2,3.0,,2,23,4,0,3,4,travel_rarely,9,No,Yes
+818,128.0,24,Female,2,Other,0,2,Sales Executive,Sales,3,4.0,No,3,1,1,2.0,,1,21,3,0,2,2,travel_rarely,3,No,Yes
+819,132.0,44,Male,3,,4,2,Laboratory Technician,Unknown,3,3.0,No,2,2,3,4.0,,1,12,3,1,2,3,Non-Travel,23,No,Yes
+820,133.0,37,Male,4,Human Resources,4,1,Human Resources,Unknown,3,4.0,Yes,1,3,4,3.0,,0,22,3,0,2,3,travel_rarely,6,No,Yes
+821,Unknown,59,Female,4,Human Resources,9,5,Manager,Unknown,2,4.0,No,4,3,4,3.0,18844.0,1,21,3,2,2,3,non-travel,2,No,No
+822,143.0,25,Male,1,,1,1,Research Scientist,Unknown,2,3.0,No,4,4,3,,,2,11,2,2,1,2,Non-Travel,7,No,Yes
+823,171.0,43,Female,3,Medical,4,1,Research Scientist,Unknown,4,3.0,No,3,2,4,3.0,4739.0,0,12,3,1,2,2,Non-Travel,26,No,Yes
+824,Unknown,50,Female,3,,4,3,Sales Executive,Unknown,3,3.0,No,4,3,4,,,0,11,2,2,1,3,travel_frequently,12,No,No
+825,175.0,31,Female,3,,3,2,Sales Executive,Unknown,1,3.0,Yes,3,2,3,3.0,,1,11,2,2,2,2,travel_rarely,20,Yes,Yes
+826,178.0,36,Male,2,Medical,6,2,Manufacturing Director,Research & Development,3,4.0,No,2,2,4,3.0,,2,20,3,0,1,0,Non-Travel,6,No,No
+827,179.0,51,Male,4,,2,3,Manufacturing Director,Unknown,1,3.0,Yes,4,1,4,3.0,10650.0,0,15,4,0,3,2,travel_frequently,16,No,No
+828,Unknown,25,Male,3,Life Sciences,2,2,Sales Executive,Sales,2,3.0,No,3,1,4,3.0,,0,18,2,2,2,3,Non-Travel,28,No,No
+829,193.0,38,Female,5,Technical Degree,3,2,Research Scientist,Unknown,3,4.0,No,3,4,2,,4317.0,0,20,3,2,2,2,travel_rarely,3,Yes,No
+830,197.0,30,Female,3,Technical Degree,5,1,Research Scientist,Research & Development,3,,No,1,4,4,3.0,,1,14,3,2,2,3,travel_rarely,5,No,Yes
+831,Unknown,22,Male,1,Medical,1,1,Research Scientist,Unknown,3,4.0,No,4,36,1,3.0,,2,24,2,2,2,6,Non-Travel,36,No,Yes
+832,218.0,27,Male,3,Medical,6,1,Research Scientist,Research & Development,3,3.0,No,2,4,4,1.0,2024.0,1,18,2,2,2,1,non-travel,9,No,Yes
+833,221.0,28,Male,3,Medical,1,1,Research Scientist,Research & Development,3,3.0,No,4,3,3,1.0,,1,11,5,0,2,2,Non-Travel,21,No,Yes
+834,233.0,27,Male,3,,0,1,Research Scientist,Unknown,3,3.0,No,2,3,4,2.0,3058.0,1,16,5,1,1,3,Non-Travel,17,No,Yes
+835,241.0,56,Female,3,Life Sciences,4,1,Research Scientist,Unknown,3,3.0,No,1,3,3,,,1,18,2,2,2,3,travel_rarely,8,No,Yes
+836,245.0,38,Female,2,,1,1,Laboratory Technician,Unknown,3,,No,4,3,3,,,0,12,2,2,1,3,travel_rarely,9,No,Yes
+837,246.0,31,Female,1,Medical,8,1,Research Scientist,Unknown,3,4.0,No,4,3,3,3.0,3929.0,1,23,4,0,2,0,travel_rarely,12,No,Yes
+838,247.0,34,Female,2,Medical,2,1,Research Scientist,Unknown,3,3.0,No,2,4,4,3.0,,0,15,3,1,2,3,travel_rarely,27,No,Yes
+839,249.0,50,Male,3,,2,1,Laboratory Technician,Research & Development,2,3.0,No,3,3,4,2.0,,1,15,3,0,2,2,Non-Travel,1,No,No
+840,250.0,53,Female,2,,1,2,Manufacturing Director,Unknown,4,3.0,No,1,4,3,3.0,,2,11,4,1,3,3,Non-Travel,13,No,No
+841,269.0,35,Female,3,Medical,5,2,Laboratory Technician,Unknown,3,3.0,No,2,2,4,3.0,4425.0,0,11,6,1,2,5,travel_frequently,24,No,Yes
+842,Unknown,27,Male,1,,5,2,Manufacturing Director,Unknown,2,3.0,No,1,3,3,3.0,,1,19,2,2,0,1,travel_frequently,1,No,No
+843,Unknown,40,Male,2,,8,2,Laboratory Technician,Unknown,3,3.0,No,4,3,3,4.0,,1,15,7,3,7,2,Non-Travel,38,No,Yes
+844,Unknown,22,Male,3,Life Sciences,1,1,Research Scientist,Unknown,4,3.0,No,2,22,1,2.0,2328.0,1,16,4,2,2,2,Non-Travel,22,No,No
+845,287.0,40,Male,5,Life Sciences,9,2,Healthcare Representative,Unknown,2,3.0,No,4,4,4,1.0,,1,14,3,0,2,5,Non-Travel,10,No,Yes
+846,288.0,46,Male,4,,7,3,Healthcare Representative,Unknown,3,3.0,No,1,4,3,3.0,,1,16,4,0,3,3,Non-Travel,1,No,Yes
+847,297.0,30,Female,3,Technical Degree,5,1,Research Scientist,Unknown,3,3.0,Yes,1,4,3,3.0,2657.0,0,11,5,0,4,5,Non-Travel,3,Yes,Yes
+848,Unknown,29,Male,3,,0,1,Research Scientist,Unknown,3,3.0,Yes,3,3,4,2.0,,0,14,6,1,5,1,Non-Travel,1,No,No
+849,303.0,54,Female,3,,2,2,Sales Executive,Unknown,3,3.0,No,1,4,4,3.0,5940.0,1,14,6,0,5,4,Non-Travel,3,No,No
+850,305.0,33,Female,4,,6,1,Research Scientist,Research & Development,2,4.0,No,2,3,4,3.0,2622.0,0,21,3,1,1,3,travel_rarely,4,No,Yes
+851,316.0,52,Female,3,,7,1,Laboratory Technician,Unknown,2,3.0,No,4,3,2,2.0,3212.0,0,15,2,2,2,3,travel_rarely,2,No,Yes
+852,Unknown,59,Male,2,Medical,8,1,Human Resources,Human Resources,3,3.0,No,3,2,4,2.0,,0,17,2,2,2,2,travel_rarely,6,No,No
+853,Unknown,32,Male,3,,0,1,Laboratory Technician,Unknown,2,3.0,Yes,3,4,4,1.0,,0,14,3,1,2,2,Non-Travel,1,No,Yes
+854,332.0,39,Female,4,Medical,7,1,Laboratory Technician,Unknown,3,3.0,No,3,24,3,3.0,,3,14,3,1,2,1,Non-Travel,24,No,No
+855,Unknown,32,Male,4,Marketing,0,2,Sales Executive,Unknown,3,3.0,No,4,3,1,3.0,,0,18,3,2,2,2,non-travel,26,No,Yes
+856,337.0,31,Male,4,Medical,9,3,Research Director,Unknown,3,3.0,No,3,2,1,3.0,,1,12,2,2,2,3,Non-Travel,3,No,Yes
+857,338.0,33,Female,4,Life Sciences,1,1,Research Scientist,Unknown,2,3.0,No,4,3,3,2.0,2911.0,1,13,2,0,2,2,travel_rarely,5,No,Yes
+858,341.0,45,Male,4,Life Sciences,4,2,Manufacturing Director,Unknown,4,3.0,No,3,1,4,3.0,,1,17,3,0,2,1,Non-Travel,23,No,Yes
+859,347.0,42,Female,2,,3,2,Research Scientist,Research & Development,4,3.0,No,1,4,3,3.0,,0,13,3,0,2,1,Non-Travel,17,Yes,Yes
+860,349.0,29,Male,2,Marketing,2,2,Sales Executive,Unknown,3,3.0,No,4,4,4,3.0,6931.0,1,14,3,0,2,2,Non-Travel,19,No,No
+861,350.0,25,Female,3,,0,2,Manufacturing Director,Unknown,3,3.0,No,3,1,4,3.0,,2,12,4,1,2,3,travel_rarely,1,No,No
+862,362.0,32,Male,1,,4,2,Laboratory Technician,Unknown,2,3.0,No,1,4,4,3.0,2176.0,0,13,6,0,4,5,Non-Travel,2,No,No
+863,Unknown,28,Male,3,,1,1,Research Scientist,Unknown,3,4.0,No,4,4,4,,,1,23,5,0,4,3,travel_rarely,9,No,Yes
+864,379.0,21,Male,2,,1,1,Research Scientist,Unknown,2,3.0,No,3,4,1,4.0,3230.0,0,17,3,1,0,4,travel_rarely,3,No,No
+865,380.0,37,Female,4,Medical,2,3,Research Director,Unknown,3,3.0,No,4,1,1,3.0,,2,18,5,0,2,2,non-travel,1,Yes,No
+866,393.0,38,Male,4,Life Sciences,9,2,Healthcare Representative,Unknown,3,3.0,No,4,4,2,3.0,,1,14,2,1,2,2,travel_rarely,23,No,No
+867,394.0,26,Male,4,Medical,2,1,Laboratory Technician,Unknown,3,3.0,Yes,2,1,4,3.0,,1,13,3,0,2,2,travel_rarely,16,Yes,No
+868,396.0,49,Female,4,Life Sciences,9,5,Research Director,Unknown,3,3.0,No,1,3,4,3.0,18665.0,0,11,3,1,2,4,Non-Travel,10,Yes,Yes
+869,Unknown,31,Female,3,,1,1,Sales Representative,Sales,3,3.0,No,2,4,3,2.0,2789.0,1,11,2,2,2,5,travel_frequently,5,No,Yes
+870,403.0,37,Male,3,Medical,1,1,Research Scientist,Unknown,3,3.0,No,4,2,3,2.0,,3,12,4,1,2,3,travel_frequently,9,No,No
+872,424.0,31,Male,3,Human Resources,3,2,Human Resources,Unknown,2,3.0,No,1,1,4,3.0,6410.0,0,12,2,1,0,1,travel_rarely,2,No,No
+873,Unknown,31,Male,4,,0,1,Research Scientist,Research & Development,3,3.0,No,4,3,2,1.0,,1,18,2,2,2,2,Non-Travel,2,No,Yes
+875,440.0,28,Male,4,Medical,5,1,Research Scientist,Unknown,1,3.0,Yes,4,1,4,2.0,,0,13,3,2,2,4,Non-Travel,2,Yes,Yes
+876,447.0,47,Male,5,,4,5,Research Director,Unknown,3,3.0,No,3,4,2,3.0,,1,11,3,1,1,2,travel_rarely,5,No,No
+880,470.0,42,Male,1,,0,1,Human Resources,Human Resources,3,3.0,No,3,3,3,3.0,2696.0,1,11,3,1,0,5,travel_rarely,2,Yes,No
+881,475.0,30,Female,2,,7,2,Sales Executive,Sales,3,3.0,No,3,4,2,4.0,,1,12,2,2,2,2,Non-Travel,25,No,No
+884,Unknown,21,Male,2,,1,1,Sales Representative,Unknown,3,4.0,No,4,1,3,2.0,,0,24,3,2,2,3,Non-Travel,9,No,Yes
+885,Unknown,31,Male,4,Life Sciences,0,1,Research Scientist,Unknown,2,3.0,No,2,3,4,3.0,2657.0,0,16,2,2,2,5,travel_rarely,9,No,Yes
+886,495.0,29,Male,3,,9,1,Research Scientist,Research & Development,3,,No,4,17,4,3.0,,0,16,3,1,2,4,Non-Travel,17,No,No
+887,Unknown,27,Male,2,,1,1,Laboratory Technician,Unknown,3,3.0,No,2,4,2,3.0,,1,11,5,0,4,2,travel_rarely,1,No,Yes
+888,Unknown,49,Male,3,Other,8,3,Healthcare Representative,Unknown,2,4.0,No,3,2,3,3.0,10965.0,0,24,5,0,0,2,travel_rarely,7,No,Yes
+889,501.0,36,Female,3,,4,1,Research Scientist,Unknown,3,3.0,No,3,4,2,3.0,2543.0,1,13,2,2,2,3,travel_rarely,2,No,Yes
+890,502.0,34,Male,3,Marketing,8,2,Sales Executive,Unknown,4,3.0,Yes,4,1,2,2.0,5304.0,0,13,5,0,4,3,non-travel,19,Yes,Yes
+891,507.0,24,Female,4,Marketing,1,2,Sales Executive,Unknown,3,3.0,No,3,4,4,4.0,,1,12,5,0,3,2,Non-Travel,10,Yes,Yes
+892,517.0,42,Female,4,,3,1,Laboratory Technician,Unknown,3,3.0,No,1,2,2,3.0,,1,16,5,1,2,5,Non-Travel,1,No,Yes
+893,522.0,54,Male,2,Medical,4,5,Research Director,Unknown,3,3.0,No,1,1,3,2.0,19406.0,1,11,4,1,2,4,Non-Travel,5,No,No
+894,523.0,34,Female,4,,9,2,Sales Executive,Unknown,3,3.0,No,3,3,1,3.0,6538.0,1,15,3,1,2,3,Non-Travel,4,No,Yes
+895,525.0,43,Male,3,,7,1,Laboratory Technician,Unknown,3,4.0,No,4,4,1,3.0,2258.0,1,20,3,1,2,1,Non-Travel,21,No,Yes
+896,526.0,43,Female,4,Other,4,2,Healthcare Representative,Unknown,3,3.0,No,3,3,4,3.0,,0,14,5,0,2,3,travel_rarely,8,Yes,Yes
+897,530.0,31,Male,2,,1,1,Laboratory Technician,Unknown,2,3.0,No,1,4,3,,2218.0,1,12,4,3,2,3,travel_rarely,1,No,No
+898,Unknown,25,Male,3,Medical,5,1,Laboratory Technician,Unknown,3,3.0,Yes,1,1,3,,,1,13,2,0,2,5,travel_rarely,3,No,Yes
+899,544.0,45,Male,2,Life Sciences,3,1,Research Scientist,Unknown,3,,No,4,1,4,2.0,2654.0,2,21,2,0,2,3,Non-Travel,10,No,Yes
+900,Unknown,52,Female,2,Life Sciences,2,4,Manager,Unknown,3,3.0,No,4,4,4,1.0,,0,13,5,1,4,2,travel_rarely,4,No,No
+901,555.0,34,Female,2,,0,1,Sales Representative,Unknown,1,3.0,Yes,3,4,4,2.0,,1,16,2,1,0,3,travel_frequently,6,No,Yes
+902,Unknown,26,Female,3,Life Sciences,1,1,Research Scientist,Unknown,3,4.0,No,4,1,2,1.0,,2,22,3,0,2,3,travel_rarely,23,No,Yes
+903,564.0,29,Male,4,,1,3,Research Director,Unknown,2,3.0,No,3,2,3,3.0,11935.0,0,18,10,0,7,2,Non-Travel,3,No,Yes
+904,Unknown,29,Female,5,Technical Degree,5,1,Research Scientist,Unknown,2,3.0,Yes,2,3,2,4.0,2546.0,0,16,2,1,1,2,Non-Travel,25,No,No
+905,Unknown,46,Male,3,Life Sciences,6,4,Research Director,Unknown,3,3.0,No,3,1,3,1.0,17861.0,0,13,3,0,1,2,Non-Travel,2,No,No
+906,580.0,46,Female,3,Marketing,2,3,Sales Executive,Unknown,2,3.0,No,4,3,3,3.0,,1,19,3,1,2,3,Non-Travel,10,No,No
+907,585.0,30,Male,1,Marketing,0,1,Sales Representative,Sales,3,3.0,No,2,4,1,3.0,,0,14,3,1,2,3,travel_rarely,7,No,Yes
+908,Unknown,34,Female,3,,9,3,Human Resources,Human Resources,3,3.0,Yes,1,2,3,3.0,,3,15,3,0,2,2,travel_frequently,23,Yes,No
+909,591.0,42,Male,2,Other,4,1,Laboratory Technician,Unknown,3,3.0,No,3,2,4,,,1,17,2,2,0,4,Non-Travel,5,No,Yes
+910,593.0,22,Male,1,Technical Degree,5,1,Laboratory Technician,Research & Development,2,3.0,Yes,3,3,3,3.0,3894.0,0,16,2,1,2,3,Non-Travel,25,No,Yes
+911,611.0,29,Male,3,Technical Degree,4,2,Manufacturing Director,Unknown,3,3.0,No,4,4,2,4.0,4262.0,2,12,3,1,2,2,travel_rarely,19,No,Yes
+912,624.0,46,Female,1,Medical,5,3,Healthcare Representative,Research & Development,3,3.0,No,3,1,4,2.0,10527.0,0,11,2,1,2,3,travel_frequently,18,No,Yes
+913,631.0,32,Male,4,Other,8,2,Sales Executive,Sales,4,3.0,Yes,3,4,4,3.0,,0,12,4,1,2,2,Non-Travel,11,No,Yes
+914,632.0,24,Male,3,Medical,0,1,Sales Representative,Unknown,3,3.0,No,4,4,3,3.0,2400.0,2,13,2,2,1,3,Non-Travel,24,No,No
+915,652.0,35,Male,2,,4,2,Laboratory Technician,Unknown,2,3.0,No,4,1,4,3.0,3681.0,0,14,3,0,2,3,travel_rarely,25,No,No
+916,659.0,42,Female,4,Life Sciences,1,2,Healthcare Representative,Unknown,3,3.0,No,4,3,2,3.0,,2,13,10,2,2,4,Non-Travel,2,No,Yes
+917,664.0,48,Female,4,,7,4,Manager,Unknown,2,3.0,No,1,4,1,1.0,,1,11,3,0,2,3,travel_rarely,1,No,Yes
+918,665.0,44,Female,4,,4,2,Human Resources,Unknown,2,,No,3,1,2,4.0,,0,11,2,0,2,1,travel_rarely,1,No,Yes
+919,666.0,34,Female,3,,1,1,Sales Representative,Sales,3,3.0,No,3,3,4,3.0,,2,18,8,0,6,3,Non-Travel,14,Yes,Yes
+920,Unknown,21,Male,1,Technical Degree,1,1,Sales Representative,Unknown,3,,No,3,3,3,3.0,3447.0,0,11,3,1,2,2,Non-Travel,22,No,Yes
+921,671.0,44,Male,4,,4,5,Manager,Unknown,3,3.0,No,4,4,1,4.0,19513.0,1,12,2,0,1,2,travel_rarely,3,No,Yes
+922,675.0,22,Male,1,Medical,0,1,Research Scientist,Unknown,3,4.0,No,3,1,4,3.0,,0,20,2,2,2,3,travel_rarely,6,No,Yes
+923,686.0,26,Female,3,,1,1,Laboratory Technician,Unknown,3,,No,4,3,3,3.0,2659.0,1,13,3,0,2,2,travel_rarely,6,Yes,No
+924,699.0,36,Male,2,Medical,2,2,Manufacturing Director,Unknown,2,3.0,No,2,2,3,3.0,8847.0,1,11,3,0,2,2,Non-Travel,9,Yes,Yes
+925,Unknown,27,Male,4,Medical,0,1,Research Scientist,Unknown,2,3.0,No,4,1,4,3.0,2045.0,0,13,4,1,1,0,Non-Travel,3,No,Yes
+926,705.0,23,Male,3,,2,1,Research Scientist,Unknown,4,3.0,No,1,1,1,4.0,,1,16,3,0,2,3,travel_rarely,4,No,No
+927,707.0,25,Male,3,Life Sciences,0,2,Sales Executive,Unknown,4,4.0,No,2,4,3,3.0,4851.0,1,22,3,1,2,4,Non-Travel,8,No,No
+928,712.0,48,Male,1,,3,2,Sales Executive,Unknown,4,3.0,No,2,14,4,3.0,8120.0,0,12,2,2,2,3,Non-Travel,14,No,Yes
+929,Unknown,24,Female,2,Life Sciences,9,2,Sales Executive,Unknown,3,3.0,Yes,3,1,1,3.0,4577.0,0,14,2,2,0,3,travel_rarely,3,No,Yes
+930,732.0,60,Male,4,,8,2,Sales Executive,Unknown,3,3.0,No,1,1,4,3.0,5405.0,0,14,2,2,2,1,travel_rarely,16,No,No
+931,738.0,50,Male,4,Marketing,7,1,Sales Representative,Unknown,3,3.0,No,2,4,4,3.0,,1,15,2,2,2,2,Non-Travel,8,No,Yes
+932,744.0,44,Male,3,,2,1,Laboratory Technician,Unknown,1,3.0,No,3,1,3,3.0,3708.0,0,14,5,1,4,5,non-travel,24,No,No
+933,746.0,47,Female,3,,9,4,Sales Executive,Unknown,3,3.0,No,3,4,4,2.0,13770.0,2,12,22,11,13,2,travel_frequently,3,Yes,Yes
+934,752.0,42,Male,3,,6,1,Research Scientist,Unknown,4,3.0,Yes,3,3,4,3.0,,0,12,2,2,2,2,Non-Travel,19,No,Yes
+935,754.0,43,Male,3,Life Sciences,3,2,Sales Executive,Unknown,2,,No,4,4,3,3.0,,1,18,2,2,2,5,travel_frequently,15,No,Yes
+936,Unknown,40,Female,1,,0,1,Research Scientist,Unknown,2,4.0,No,4,4,4,2.0,,0,20,4,2,3,2,Non-Travel,2,No,No
+937,Unknown,29,Male,3,,1,1,Sales Representative,Sales,3,3.0,No,2,4,4,3.0,2297.0,2,14,2,2,2,2,Non-Travel,10,No,No
+938,769.0,53,Male,3,,2,2,Laboratory Technician,Unknown,3,3.0,No,4,4,4,3.0,2450.0,0,17,2,2,2,4,Non-Travel,6,No,No
+939,Unknown,23,Male,1,Medical,1,1,Research Scientist,Research & Development,4,3.0,No,3,1,4,3.0,,0,18,2,0,2,3,travel_rarely,12,No,No
+940,Unknown,55,Male,3,Medical,5,5,Manager,Unknown,3,3.0,Yes,1,4,4,3.0,,1,13,5,1,4,2,Non-Travel,2,Yes,No
+941,792.0,26,Female,2,Life Sciences,3,1,Laboratory Technician,Unknown,1,3.0,No,4,1,1,3.0,,1,14,2,2,0,2,travel_frequently,1,No,Yes
+942,797.0,34,Female,4,,2,1,Research Scientist,Unknown,4,3.0,No,4,2,3,3.0,,0,16,4,1,3,2,travel_rarely,1,No,No
+943,800.0,27,Male,1,Marketing,0,2,Sales Executive,Unknown,3,3.0,No,4,3,2,3.0,4342.0,1,19,4,1,1,3,Non-Travel,8,No,Yes
+944,Unknown,35,Female,4,,1,1,Sales Representative,Unknown,3,3.0,No,4,1,2,2.0,2572.0,1,16,3,0,2,1,travel_rarely,8,No,Yes
+945,806.0,30,Male,3,,3,1,Laboratory Technician,Unknown,1,,No,3,4,3,3.0,,2,21,2,0,2,2,travel_rarely,18,No,Yes
+946,Unknown,34,Female,2,,5,2,Sales Executive,Unknown,3,3.0,No,1,3,2,3.0,6500.0,1,17,3,1,2,1,Non-Travel,8,No,Yes
+947,813.0,52,Female,4,Life Sciences,8,2,Laboratory Technician,Research & Development,3,4.0,No,3,25,2,3.0,3149.0,1,20,5,1,4,3,travel_rarely,25,No,Yes
+948,819.0,33,Female,3,Marketing,5,2,Sales Executive,Unknown,3,3.0,Yes,1,1,3,3.0,5324.0,0,15,3,0,2,3,travel_rarely,16,No,No
+949,Unknown,35,Female,4,,3,1,Research Scientist,Research & Development,4,3.0,No,3,20,3,3.0,,0,13,2,2,2,0,travel_rarely,20,No,No
+950,Unknown,28,Male,4,,6,1,Research Scientist,Unknown,3,3.0,Yes,3,3,4,2.0,4382.0,0,17,2,2,1,3,Non-Travel,2,No,Yes
+951,Unknown,36,Male,3,Human Resources,4,1,Human Resources,Unknown,3,3.0,No,2,3,2,3.0,,1,13,5,0,4,2,travel_rarely,13,No,Yes
+952,838.0,34,Female,4,,1,1,Research Scientist,Research & Development,2,3.0,No,4,3,3,3.0,2553.0,0,16,5,1,3,3,travel_frequently,16,No,Yes
+953,847.0,34,Male,2,,0,1,Human Resources,Unknown,3,3.0,No,4,3,3,1.0,,1,19,3,0,2,1,Non-Travel,3,No,No
+954,852.0,44,Male,3,,9,2,Healthcare Representative,Unknown,3,3.0,No,2,4,4,2.0,5933.0,0,12,5,2,3,2,travel_rarely,4,No,Yes
+955,859.0,32,Male,4,Life Sciences,2,2,Sales Executive,Unknown,3,3.0,No,4,2,3,2.0,4403.0,1,11,5,0,3,3,Non-Travel,13,No,Yes
+956,Unknown,53,Female,2,,7,3,Sales Executive,Unknown,2,3.0,No,4,1,4,3.0,10934.0,1,18,5,0,4,3,Non-Travel,7,Yes,No
+957,872.0,22,Male,2,Life Sciences,6,2,Manufacturing Director,Unknown,2,4.0,No,4,4,1,1.0,,2,22,2,2,2,2,Non-Travel,1,No,No
+958,874.0,44,Male,4,Life Sciences,2,1,Laboratory Technician,Unknown,4,4.0,No,4,1,3,2.0,,1,24,3,0,2,2,travel_rarely,8,Yes,No
+959,881.0,35,Female,4,Life Sciences,1,1,Research Scientist,Unknown,3,3.0,Yes,2,4,1,2.0,2022.0,1,19,10,7,8,3,travel_frequently,25,No,Yes
+960,885.0,25,Male,1,,1,2,Sales Executive,Unknown,2,3.0,No,1,3,1,4.0,4256.0,0,12,5,0,3,1,Non-Travel,4,No,No
+961,Unknown,49,Female,3,Technical Degree,2,1,Research Scientist,Unknown,3,3.0,No,1,3,2,3.0,3580.0,1,16,4,0,2,2,travel_rarely,1,No,No
+962,888.0,24,Male,1,Life Sciences,0,1,Laboratory Technician,Unknown,2,3.0,No,4,1,4,2.0,,0,17,5,3,4,2,non-travel,19,No,No
+963,893.0,38,Male,3,Marketing,0,1,Sales Representative,Sales,2,3.0,No,2,2,4,3.0,2899.0,1,19,2,1,2,3,travel_rarely,9,No,Yes
+964,896.0,29,Female,3,Medical,6,1,Sales Representative,Unknown,2,3.0,Yes,3,2,3,3.0,,3,19,3,0,2,3,travel_rarely,1,Yes,No
+965,902.0,43,Female,3,Life Sciences,4,2,Healthcare Representative,Unknown,3,3.0,No,4,4,2,2.0,5562.0,1,13,5,2,2,2,travel_frequently,1,No,Yes
+966,916.0,28,Male,4,Medical,1,2,Sales Executive,Unknown,3,3.0,No,4,1,2,3.0,,0,14,4,0,2,3,travel_rarely,5,No,No
+967,922.0,20,Female,3,,1,1,Sales Representative,Unknown,2,3.0,Yes,3,3,4,2.0,,0,13,2,0,2,3,travel_rarely,2,No,Yes
+968,925.0,47,Female,4,Life Sciences,1,1,Sales Representative,Unknown,2,3.0,No,4,4,1,2.0,,0,18,3,1,2,3,Non-Travel,2,Yes,Yes
+969,Unknown,22,Female,1,Life Sciences,0,2,Manufacturing Director,Unknown,3,3.0,Yes,3,2,1,4.0,,1,19,3,0,2,3,travel_rarely,3,Yes,Yes
+970,930.0,28,Female,3,Medical,5,1,Research Scientist,Unknown,3,3.0,No,3,3,2,3.0,2377.0,1,18,2,2,2,2,Non-Travel,9,No,Yes
+971,Unknown,39,Male,3,Medical,7,1,Laboratory Technician,Research & Development,3,4.0,Yes,1,4,4,1.0,2404.0,0,21,2,2,2,2,Non-Travel,6,No,Yes
+972,939.0,33,Male,4,,3,1,Research Scientist,Research & Development,2,3.0,No,1,3,2,3.0,2799.0,0,11,3,0,2,1,travel_rarely,1,No,No
+973,Unknown,36,Male,4,Other,2,1,Research Scientist,Research & Development,3,3.0,No,4,2,3,3.0,,0,18,6,0,1,6,travel_rarely,7,No,Yes
+974,975.0,35,Female,3,,1,2,Sales Executive,Unknown,3,3.0,No,3,3,2,3.0,,0,16,5,1,0,3,travel_rarely,48,No,Yes
+975,991.0,31,Male,2,Medical,0,1,Research Scientist,Unknown,2,4.0,Yes,1,3,1,3.0,,0,22,3,1,2,0,Non-Travel,9,Yes,No
+976,995.0,33,Female,1,Life Sciences,3,1,Research Scientist,Unknown,3,3.0,No,4,2,1,3.0,3452.0,0,18,3,0,2,4,travel_rarely,13,No,No
+977,1001.0,27,Female,4,,9,1,Laboratory Technician,Unknown,3,3.0,No,2,24,2,3.0,2811.0,1,14,2,2,2,2,Non-Travel,24,No,No
+978,Unknown,30,Female,3,,4,1,Research Scientist,Unknown,3,3.0,Yes,3,1,2,,,0,11,5,0,1,2,travel_rarely,22,No,Yes
+979,Unknown,24,Female,1,Medical,1,2,Manufacturing Director,Unknown,2,3.0,No,3,4,2,3.0,4377.0,2,15,4,3,2,6,Non-Travel,17,No,No
+980,1010.0,35,Male,4,Other,1,1,Laboratory Technician,Research & Development,2,4.0,Yes,2,3,4,1.0,,1,24,4,0,2,2,travel_rarely,14,Yes,No
+981,1017.0,30,Female,3,,0,1,Laboratory Technician,Unknown,3,3.0,Yes,2,2,1,3.0,,0,17,3,1,2,3,Non-Travel,5,No,Yes
+982,1022.0,48,Male,3,,2,2,Healthcare Representative,Research & Development,2,3.0,No,3,1,4,3.0,4240.0,0,13,2,2,2,0,travel_rarely,6,No,Yes
+983,Unknown,41,Female,2,Medical,6,2,Manufacturing Director,Unknown,3,3.0,No,3,4,2,3.0,,0,14,2,2,1,6,travel_rarely,7,No,No
+984,1027.0,27,Female,4,,0,2,Manufacturing Director,Research & Development,3,3.0,No,4,1,2,,4227.0,1,18,3,2,2,2,Non-Travel,2,No,Yes
+985,1028.0,35,Male,3,Other,1,1,Laboratory Technician,Research & Development,3,4.0,No,4,2,1,2.0,3917.0,1,20,3,1,2,4,travel_rarely,10,No,No
+986,1037.0,26,Male,2,Medical,8,2,Sales Executive,Unknown,1,3.0,Yes,1,2,4,3.0,4969.0,0,18,2,2,2,6,non-travel,29,No,Yes
+987,1044.0,33,Female,1,Life Sciences,0,1,Sales Representative,Sales,2,3.0,No,4,2,4,2.0,,0,19,2,2,2,2,non-travel,8,No,No
+988,1053.0,26,Male,3,Life Sciences,6,1,Research Scientist,Unknown,3,3.0,Yes,1,1,2,3.0,2042.0,1,14,3,1,2,2,Non-Travel,2,No,Yes
+989,Unknown,38,Male,4,,3,1,Research Scientist,Unknown,3,3.0,No,3,3,1,3.0,2821.0,1,16,2,2,2,2,travel_frequently,3,No,No
+991,1077.0,20,Female,3,Marketing,1,1,Sales Representative,Unknown,3,3.0,Yes,4,4,2,3.0,,0,14,2,0,2,3,Non-Travel,9,Yes,Yes
+992,1084.0,30,Male,3,Other,0,2,Manufacturing Director,Unknown,3,3.0,No,1,20,3,2.0,9957.0,1,15,6,0,2,1,Non-Travel,20,No,No
+993,1094.0,27,Male,5,,1,1,Laboratory Technician,Unknown,1,3.0,No,3,1,4,,,3,19,3,1,2,4,non-travel,8,No,No
+994,1096.0,55,Male,1,,3,3,Manufacturing Director,Unknown,3,3.0,No,2,4,2,3.0,,1,18,3,1,2,4,Non-Travel,2,No,Yes
+995,1099.0,33,Male,3,Life Sciences,4,3,Healthcare Representative,Unknown,2,3.0,No,4,4,3,3.0,,1,15,3,1,2,2,travel_rarely,5,No,Yes
+996,1102.0,28,Male,2,Life Sciences,1,1,Laboratory Technician,Unknown,3,3.0,No,3,1,4,2.0,2207.0,1,16,4,2,2,5,Non-Travel,15,No,Yes
+997,1103.0,34,Male,1,Life Sciences,0,2,Healthcare Representative,Unknown,3,3.0,No,4,1,3,2.0,7756.0,0,17,6,0,4,1,Non-Travel,3,No,Yes
+998,1108.0,33,Male,3,Medical,4,1,Research Scientist,Unknown,2,4.0,Yes,2,1,2,3.0,,0,20,2,2,2,0,Non-Travel,25,Yes,No
+999,1114.0,33,Female,3,Life Sciences,0,2,Sales Executive,Unknown,3,3.0,No,2,4,3,3.0,,1,17,3,0,2,3,Non-Travel,7,No,No
+1000,1131.0,21,Female,1,,1,1,Research Scientist,Unknown,2,3.0,No,2,4,3,4.0,2070.0,0,11,2,2,2,6,Non-Travel,1,Yes,Yes
+1002,Unknown,35,Male,2,Marketing,1,2,Sales Executive,Unknown,3,3.0,No,4,4,4,3.0,,1,11,5,0,2,3,Non-Travel,11,No,Yes
+1003,1140.0,34,Male,2,,2,2,Manufacturing Director,Unknown,3,3.0,No,3,4,4,,,0,11,3,0,2,3,Non-Travel,2,No,Yes
+1004,1157.0,33,Female,4,,0,2,Sales Executive,Unknown,3,3.0,Yes,1,1,1,3.0,8224.0,0,17,5,0,3,3,Non-Travel,9,No,No
+1008,1185.0,35,Male,4,Other,1,1,Laboratory Technician,Unknown,2,3.0,No,4,4,2,4.0,2376.0,1,13,2,2,2,2,travel_frequently,4,No,Yes
+1009,Unknown,56,Female,4,,4,5,Manager,Unknown,3,3.0,No,1,4,4,3.0,,1,13,5,4,2,2,Non-Travel,4,No,Yes
+1010,1195.0,45,Female,3,Medical,4,1,Research Scientist,Research & Development,3,3.0,No,3,1,3,,,1,19,3,0,2,2,Non-Travel,7,Yes,Yes
+1011,Unknown,20,Male,3,,1,1,Laboratory Technician,Unknown,2,3.0,No,3,1,1,2.0,,0,12,2,1,2,2,travel_rarely,3,No,Yes
+1012,Unknown,50,Female,3,,2,4,Manager,Unknown,3,4.0,No,1,4,3,,,1,22,2,2,2,3,travel_frequently,2,No,Yes
+1013,1217.0,46,Male,2,Life Sciences,5,5,Research Director,Unknown,3,3.0,No,2,4,1,3.0,19081.0,1,11,4,0,3,2,Non-Travel,15,No,Yes
+1014,1234.0,32,Female,3,Other,1,1,Laboratory Technician,Unknown,2,4.0,No,2,3,3,3.0,2743.0,1,20,2,2,2,2,Non-Travel,13,No,Yes
+1015,Unknown,35,Female,2,,4,3,Sales Executive,Unknown,2,3.0,No,4,3,2,2.0,,1,11,13,4,12,6,Non-Travel,8,No,No
+1016,Unknown,29,Female,3,Life Sciences,1,1,Research Scientist,Unknown,3,3.0,No,4,1,1,,3760.0,3,15,3,1,2,5,Non-Travel,1,No,Yes
+1017,Unknown,21,Female,2,,1,1,Laboratory Technician,Unknown,2,4.0,Yes,3,1,3,1.0,,0,20,2,2,2,2,travel_frequently,10,No,Yes
+1018,Unknown,34,Female,3,Marketing,0,2,Sales Executive,Unknown,3,3.0,No,1,3,4,3.0,4538.0,0,12,3,0,2,3,travel_rarely,2,No,Yes
+1019,1286.0,28,Male,4,Medical,0,1,Laboratory Technician,Unknown,3,3.0,No,3,4,3,2.0,,0,11,4,0,2,2,Non-Travel,1,Yes,No
+1020,1291.0,35,Male,1,Life Sciences,0,1,Research Scientist,Unknown,3,,No,3,3,4,3.0,,0,14,3,2,2,3,travel_rarely,6,Yes,No
+1021,Unknown,28,Male,3,Life Sciences,1,1,Laboratory Technician,Unknown,2,3.0,No,4,4,2,3.0,3867.0,1,12,2,2,2,2,travel_frequently,2,No,No
+1022,1301.0,28,Male,3,Technical Degree,2,1,Research Scientist,Unknown,3,3.0,No,1,4,2,2.0,2080.0,0,11,3,1,2,2,travel_rarely,1,No,No
+1023,1303.0,25,Female,3,Medical,1,1,Research Scientist,Research & Development,3,3.0,No,2,4,4,2.0,2096.0,0,18,2,2,1,3,Non-Travel,1,No,No
+1024,1308.0,58,Male,4,Life Sciences,1,1,Research Scientist,Unknown,3,3.0,No,3,1,4,3.0,,2,12,2,2,2,3,Non-Travel,23,No,Yes
+1025,Unknown,39,Male,3,Medical,0,1,Research Scientist,Unknown,3,3.0,Yes,1,3,1,3.0,3904.0,0,13,5,0,3,2,Non-Travel,23,No,No
+1026,1311.0,30,Female,3,Technical Degree,0,2,Laboratory Technician,Unknown,2,3.0,No,4,1,1,3.0,4627.0,1,12,9,6,7,6,travel_rarely,6,No,Yes
+1027,1317.0,50,Female,3,Life Sciences,4,4,Research Director,Unknown,3,3.0,No,1,46,2,,,0,11,3,1,2,2,Non-Travel,46,No,Yes
+1028,1329.0,41,Male,2,Medical,1,2,Sales Executive,Unknown,1,3.0,No,2,3,1,3.0,,0,13,19,11,9,4,Non-Travel,10,No,Yes
+1029,1331.0,31,Female,3,,1,1,Sales Representative,Unknown,3,3.0,Yes,2,4,1,4.0,2302.0,0,11,3,2,2,2,Non-Travel,1,Yes,No
+1030,1333.0,44,Male,3,Life Sciences,4,1,Laboratory Technician,Unknown,3,,Yes,1,1,3,4.0,,0,12,3,1,2,4,Non-Travel,3,No,Yes
+1031,Unknown,40,Male,2,,9,1,Research Scientist,Research & Development,3,3.0,No,3,3,2,3.0,,1,16,4,0,0,0,non-travel,16,No,Yes
+1032,1358.0,25,Male,1,Medical,3,1,Laboratory Technician,Research & Development,3,3.0,No,4,4,3,2.0,,3,11,3,1,2,6,travel_rarely,19,No,No
+1033,1361.0,40,Male,4,Life Sciences,3,1,Laboratory Technician,Unknown,3,4.0,No,2,2,3,3.0,,1,22,4,0,3,3,travel_rarely,1,No,Yes
+1034,Unknown,51,Female,2,Technical Degree,3,4,Manufacturing Director,Unknown,2,3.0,No,2,4,2,2.0,,0,16,5,0,3,1,travel_rarely,11,No,Yes
+1035,1371.0,27,Male,1,Life Sciences,3,2,Sales Executive,Unknown,1,4.0,No,4,4,2,3.0,5071.0,0,20,6,0,0,3,travel_frequently,2,No,No
+1036,1380.0,35,Female,4,Marketing,0,2,Sales Executive,Unknown,3,3.0,Yes,3,4,3,2.0,,1,18,4,3,2,0,Non-Travel,18,No,Yes
+1037,Unknown,38,Male,3,,1,1,Research Scientist,Unknown,4,3.0,No,3,4,4,3.0,,3,11,4,0,3,2,Non-Travel,7,No,Yes
+1038,1389.0,31,Male,4,,1,2,Manufacturing Director,Unknown,3,3.0,Yes,3,4,4,2.0,,2,15,10,6,7,3,Non-Travel,22,No,Yes
+1039,Unknown,51,Male,3,,2,3,Sales Executive,Unknown,3,3.0,No,2,2,2,3.0,10596.0,0,11,4,3,2,5,Non-Travel,2,No,Yes
+1040,1392.0,41,Female,3,,3,2,Research Scientist,Unknown,3,3.0,No,4,4,1,2.0,5467.0,2,14,6,3,3,4,Non-Travel,22,No,No
+1041,1396.0,32,Male,1,Marketing,0,2,Sales Executive,Unknown,3,3.0,No,2,3,1,2.0,,3,13,3,1,2,3,Non-Travel,2,Yes,Yes
+1042,Unknown,25,Male,1,Life Sciences,2,2,Sales Executive,Unknown,4,3.0,No,3,1,2,2.0,,0,11,3,1,2,3,travel_rarely,18,No,No
+1043,1403.0,27,Female,3,Marketing,1,2,Sales Executive,Unknown,2,3.0,No,4,4,4,3.0,5769.0,0,11,6,4,4,3,Non-Travel,10,Yes,Yes
+1044,1405.0,27,Female,4,Life Sciences,1,1,Research Scientist,Unknown,3,,Yes,3,4,4,3.0,2394.0,0,13,8,7,7,2,travel_rarely,22,Yes,Yes
+1045,1411.0,37,Female,3,Medical,4,1,Laboratory Technician,Unknown,3,3.0,No,3,1,1,3.0,3629.0,0,18,3,0,2,6,Non-Travel,11,No,Yes
+1046,1412.0,35,Male,2,Life Sciences,2,3,Manufacturing Director,Unknown,3,3.0,No,4,3,3,3.0,9362.0,0,11,2,2,2,2,travel_frequently,18,No,Yes
+1047,1415.0,25,Male,3,,4,1,Laboratory Technician,Unknown,3,3.0,No,4,1,2,2.0,3229.0,1,11,3,0,2,2,Non-Travel,1,No,Yes
+1048,1428.0,30,Female,4,Marketing,7,2,Sales Executive,Unknown,3,3.0,No,1,4,2,3.0,,2,14,3,0,2,3,Non-Travel,7,No,Yes
+1049,Unknown,31,Female,5,Life Sciences,3,4,Research Director,Research & Development,3,3.0,No,2,1,3,4.0,16422.0,0,11,3,1,0,3,Non-Travel,8,No,Yes
+1050,1436.0,36,Female,4,Marketing,4,2,Sales Executive,Unknown,2,3.0,No,1,3,1,2.0,5647.0,2,13,3,0,2,3,Non-Travel,16,No,No
+1051,1439.0,25,Male,2,,3,1,Sales Representative,Unknown,2,3.0,Yes,1,1,1,3.0,4400.0,0,12,3,2,2,2,travel_rarely,9,No,Yes
+1052,1441.0,56,Female,2,Life Sciences,2,1,Research Scientist,Unknown,3,4.0,No,1,1,4,4.0,2066.0,1,22,3,1,0,3,Non-Travel,1,No,Yes
+1053,1448.0,41,Male,5,Medical,2,1,Research Scientist,Unknown,4,3.0,No,3,2,1,,,0,12,4,0,3,5,Non-Travel,5,No,Yes
+1054,Unknown,31,Female,2,,9,1,Human Resources,Unknown,4,,No,2,4,4,3.0,,0,18,3,0,2,3,travel_rarely,8,No,Yes
+1055,1464.0,31,Male,3,Life Sciences,6,1,Laboratory Technician,Research & Development,3,3.0,Yes,4,2,3,1.0,,1,13,2,2,2,2,travel_frequently,2,No,Yes
+1056,1466.0,48,Male,3,Marketing,4,2,Sales Executive,Sales,3,3.0,No,1,3,1,3.0,5486.0,3,11,2,2,2,3,Non-Travel,7,No,No
+1057,1467.0,34,Female,4,,1,1,Human Resources,Unknown,3,3.0,Yes,3,1,4,3.0,,0,15,2,2,2,0,Non-Travel,9,No,No
+1058,1471.0,44,Male,3,Life Sciences,3,1,Laboratory Technician,Unknown,2,3.0,No,3,3,4,3.0,3162.0,0,14,5,0,3,5,Non-Travel,5,No,No
+1059,1473.0,49,Male,4,,2,2,Healthcare Representative,Research & Development,3,,No,3,1,2,2.0,6651.0,1,14,3,1,2,0,travel_rarely,5,No,Yes
+1060,1475.0,44,Male,3,Life Sciences,1,1,Research Scientist,Unknown,3,3.0,No,2,4,3,2.0,3420.0,0,13,5,1,3,3,Non-Travel,20,No,No
+1061,1486.0,28,Male,3,,3,1,Sales Representative,Unknown,3,3.0,Yes,3,1,4,4.0,2909.0,1,15,3,1,2,3,Non-Travel,1,No,No
+1062,Unknown,44,Male,1,,5,3,Manufacturing Director,Research & Development,3,,No,3,2,2,2.0,,0,18,2,2,2,2,travel_frequently,2,No,Yes
+1063,Unknown,55,Male,4,Life Sciences,0,2,Healthcare Representative,Unknown,3,3.0,No,3,4,2,3.0,,0,16,3,1,2,2,travel_rarely,4,No,Yes
+1064,1507.0,28,Male,3,Life Sciences,0,2,Sales Executive,Unknown,3,3.0,No,1,3,4,3.0,4898.0,0,14,4,1,3,5,travel_frequently,7,No,Yes
+1065,1509.0,49,Female,2,Medical,4,2,Laboratory Technician,Unknown,2,4.0,No,1,45,1,3.0,,1,25,3,1,2,3,travel_rarely,45,No,Yes
+1066,1513.0,29,Female,1,Life Sciences,0,1,Laboratory Technician,Unknown,3,3.0,No,2,4,3,3.0,3180.0,3,13,3,0,2,3,travel_frequently,2,No,No
+1067,1516.0,32,Male,3,,2,3,Manager,Unknown,3,,No,4,3,2,4.0,11244.0,0,25,5,0,0,5,Non-Travel,10,No,Yes
+1068,1537.0,31,Female,3,Life Sciences,1,1,Research Scientist,Unknown,3,3.0,Yes,3,4,1,,,0,12,7,7,7,2,travel_frequently,3,No,Yes
+1069,1552.0,40,Male,2,Life Sciences,3,2,Healthcare Representative,Unknown,3,3.0,No,4,4,3,3.0,4069.0,0,18,2,2,2,2,Non-Travel,43,No,No
+1070,Unknown,36,Male,4,Life Sciences,3,1,Sales Representative,Unknown,3,4.0,No,4,3,4,2.0,,0,21,3,1,2,3,travel_rarely,2,Yes,No
+1071,1560.0,33,Male,4,Life Sciences,2,2,Sales Executive,Unknown,3,3.0,No,1,1,4,1.0,6392.0,1,13,2,2,2,6,Non-Travel,8,No,No
+1072,1568.0,30,Male,4,,3,3,Sales Executive,Sales,3,3.0,No,2,14,2,3.0,,1,12,4,1,3,3,Non-Travel,14,No,Yes
+1073,1573.0,38,Male,3,Medical,4,2,Manufacturing Director,Unknown,3,3.0,Yes,2,3,1,3.0,4855.0,2,11,5,1,4,2,travel_rarely,2,No,No
+1074,1576.0,48,Female,4,,8,1,Research Scientist,Research & Development,3,3.0,No,1,3,4,2.0,,1,12,8,7,6,3,travel_rarely,15,No,Yes
+1075,1580.0,34,Male,4,,9,2,Research Scientist,Research & Development,3,3.0,No,4,2,2,2.0,,1,17,2,2,1,3,Non-Travel,1,No,Yes
+1076,1583.0,38,Female,3,Life Sciences,2,2,Sales Executive,Unknown,3,3.0,No,2,2,2,4.0,,0,12,3,1,2,5,travel_rarely,16,No,No
+1077,1587.0,35,Female,4,,3,2,Healthcare Representative,Unknown,3,3.0,No,3,1,3,3.0,,0,16,5,0,4,4,travel_rarely,10,Yes,Yes
+1078,1592.0,23,Male,3,,2,1,Research Scientist,Unknown,4,3.0,No,3,4,4,3.0,,1,16,2,2,2,2,Non-Travel,10,No,Yes
+1079,1594.0,36,Male,4,,3,2,Laboratory Technician,Unknown,4,3.0,No,1,1,4,3.0,,1,13,3,0,2,3,Non-Travel,6,Yes,No
+1080,1597.0,34,Male,4,,1,2,Healthcare Representative,Unknown,2,3.0,No,3,36,2,2.0,,1,14,8,7,7,3,travel_frequently,36,No,No
+1081,Unknown,22,Female,2,Other,1,1,Research Scientist,Unknown,2,,No,3,2,2,2.0,,0,14,4,1,3,2,non-travel,26,No,Yes
+1082,1607.0,32,Female,4,,3,1,Research Scientist,Unknown,4,3.0,No,4,2,4,3.0,3312.0,2,17,3,0,2,3,Non-Travel,5,No,Yes
+1083,Unknown,31,Male,4,,7,2,Sales Executive,Unknown,3,3.0,No,1,4,4,3.0,,0,13,5,0,3,3,travel_frequently,2,No,No
+1084,Unknown,36,Female,4,Life Sciences,9,2,Manufacturing Director,Unknown,3,3.0,No,3,3,2,3.0,,2,12,3,1,1,2,travel_rarely,12,Yes,Yes
+1085,1623.0,21,Male,1,Medical,1,1,Research Scientist,Unknown,3,3.0,No,4,3,3,,3117.0,0,18,2,2,2,2,Non-Travel,19,No,No
+1086,Unknown,47,Female,4,,3,5,Manager,Unknown,3,3.0,No,3,4,3,3.0,,1,11,5,1,0,2,Non-Travel,26,No,No
+1087,Unknown,39,Female,3,Medical,0,2,Manufacturing Director,Unknown,3,3.0,No,3,1,4,1.0,,0,13,9,3,8,2,Non-Travel,4,No,Yes
+1088,1641.0,40,Female,3,,6,3,Manufacturing Director,Unknown,3,,No,4,3,4,2.0,,0,15,4,3,3,2,Non-Travel,16,No,Yes
+1089,1644.0,48,Male,5,,2,4,Manager,Unknown,2,4.0,No,4,3,2,3.0,15202.0,1,25,2,2,2,3,travel_frequently,4,No,Yes
+1090,1645.0,35,Male,2,Medical,6,2,Sales Executive,Unknown,1,3.0,Yes,4,1,4,2.0,,2,14,2,2,2,2,Non-Travel,10,Yes,No
+1091,1647.0,27,Female,3,Medical,7,1,Research Scientist,Research & Development,4,3.0,No,3,2,1,3.0,,0,17,3,0,2,0,travel_rarely,8,No,No
+1092,1648.0,27,Male,3,Medical,2,1,Research Scientist,Unknown,3,3.0,No,4,4,3,2.0,2580.0,0,13,4,1,2,0,Non-Travel,2,No,Yes
+1093,Unknown,40,Male,3,,3,1,Laboratory Technician,Unknown,3,3.0,Yes,1,1,2,1.0,2166.0,0,14,4,0,3,3,travel_rarely,7,Yes,Yes
+1094,Unknown,29,Male,3,,9,2,Sales Executive,Unknown,2,3.0,No,3,3,3,3.0,,0,11,5,1,4,2,Non-Travel,10,No,Yes
+1095,1651.0,36,Female,4,Life Sciences,4,3,Healthcare Representative,Unknown,3,,No,1,2,3,3.0,,2,12,3,0,2,6,Non-Travel,5,No,Yes
+1096,1655.0,49,Female,4,Other,3,4,Research Director,Unknown,3,3.0,No,2,1,2,3.0,,2,16,4,1,2,2,travel_rarely,22,No,Yes
+1097,1657.0,20,Female,3,Medical,1,1,Sales Representative,Unknown,3,3.0,No,3,3,1,3.0,,0,19,2,2,2,3,travel_rarely,13,No,Yes
+1098,1662.0,36,Female,4,,0,2,Manufacturing Director,Research & Development,2,3.0,No,3,4,3,3.0,4374.0,0,15,3,1,2,6,non-travel,1,No,Yes
+1099,1670.0,33,Male,4,,1,2,Sales Executive,Unknown,3,3.0,No,4,4,3,3.0,5505.0,2,14,6,0,4,5,travel_rarely,2,No,Yes
+1100,1674.0,49,Female,3,Medical,4,1,Laboratory Technician,Unknown,3,3.0,No,1,4,2,2.0,2587.0,1,16,2,2,2,2,Non-Travel,16,No,Yes
+1101,Unknown,47,Female,4,Life Sciences,6,4,Manager,Unknown,4,3.0,No,2,2,3,3.0,15972.0,3,14,3,1,2,2,travel_rarely,2,No,Yes
+1102,Unknown,20,Male,1,,1,1,Sales Representative,Unknown,3,3.0,No,1,4,1,3.0,,0,11,2,0,2,3,travel_rarely,9,No,Yes
+1103,1682.0,36,Male,4,,6,2,Healthcare Representative,Unknown,3,3.0,No,3,1,2,2.0,,2,14,3,0,2,2,travel_rarely,26,No,No
+1104,1683.0,44,Female,3,,4,1,Human Resources,Human Resources,3,3.0,No,4,3,1,3.0,,3,18,2,2,2,2,travel_rarely,1,Yes,No
+1105,1694.0,55,Male,3,Technical Degree,5,1,Research Scientist,Unknown,2,,No,2,12,4,3.0,,1,12,4,1,2,1,Non-Travel,12,No,Yes
+1106,1702.0,23,Male,3,Life Sciences,1,1,Sales Representative,Unknown,3,4.0,Yes,4,3,2,3.0,,1,21,3,0,2,2,Non-Travel,7,Yes,No
+1107,Unknown,26,Male,4,,1,1,Laboratory Technician,Unknown,1,3.0,No,3,4,3,4.0,2305.0,3,15,3,0,2,3,Non-Travel,17,No,Yes
+1108,Unknown,32,Male,3,,6,1,Research Scientist,Unknown,3,3.0,No,3,1,1,2.0,3433.0,1,13,5,1,3,3,travel_frequently,10,No,Yes
+1109,1721.0,31,Male,4,Life Sciences,1,1,Laboratory Technician,Unknown,3,3.0,No,3,2,4,4.0,3477.0,1,14,5,0,3,2,Non-Travel,2,No,No
+1110,1722.0,41,Male,3,Human Resources,6,2,Human Resources,Human Resources,1,,No,2,3,2,3.0,,1,19,3,1,2,4,non-travel,4,No,No
+1111,Unknown,24,Male,1,Medical,1,1,Laboratory Technician,Unknown,3,3.0,No,1,2,2,4.0,3907.0,3,13,6,1,2,2,travel_rarely,29,No,Yes
+1112,1733.0,36,Male,5,Marketing,5,2,Sales Executive,Unknown,2,3.0,Yes,1,2,2,3.0,,3,13,2,2,2,3,Non-Travel,13,Yes,Yes
+1113,1735.0,23,Female,1,,1,1,Laboratory Technician,Unknown,3,3.0,No,2,3,3,1.0,,0,13,3,1,2,3,Non-Travel,4,No,No
+1114,1746.0,24,Male,3,Medical,0,1,Human Resources,Unknown,3,3.0,No,4,35,4,3.0,,1,14,2,2,1,2,Non-Travel,35,No,No
+1115,Unknown,30,Female,3,,6,1,Human Resources,Unknown,2,3.0,Yes,4,3,3,2.0,,1,11,4,1,2,0,travel_frequently,42,No,No
+1116,Unknown,31,Male,3,,1,2,Sales Executive,Unknown,3,3.0,No,3,1,3,3.0,,1,19,5,0,2,3,Non-Travel,5,No,Yes
+1117,1751.0,27,Female,3,,1,1,Research Scientist,Unknown,3,3.0,No,4,48,3,2.0,3445.0,0,11,6,1,4,5,Non-Travel,48,No,No
+1118,Unknown,29,Female,3,,1,1,Sales Representative,Unknown,1,3.0,Yes,2,2,3,3.0,2760.0,0,13,2,2,2,3,travel_rarely,9,No,Yes
+1119,1753.0,29,Male,3,,8,2,Healthcare Representative,Unknown,4,3.0,No,3,4,4,4.0,6294.0,0,12,3,0,2,5,Non-Travel,1,Yes,No
+1120,Unknown,53,Female,4,,4,4,Manufacturing Director,Unknown,2,4.0,No,3,1,4,2.0,,3,20,3,0,2,2,Non-Travel,31,Yes,Yes
+1121,Unknown,34,Female,2,,5,2,Sales Executive,Unknown,1,,No,4,4,1,3.0,,0,12,2,2,2,3,travel_rarely,3,No,Yes
+1122,Unknown,51,Female,3,,2,3,Manager,Unknown,3,3.0,No,3,1,4,3.0,13116.0,0,11,2,2,2,2,travel_rarely,3,No,Yes
+1123,1787.0,37,Male,2,Marketing,1,2,Sales Executive,Sales,2,3.0,No,2,2,1,3.0,,2,14,5,0,3,2,travel_rarely,9,No,No
+1124,1801.0,46,Male,2,Life Sciences,8,2,Sales Executive,Unknown,2,3.0,No,2,2,3,3.0,,0,15,2,2,2,3,Non-Travel,26,No,No
+1125,1813.0,43,Male,3,,4,1,Research Scientist,Research & Development,3,3.0,No,3,1,3,2.0,,0,13,3,1,2,2,non-travel,9,No,Yes
+1126,1814.0,41,Male,3,,3,2,Healthcare Representative,Unknown,4,3.0,No,2,35,1,1.0,,0,12,3,1,2,3,travel_rarely,35,No,No
+1127,1833.0,31,Female,4,,2,3,Sales Executive,Unknown,3,3.0,No,1,1,4,3.0,,2,14,3,2,2,3,Non-Travel,7,No,No
+1128,1834.0,28,Female,3,Medical,1,1,Research Scientist,Unknown,3,4.0,No,1,3,3,3.0,3591.0,1,25,3,1,2,3,travel_rarely,1,No,No
+1129,1835.0,38,Female,4,,2,2,Sales Representative,Sales,1,4.0,No,4,2,1,2.0,5405.0,2,20,4,0,3,4,Non-Travel,2,Yes,Yes
+1130,1837.0,58,Male,4,Life Sciences,2,4,Research Director,Research & Development,3,3.0,No,3,1,2,3.0,,0,14,2,2,2,3,travel_frequently,15,No,Yes
+1131,1844.0,29,Male,3,,4,1,Human Resources,Unknown,2,3.0,Yes,1,1,4,3.0,,3,15,2,2,0,3,travel_rarely,13,No,No
+1132,1856.0,47,Female,4,Life Sciences,4,1,Laboratory Technician,Unknown,3,3.0,No,3,2,3,3.0,2105.0,0,12,2,2,0,2,travel_rarely,9,No,No
+1133,1858.0,28,Male,2,Life Sciences,1,1,Human Resources,Unknown,3,3.0,No,4,3,2,3.0,,1,15,3,2,2,2,Non-Travel,1,No,Yes
+1134,Unknown,32,Male,4,Marketing,7,2,Sales Executive,Sales,2,3.0,Yes,2,3,3,2.0,,0,12,2,2,2,3,travel_rarely,2,Yes,Yes
+1135,Unknown,39,Male,4,,8,2,Research Scientist,Unknown,3,3.0,No,4,4,2,3.0,3902.0,3,14,2,2,2,2,travel_rarely,19,No,Yes
+1136,1873.0,55,Male,4,,8,1,Research Scientist,Unknown,2,4.0,No,4,2,2,4.0,2662.0,1,20,5,0,4,2,travel_rarely,2,No,No
+1137,1883.0,29,Male,3,Life Sciences,3,1,Laboratory Technician,Unknown,3,3.0,No,1,4,2,3.0,2062.0,0,14,3,1,2,2,Non-Travel,7,No,Yes
+1138,1886.0,35,Female,2,Other,0,2,Manufacturing Director,Unknown,2,3.0,No,2,16,4,3.0,,0,11,3,0,2,2,Non-Travel,16,No,No
+1139,1905.0,34,Male,4,Technical Degree,1,1,Research Scientist,Unknown,1,4.0,Yes,1,4,2,3.0,,1,23,5,3,0,2,non-travel,16,No,Yes
+1140,1907.0,56,Male,2,,1,1,Laboratory Technician,Unknown,3,3.0,Yes,4,1,4,3.0,2587.0,0,16,4,1,0,3,travel_rarely,24,No,Yes
+1141,1908.0,36,Male,2,Marketing,2,2,Sales Executive,Unknown,2,3.0,No,2,3,3,1.0,5507.0,2,16,4,1,3,1,Non-Travel,17,No,Yes
+1142,Unknown,31,Female,2,,2,2,Sales Executive,Unknown,3,3.0,No,4,3,4,3.0,,1,11,5,1,4,2,Non-Travel,10,Yes,No
+1143,Unknown,34,Female,1,,3,2,Sales Executive,Unknown,2,3.0,No,4,4,3,2.0,8103.0,0,12,4,0,1,3,Non-Travel,3,Yes,Yes
+1144,Unknown,31,Female,3,,8,1,Laboratory Technician,Unknown,4,3.0,No,3,1,2,2.0,3978.0,1,12,2,2,2,0,travel_rarely,4,No,No
+1145,1922.0,45,Male,4,Medical,4,2,Healthcare Representative,Unknown,3,3.0,No,3,2,3,3.0,5399.0,0,12,4,0,3,3,travel_frequently,1,No,Yes
+1146,1929.0,39,Female,4,,6,2,Sales Executive,Unknown,1,,No,3,1,3,3.0,,1,19,3,1,2,1,Non-Travel,21,No,No
+1147,Unknown,38,Male,2,,2,1,Research Scientist,Unknown,3,3.0,No,4,2,4,4.0,,2,19,5,0,3,0,travel_rarely,9,No,No
+1148,1948.0,31,Male,2,,1,1,Research Scientist,Unknown,3,,No,1,3,4,,,1,13,4,2,3,3,Non-Travel,3,No,Yes
+1149,Unknown,53,Male,4,Life Sciences,6,3,Sales Executive,Unknown,3,3.0,Yes,1,1,2,2.0,10448.0,0,13,2,2,2,2,Non-Travel,24,Yes,Yes
+1150,1972.0,38,Male,4,Other,0,1,Human Resources,Human Resources,3,3.0,No,2,4,2,3.0,,1,11,6,1,2,2,travel_frequently,1,Yes,No
+1151,1980.0,54,Female,3,,6,2,Manufacturing Director,Unknown,3,,No,1,3,4,3.0,4440.0,0,19,5,1,4,3,Non-Travel,10,Yes,No
+1152,1982.0,23,Male,2,,1,1,Laboratory Technician,Unknown,3,3.0,No,4,4,3,4.0,,0,13,5,1,4,6,Non-Travel,12,No,Yes
+1153,1992.0,25,Male,1,Other,6,1,Laboratory Technician,Unknown,3,3.0,No,3,4,3,2.0,,1,19,2,0,2,2,Non-Travel,2,No,Yes
+1154,1996.0,31,Male,2,Life Sciences,0,1,Sales Representative,Unknown,3,3.0,No,3,1,3,3.0,,1,19,2,1,2,1,Non-Travel,2,No,Yes
+1155,2003.0,35,Male,4,Medical,7,1,Laboratory Technician,Unknown,3,3.0,No,3,4,3,3.0,2660.0,1,11,2,2,2,3,travel_rarely,11,Yes,Yes
+1156,2007.0,22,Male,2,,0,1,Research Scientist,Research & Development,3,,No,3,4,4,4.0,3375.0,0,12,3,1,2,2,Non-Travel,1,No,Yes
+1157,2010.0,32,Female,4,,1,1,Laboratory Technician,Unknown,2,3.0,No,2,3,3,3.0,,0,13,6,4,1,3,travel_rarely,29,No,No
+1158,Unknown,32,Male,4,,0,1,Sales Representative,Unknown,2,3.0,No,2,2,2,3.0,2269.0,1,14,2,2,2,2,Non-Travel,36,No,Yes
+1159,Unknown,21,Male,1,Medical,1,1,Sales Representative,Sales,3,3.0,No,1,3,4,3.0,,0,11,2,1,2,6,travel_rarely,5,No,Yes
+1160,Unknown,36,Female,2,Life Sciences,7,2,Manufacturing Director,Unknown,3,3.0,No,2,13,2,3.0,,3,13,4,0,2,3,Non-Travel,13,No,Yes
+1161,2027.0,29,Male,4,,9,1,Research Scientist,Unknown,3,3.0,Yes,4,38,2,4.0,4787.0,3,14,2,2,2,3,travel_rarely,38,No,Yes
+1162,2038.0,32,Male,3,Technical Degree,1,1,Research Scientist,Unknown,3,3.0,No,1,4,4,3.0,,0,14,4,1,2,4,travel_rarely,2,No,Yes
+1163,2048.0,40,Male,4,,2,1,Research Scientist,Unknown,2,3.0,No,3,3,4,3.0,2809.0,0,14,2,2,2,2,travel_rarely,2,No,Yes
+1164,Unknown,35,Male,4,Life Sciences,1,2,Healthcare Representative,Unknown,3,3.0,No,3,3,4,4.0,,2,14,10,0,2,2,travel_frequently,18,No,No
+1165,2055.0,50,Male,3,Marketing,4,3,Sales Executive,Sales,2,3.0,Yes,1,4,2,3.0,10854.0,1,13,3,2,0,3,travel_rarely,40,No,Yes
+1166,2060.0,26,Female,3,Other,0,1,Sales Representative,Unknown,2,3.0,No,3,4,4,3.0,,0,18,4,0,0,2,Non-Travel,5,No,Yes
+1167,2061.0,36,Male,2,Medical,4,2,Laboratory Technician,Unknown,4,3.0,No,4,3,3,3.0,2571.0,1,17,5,0,3,3,travel_frequently,23,No,No
+1168,2064.0,27,Male,3,Life Sciences,1,2,Manufacturing Director,Unknown,4,4.0,No,2,2,2,3.0,6142.0,1,20,6,0,3,0,travel_rarely,4,Yes,No
+1169,39.0,33,Male,3,Medical,4,1,Laboratory Technician,Unknown,3,3.0,No,4,3,4,3.0,2496.0,0,11,1,0,0,3,Non-Travel,2,No,No
+1170,51.0,36,Female,4,Life Sciences,9,1,Research Scientist,Unknown,2,3.0,No,1,2,4,4.0,3419.0,1,14,1,0,0,3,Non-Travel,5,Yes,Yes
+1171,95.0,31,Male,4,Medical,1,1,Research Scientist,Research & Development,3,3.0,No,2,3,2,3.0,2501.0,0,17,1,1,0,4,Non-Travel,1,No,Yes
+1172,169.0,22,Male,1,Technical Degree,0,1,Laboratory Technician,Research & Development,3,3.0,No,4,3,3,3.0,,1,14,2,2,1,2,travel_rarely,2,No,Yes
+1173,224.0,27,Male,3,,1,1,Research Scientist,Unknown,2,3.0,No,3,3,4,2.0,2566.0,1,15,1,0,1,2,Non-Travel,3,No,Yes
+1174,242.0,33,Male,3,Life Sciences,0,1,Research Scientist,Unknown,3,3.0,No,4,3,1,,,0,14,3,0,2,2,travel_rarely,2,No,Yes
+1175,286.0,36,Female,1,,1,1,Laboratory Technician,Unknown,3,3.0,No,4,2,1,3.0,,0,13,8,1,7,2,travel_frequently,18,No,Yes
+1176,340.0,37,Female,2,Medical,2,1,Research Scientist,Unknown,2,,No,1,18,1,2.0,3920.0,1,14,3,0,2,2,Non-Travel,18,No,Yes
+1177,Unknown,32,Male,3,,1,1,Laboratory Technician,Unknown,4,4.0,No,2,2,3,1.0,,0,20,5,0,3,3,Non-Travel,7,No,Yes
+1178,Unknown,51,Male,3,Medical,5,2,Manufacturing Director,Unknown,1,3.0,No,2,35,4,3.0,,1,18,4,1,2,3,travel_rarely,35,No,Yes
+1179,431.0,49,Female,2,Technical Degree,7,4,Healthcare Representative,Unknown,2,3.0,No,3,45,4,3.0,13964.0,0,12,7,0,7,2,Non-Travel,45,Yes,Yes
+1180,496.0,35,Male,4,,9,2,Healthcare Representative,Unknown,2,3.0,No,2,3,3,3.0,6540.0,0,19,1,0,0,5,Non-Travel,9,No,Yes
+1181,511.0,22,Female,3,Medical,1,1,Research Scientist,Unknown,3,3.0,No,2,1,4,3.0,2244.0,1,13,2,1,2,1,Non-Travel,11,No,No
+1182,612.0,33,Female,5,,4,4,Research Director,Unknown,4,3.0,No,3,1,3,3.0,16184.0,1,19,6,0,5,2,Non-Travel,1,No,No
+1183,650.0,31,Male,4,Medical,2,2,Sales Executive,Sales,3,3.0,Yes,1,2,3,1.0,4233.0,0,17,3,1,2,2,Non-Travel,13,No,No
+1184,684.0,45,Female,4,,2,2,Sales Executive,Unknown,3,3.0,Yes,1,1,4,3.0,,2,14,1,0,0,4,Non-Travel,26,No,Yes
+1185,730.0,53,Male,3,,3,4,Research Director,Unknown,4,3.0,No,3,3,3,3.0,14814.0,0,19,5,1,3,3,Non-Travel,7,No,Yes
+1186,757.0,34,Female,2,,3,2,Healthcare Representative,Unknown,3,3.0,No,3,2,4,3.0,,0,11,5,4,3,2,travel_rarely,8,No,Yes
+1187,Unknown,43,Male,2,Life Sciences,6,4,Research Director,Unknown,3,4.0,No,1,2,3,3.0,17159.0,1,24,4,1,0,3,Non-Travel,14,No,No
+1188,869.0,28,Male,2,Medical,1,1,Human Resources,Unknown,2,3.0,No,4,2,4,3.0,,1,13,5,0,4,6,travel_rarely,8,No,Yes
+1189,875.0,42,Male,1,,5,1,Research Scientist,Research & Development,3,3.0,No,4,2,4,3.0,,0,14,2,2,2,2,travel_frequently,2,No,Yes
+1190,Unknown,27,Female,3,,1,1,Research Scientist,Unknown,3,3.0,No,3,2,3,3.0,2318.0,0,19,1,0,0,2,travel_rarely,4,No,Yes
+1191,964.0,40,Male,4,,8,1,Research Scientist,Unknown,3,,No,2,4,4,,3617.0,1,14,1,0,0,2,Non-Travel,9,Yes,Yes
+1192,970.0,37,Male,4,Life Sciences,5,3,Sales Executive,Unknown,2,3.0,Yes,3,1,3,1.0,,0,11,14,11,7,2,Non-Travel,1,No,Yes
+1193,Unknown,29,Female,3,Technical Degree,1,1,Sales Representative,Unknown,3,3.0,No,4,3,2,3.0,,1,15,3,0,2,5,travel_frequently,18,No,No
+1194,1006.0,38,Male,1,,0,1,Research Scientist,Research & Development,3,3.0,No,3,3,2,2.0,2684.0,1,17,2,0,2,0,Non-Travel,10,No,No
+1195,Unknown,34,Male,4,,0,2,Sales Executive,Unknown,4,3.0,No,4,46,4,2.0,,1,11,15,0,9,2,Non-Travel,46,No,Yes
+1196,1055.0,34,Female,4,Life Sciences,1,1,Sales Representative,Unknown,3,3.0,No,3,3,4,3.0,,1,19,1,0,0,2,travel_rarely,10,Yes,No
+1197,1061.0,50,Male,4,Medical,2,5,Research Director,Unknown,3,3.0,No,3,12,4,2.0,19237.0,1,11,8,7,7,2,travel_rarely,12,No,No
+1198,1107.0,26,Male,3,,1,1,Laboratory Technician,Unknown,3,,Yes,3,1,3,2.0,2377.0,1,20,1,0,0,0,Non-Travel,21,No,No
+1199,Unknown,28,Male,3,Life Sciences,1,1,Research Scientist,Research & Development,2,3.0,No,3,3,4,3.0,,1,14,3,0,2,2,travel_frequently,6,Yes,No
+1200,Unknown,28,Female,1,,1,1,Laboratory Technician,Unknown,3,,Yes,4,3,4,2.0,,0,11,1,0,0,4,Non-Travel,12,No,Yes
+1201,1180.0,40,Female,2,Medical,3,2,Research Scientist,Unknown,2,3.0,No,4,29,4,1.0,4422.0,1,13,1,0,0,3,Non-Travel,29,Yes,Yes
+1202,1193.0,19,Male,2,,1,1,Research Scientist,Unknown,3,,No,1,3,3,3.0,2552.0,0,25,1,0,0,4,travel_rarely,47,No,No
+1203,1226.0,20,Male,3,Marketing,1,1,Sales Representative,Unknown,4,3.0,No,4,3,4,3.0,2678.0,0,17,2,2,2,2,travel_rarely,21,No,Yes
+1204,Unknown,40,Female,3,,7,2,Sales Executive,Unknown,2,3.0,No,2,2,2,4.0,,1,12,5,1,3,2,Non-Travel,10,No,No
+1205,Unknown,19,Female,3,,1,1,Research Scientist,Unknown,2,4.0,Yes,2,1,2,4.0,,0,25,1,0,0,2,Non-Travel,10,No,Yes
+1206,1254.0,59,Female,3,,5,2,Sales Executive,Unknown,2,3.0,No,4,3,4,3.0,5171.0,0,17,6,0,5,2,Non-Travel,3,No,No
+1207,1321.0,30,Female,4,Medical,1,3,Manager,Research & Development,3,4.0,No,1,2,4,3.0,11916.0,2,23,9,0,8,2,travel_rarely,17,Yes,No
+1208,1465.0,45,Male,3,,4,3,Manufacturing Director,Unknown,3,,No,4,2,4,4.0,9380.0,2,18,3,1,2,4,travel_rarely,29,Yes,Yes
+1209,Unknown,40,Male,3,,2,1,Research Scientist,Unknown,3,3.0,No,3,3,3,4.0,,1,14,3,1,2,3,travel_rarely,2,No,No
+1210,1479.0,30,Male,1,Life Sciences,8,2,Sales Executive,Unknown,3,,No,3,4,3,2.0,,2,15,2,2,2,2,Non-Travel,42,No,No
+1211,1551.0,24,Male,2,Technical Degree,0,1,Laboratory Technician,Research & Development,2,,No,1,3,2,3.0,,3,14,1,0,0,3,Non-Travel,24,No,No
+1212,1555.0,32,Female,2,Life Sciences,3,2,Research Scientist,Unknown,2,3.0,No,2,4,1,3.0,5878.0,1,12,7,2,5,2,Non-Travel,5,No,Yes
+1213,1604.0,28,Male,3,Medical,1,1,Laboratory Technician,Unknown,3,3.0,Yes,2,3,3,3.0,,3,17,1,0,0,3,travel_rarely,24,No,No
+1214,1757.0,49,Female,4,,3,2,Sales Executive,Sales,3,3.0,No,4,4,3,4.0,,0,12,5,0,4,1,Non-Travel,11,No,Yes
+1215,1760.0,38,Female,2,Medical,4,1,Laboratory Technician,Research & Development,2,3.0,No,2,3,2,2.0,2468.0,1,14,6,0,5,4,travel_frequently,2,No,No
+1216,1789.0,46,Male,4,,7,5,Research Director,Unknown,3,3.0,No,4,3,3,3.0,,1,17,2,2,2,3,travel_rarely,2,No,Yes
+1217,1807.0,34,Male,4,Life Sciences,4,2,Laboratory Technician,Unknown,3,3.0,Yes,1,4,3,2.0,,1,17,7,0,7,3,travel_frequently,9,No,No
+1218,1812.0,39,Male,3,Life Sciences,2,2,Sales Executive,Unknown,3,3.0,No,4,3,4,3.0,4127.0,1,18,2,2,2,6,Non-Travel,20,No,No
+1219,1818.0,26,Female,2,,0,1,Human Resources,Human Resources,3,3.0,Yes,2,4,3,3.0,2148.0,0,11,5,1,4,3,travel_rarely,20,Yes,Yes
+1220,1830.0,54,Female,4,Medical,4,2,Research Scientist,Unknown,3,3.0,No,4,4,2,2.0,,1,15,7,1,7,2,travel_rarely,7,No,No
+1221,1890.0,36,Male,1,,1,2,Human Resources,Unknown,2,4.0,No,4,2,4,2.0,3886.0,0,21,10,0,8,2,travel_frequently,2,No,Yes
+1222,1939.0,32,Female,2,,3,1,Research Scientist,Research & Development,4,3.0,Yes,3,1,1,3.0,,0,14,4,0,3,2,travel_frequently,5,Yes,No
+1223,Unknown,32,Female,4,,5,2,Healthcare Representative,Unknown,3,3.0,No,4,3,2,3.0,6667.0,1,18,5,1,2,6,Non-Travel,15,No,Yes
+1224,Unknown,28,Male,3,,5,1,Laboratory Technician,Research & Development,2,3.0,Yes,4,3,1,2.0,,1,12,4,0,3,2,Non-Travel,17,No,Yes
+1225,1994.0,33,Male,2,Medical,1,1,Laboratory Technician,Unknown,2,3.0,No,3,2,3,2.0,,3,12,1,0,0,2,Non-Travel,1,No,No
+1226,4.0,37,Male,2,,6,1,Laboratory Technician,Unknown,2,3.0,Yes,3,4,2,3.0,2090.0,0,15,0,0,0,3,travel_rarely,2,Yes,Yes
+1227,10.0,59,Female,3,Medical,4,1,Laboratory Technician,Unknown,4,,No,1,3,1,2.0,,3,20,1,0,0,3,travel_rarely,3,No,Yes
+1228,Unknown,30,Male,1,Life Sciences,1,1,Laboratory Technician,Unknown,3,4.0,No,3,4,2,3.0,,1,22,1,0,0,2,travel_rarely,24,No,Yes
+1229,Unknown,22,Male,2,,1,1,Laboratory Technician,Unknown,4,3.0,No,4,4,2,2.0,,2,13,1,0,0,2,Non-Travel,16,Yes,No
+1230,30.0,21,Male,2,,1,1,Research Scientist,Unknown,3,3.0,No,4,3,4,3.0,,0,14,0,0,0,6,travel_rarely,15,No,Yes
+1231,41.0,30,Male,2,Medical,1,1,Laboratory Technician,Unknown,2,3.0,No,3,4,1,3.0,,0,13,10,1,8,5,travel_rarely,9,No,No
+1232,42.0,39,Male,3,Technical Degree,3,2,Sales Representative,Unknown,3,3.0,Yes,4,18,3,4.0,2086.0,1,14,1,0,0,6,travel_rarely,18,No,Yes
+1233,Unknown,24,Male,3,,2,1,Research Scientist,Unknown,3,3.0,Yes,4,2,1,,,1,16,2,2,0,2,travel_rarely,1,Yes,No
+1234,53.0,35,Male,2,Other,1,1,Laboratory Technician,Research & Development,3,3.0,No,4,3,3,3.0,1951.0,1,12,1,0,0,3,Non-Travel,4,No,Yes
+1235,54.0,27,Female,4,Life Sciences,1,1,Laboratory Technician,Unknown,3,3.0,No,1,4,4,3.0,,1,13,1,0,0,6,Non-Travel,2,No,No
+1236,55.0,26,Male,3,Life Sciences,1,1,Laboratory Technician,Unknown,1,3.0,Yes,3,1,3,2.0,,0,12,1,0,1,2,Non-Travel,25,No,No
+1237,Unknown,37,Male,2,Life Sciences,4,1,Research Scientist,Research & Development,3,4.0,No,2,2,1,3.0,3022.0,0,21,1,0,0,1,Non-Travel,24,No,No
+1238,Unknown,35,Male,1,,1,1,Laboratory Technician,Unknown,4,,No,4,46,4,3.0,,0,19,1,0,1,2,Non-Travel,46,No,Yes
+1239,64.0,48,Male,2,,9,3,Laboratory Technician,Unknown,2,3.0,Yes,3,1,4,3.0,,0,13,1,0,0,2,Non-Travel,1,No,No
+1240,70.0,35,Male,2,Medical,2,3,Healthcare Representative,Unknown,2,3.0,No,1,3,3,3.0,,1,13,4,2,3,3,non-travel,11,Yes,Yes
+1241,84.0,55,Female,3,,2,4,Manager,Unknown,3,3.0,No,3,4,3,3.0,,3,14,5,0,2,2,travel_rarely,8,Yes,Yes
+1242,Unknown,45,Male,3,Life Sciences,2,3,Research Scientist,Unknown,3,3.0,No,1,2,3,3.0,9724.0,1,17,1,0,0,2,Non-Travel,7,No,Yes
+1243,Unknown,36,Male,3,Medical,0,1,Research Scientist,Unknown,2,3.0,Yes,3,4,1,2.0,3388.0,1,17,1,0,0,0,Non-Travel,9,No,Yes
+1244,97.0,36,Female,3,Life Sciences,3,1,Laboratory Technician,Research & Development,4,3.0,No,4,2,2,3.0,3038.0,0,12,1,0,0,3,travel_rarely,6,No,Yes
+1245,Unknown,45,Male,4,Other,4,3,Research Director,Research & Development,3,3.0,No,1,4,2,4.0,,0,14,0,0,0,3,travel_rarely,6,Yes,No
+1246,106.0,55,Male,2,,3,3,Sales Executive,Unknown,3,3.0,No,4,1,4,3.0,,1,14,1,1,0,4,Non-Travel,1,No,Yes
+1247,113.0,23,Male,1,Technical Degree,3,1,Sales Representative,Unknown,3,3.0,No,1,3,3,3.0,2322.0,1,13,0,0,0,3,Non-Travel,2,No,No
+1248,Unknown,32,Male,1,Life Sciences,1,1,Research Scientist,Unknown,3,3.0,No,1,4,4,3.0,,0,13,1,0,0,2,travel_rarely,1,No,Yes
+1249,137.0,20,Female,3,Life Sciences,1,1,Laboratory Technician,Research & Development,2,,Yes,4,4,2,3.0,2926.0,0,18,1,1,0,5,Non-Travel,6,Yes,No
+1250,139.0,37,Male,2,Life Sciences,5,2,Healthcare Representative,Unknown,2,3.0,No,4,3,4,4.0,,1,14,1,0,0,2,Non-Travel,2,No,No
+1251,144.0,22,Female,3,,1,1,Laboratory Technician,Research & Development,3,3.0,No,4,2,3,3.0,,0,15,0,0,0,5,Non-Travel,15,No,No
+1252,Unknown,34,Female,4,Life Sciences,6,2,Research Scientist,Unknown,2,3.0,No,2,24,3,3.0,4505.0,1,15,1,0,0,3,Non-Travel,24,No,Yes
+1253,155.0,36,Female,2,Life Sciences,5,1,Laboratory Technician,Unknown,3,4.0,No,4,1,1,3.0,2835.0,1,22,1,0,0,2,Non-Travel,3,No,No
+1254,167.0,19,Male,1,Marketing,1,1,Sales Representative,Sales,3,3.0,Yes,3,4,4,2.0,,0,19,0,0,0,2,travel_rarely,22,Yes,Yes
+1255,200.0,41,Male,4,Life Sciences,2,1,Laboratory Technician,Unknown,3,4.0,No,1,3,4,3.0,,1,21,5,1,4,2,Non-Travel,9,No,Yes
+1256,201.0,19,Female,1,,1,1,Laboratory Technician,Unknown,3,,No,2,2,4,3.0,,0,14,1,0,0,3,Non-Travel,18,No,No
+1257,211.0,51,Male,4,,2,2,Manufacturing Director,Unknown,2,3.0,No,3,2,3,3.0,,0,17,1,0,0,2,Non-Travel,7,No,Yes
+1258,214.0,58,Female,3,,4,1,Research Scientist,Unknown,2,4.0,No,2,2,2,2.0,,1,20,1,0,0,3,Non-Travel,9,Yes,No
+1259,Unknown,19,Female,1,,0,1,Sales Representative,Unknown,1,4.0,Yes,1,3,1,,,0,21,0,0,0,5,travel_frequently,1,No,Yes
+1260,243.0,19,Male,3,Life Sciences,1,1,Laboratory Technician,Unknown,2,4.0,Yes,4,2,3,2.0,,0,22,1,1,0,3,travel_rarely,2,No,Yes
+1261,Unknown,35,Male,2,,3,2,Manufacturing Director,Unknown,2,3.0,Yes,3,2,1,3.0,,0,13,1,0,1,1,travel_rarely,23,Yes,Yes
+1262,271.0,38,Male,4,,9,2,Manufacturing Director,Unknown,3,3.0,No,3,4,2,3.0,6553.0,0,14,1,0,0,3,travel_rarely,38,No,No
+1263,282.0,38,Male,1,Medical,7,2,Healthcare Representative,Unknown,3,,Yes,1,2,2,3.0,6673.0,0,19,1,0,0,2,Non-Travel,29,Yes,No
+1264,Unknown,41,Female,3,Life Sciences,3,3,Manager,Sales,3,3.0,No,4,4,3,3.0,13591.0,0,18,1,0,0,3,Non-Travel,6,Yes,No
+1265,309.0,59,Male,3,Life Sciences,3,1,Research Scientist,Unknown,2,3.0,No,4,3,1,3.0,2177.0,1,17,1,0,0,6,travel_rarely,3,No,Yes
+1266,323.0,50,Female,4,Medical,3,5,Manager,Unknown,3,3.0,No,4,4,3,2.0,19517.0,1,11,7,0,6,3,travel_rarely,1,No,No
+1267,334.0,41,Male,2,Life Sciences,2,2,Research Scientist,Research & Development,3,3.0,No,1,3,1,2.0,,2,16,1,0,0,2,travel_rarely,19,No,Yes
+1268,Unknown,45,Male,3,,0,5,Manager,Unknown,4,3.0,No,4,3,3,3.0,19202.0,1,11,24,1,7,2,Non-Travel,1,No,No
+1269,342.0,37,Male,3,Medical,6,3,Manufacturing Director,Unknown,3,,Yes,3,1,2,3.0,10048.0,2,11,1,0,0,5,Non-Travel,10,No,Yes
+1270,Unknown,51,Male,3,,1,1,Research Scientist,Unknown,3,3.0,No,4,3,2,2.0,2723.0,0,11,1,0,0,0,Non-Travel,38,No,Yes
+1271,364.0,28,Male,4,Life Sciences,2,1,Laboratory Technician,Unknown,3,3.0,Yes,3,1,3,1.0,,0,11,0,0,0,5,travel_rarely,2,No,No
+1272,Unknown,29,Male,3,Medical,2,2,Sales Executive,Unknown,2,3.0,No,2,1,2,,6644.0,2,19,0,0,0,2,travel_rarely,2,No,Yes
+1273,367.0,31,Male,3,Medical,0,2,Healthcare Representative,Research & Development,2,,No,4,2,2,3.0,,1,21,9,7,8,2,travel_rarely,23,No,Yes
+1274,Unknown,38,Female,2,Medical,1,2,Sales Executive,Unknown,4,4.0,No,1,1,3,3.0,5605.0,1,24,8,7,7,3,travel_rarely,7,Yes,No
+1275,392.0,44,Male,3,Life Sciences,3,1,Laboratory Technician,Unknown,3,4.0,Yes,3,12,4,1.0,3161.0,1,22,1,0,0,0,travel_frequently,12,Yes,Yes
+1276,397.0,36,Male,3,Technical Degree,4,2,Research Scientist,Unknown,3,3.0,No,2,3,4,3.0,,0,12,8,7,7,2,Non-Travel,3,No,Yes
+1277,Unknown,18,Male,3,,1,1,Laboratory Technician,Research & Development,3,3.0,Yes,3,3,3,3.0,1420.0,0,13,0,0,0,2,Non-Travel,3,No,Yes
+1278,407.0,36,Male,4,Life Sciences,4,1,Laboratory Technician,Unknown,4,3.0,No,4,3,4,3.0,,2,18,1,0,0,2,Non-Travel,18,No,Yes
+1279,Unknown,18,Female,3,,1,1,Sales Representative,Unknown,2,3.0,No,3,4,1,3.0,1200.0,0,12,0,0,0,2,Non-Travel,10,No,No
+1280,445.0,39,Female,2,,4,2,Sales Executive,Unknown,3,3.0,Yes,3,4,1,2.0,5238.0,0,18,1,0,0,3,travel_rarely,3,Yes,Yes
+1281,Unknown,43,Female,3,,8,3,Healthcare Representative,Research & Development,3,3.0,No,1,15,1,2.0,9985.0,1,16,1,0,0,1,travel_rarely,15,No,Yes
+1282,Unknown,47,Male,1,Medical,3,2,Sales Representative,Unknown,3,3.0,No,3,2,1,3.0,,0,19,0,0,0,3,travel_frequently,4,No,No
+1283,468.0,42,Female,5,,2,4,Research Director,Unknown,3,3.0,No,4,1,2,3.0,15992.0,0,14,1,0,0,2,travel_rarely,23,No,No
+1284,471.0,32,Female,3,,1,1,Laboratory Technician,Unknown,3,,No,2,3,3,3.0,2370.0,1,13,8,0,7,4,Non-Travel,2,No,Yes
+1285,473.0,48,Female,1,Medical,3,3,Manager,Unknown,3,4.0,No,3,1,2,1.0,,1,21,0,0,0,3,travel_rarely,29,No,Yes
+1286,477.0,42,Male,4,,3,2,Healthcare Representative,Research & Development,2,4.0,No,4,1,2,3.0,6781.0,0,23,1,0,0,6,travel_rarely,2,No,No
+1287,479.0,36,Female,5,Medical,4,2,Sales Executive,Unknown,3,,No,4,4,2,3.0,6653.0,0,15,1,0,0,6,non-travel,1,No,Yes
+1288,485.0,33,Female,3,Marketing,1,1,Sales Representative,Unknown,3,,Yes,3,4,2,3.0,2851.0,0,13,1,0,0,2,travel_rarely,5,No,No
+1289,487.0,46,Female,4,Medical,2,2,Manufacturing Director,Research & Development,3,3.0,No,3,3,3,4.0,5258.0,0,14,1,0,0,2,Non-Travel,7,No,Yes
+1290,494.0,21,Female,3,Life Sciences,1,1,Sales Representative,Sales,4,3.0,Yes,2,3,4,3.0,,0,15,1,0,0,0,travel_rarely,12,No,No
+1291,508.0,30,Male,1,Technical Degree,1,1,Sales Representative,Unknown,3,3.0,No,2,3,1,3.0,2476.0,1,18,1,0,0,3,Non-Travel,2,No,Yes
+1292,514.0,30,Male,3,,9,1,Research Scientist,Unknown,3,4.0,Yes,4,3,3,3.0,2285.0,0,23,1,0,0,4,travel_frequently,4,Yes,No
+1293,518.0,32,Male,4,,2,2,Manufacturing Director,Unknown,3,3.0,No,2,3,4,2.0,4197.0,0,12,1,0,1,2,travel_rarely,10,No,Yes
+1294,Unknown,40,Female,3,,6,2,Laboratory Technician,Unknown,2,4.0,No,3,2,2,3.0,3448.0,1,22,1,0,0,3,travel_rarely,2,No,Yes
+1295,Unknown,28,Male,2,,1,2,Laboratory Technician,Unknown,3,3.0,No,1,3,4,,4558.0,1,12,10,1,8,2,travel_rarely,17,No,No
+1296,556.0,38,Male,2,,1,1,Laboratory Technician,Unknown,3,4.0,No,4,4,3,3.0,1702.0,1,23,1,0,0,3,travel_frequently,2,Yes,No
+1297,566.0,19,Male,2,Technical Degree,1,1,Human Resources,Unknown,2,3.0,Yes,4,1,3,4.0,2564.0,0,12,1,0,0,3,Non-Travel,2,No,Yes
+1298,568.0,57,Male,3,,3,4,Manager,Unknown,2,3.0,No,4,1,3,2.0,,1,12,1,0,0,3,travel_rarely,29,No,Yes
+1299,Unknown,47,Female,2,Medical,5,2,Manufacturing Director,Unknown,3,,No,4,1,3,3.0,5070.0,3,13,5,0,4,2,travel_rarely,2,No,Yes
+1300,Unknown,54,Female,4,Life Sciences,7,2,Laboratory Technician,Unknown,3,3.0,No,3,3,3,3.0,3780.0,0,11,1,0,0,3,travel_rarely,8,No,No
+1301,Unknown,31,Male,3,,3,3,Healthcare Representative,Unknown,3,3.0,Yes,3,42,1,3.0,9824.0,0,12,1,0,0,2,travel_frequently,42,No,Yes
+1302,614.0,18,Male,3,Marketing,1,1,Sales Representative,Unknown,3,3.0,Yes,2,2,4,3.0,1878.0,0,14,0,0,0,3,travel_frequently,5,Yes,No
+1303,615.0,40,Male,3,Other,3,3,Sales Executive,Unknown,1,3.0,No,1,3,3,3.0,,1,15,1,0,1,2,Non-Travel,28,No,Yes
+1304,Unknown,26,Male,2,,5,2,Sales Executive,Unknown,3,3.0,No,3,1,1,3.0,,2,12,0,0,0,5,Non-Travel,29,No,Yes
+1305,622.0,26,Male,3,,1,1,Laboratory Technician,Research & Development,1,3.0,Yes,4,3,2,1.0,2340.0,0,18,1,0,0,3,travel_rarely,24,Yes,Yes
+1306,Unknown,38,Female,3,,3,2,Healthcare Representative,Unknown,3,3.0,No,3,3,3,,,1,19,1,0,0,4,Non-Travel,10,No,Yes
+1307,643.0,24,Male,2,Other,1,1,Laboratory Technician,Unknown,2,4.0,No,2,4,4,3.0,2127.0,1,21,1,0,0,2,Non-Travel,17,No,Yes
+1308,648.0,30,Male,4,,1,1,Sales Representative,Unknown,2,3.0,Yes,1,2,3,4.0,2033.0,1,18,1,0,0,2,travel_frequently,12,No,Yes
+1309,656.0,37,Male,3,Marketing,4,2,Sales Executive,Unknown,3,3.0,No,3,4,3,2.0,9602.0,1,11,3,1,0,3,travel_rarely,2,No,No
+1310,657.0,20,Female,3,Life Sciences,1,1,Research Scientist,Research & Development,2,,No,2,4,4,4.0,,0,13,1,0,0,0,travel_rarely,1,No,Yes
+1311,661.0,43,Male,4,Other,4,4,Research Director,Unknown,2,3.0,No,4,2,3,,16627.0,1,14,1,0,0,3,Non-Travel,14,No,No
+1312,662.0,38,Female,1,Life Sciences,3,1,Research Scientist,Unknown,3,3.0,No,1,3,4,2.0,,0,17,0,0,0,3,Non-Travel,27,No,Yes
+1313,Unknown,33,Male,4,Marketing,0,2,Sales Executive,Sales,3,3.0,No,3,3,4,3.0,,0,12,5,1,2,3,Non-Travel,8,No,No
+1314,Unknown,30,Female,3,,1,1,Research Scientist,Unknown,3,4.0,No,3,3,3,,2083.0,1,20,1,0,0,2,Non-Travel,3,No,No
+1315,690.0,29,Female,2,Medical,1,2,Sales Executive,Sales,3,3.0,No,3,2,1,2.0,,1,14,6,1,2,5,Non-Travel,44,No,No
+1316,701.0,20,Male,1,Medical,1,1,Research Scientist,Unknown,3,3.0,Yes,3,4,4,3.0,1009.0,0,11,1,1,1,5,Non-Travel,10,No,Yes
+1317,704.0,35,Male,3,,1,1,Laboratory Technician,Unknown,2,3.0,No,3,20,3,3.0,,2,18,1,0,0,3,non-travel,20,No,No
+1318,715.0,37,Male,2,Life Sciences,3,1,Research Scientist,Unknown,4,3.0,No,4,4,1,,,0,17,1,0,0,2,Non-Travel,10,No,Yes
+1319,743.0,38,Female,3,,4,3,Manufacturing Director,Unknown,3,,No,3,3,4,,7861.0,0,14,1,0,0,4,Non-Travel,1,Yes,Yes
+1320,749.0,29,Male,3,,1,1,Sales Representative,Unknown,3,3.0,No,3,3,3,,2642.0,0,11,1,0,0,6,Non-Travel,10,No,No
+1321,Unknown,35,Female,4,,2,2,Healthcare Representative,Unknown,3,3.0,No,1,4,1,4.0,,1,11,1,0,0,2,Non-Travel,2,No,Yes
+1322,773.0,38,Male,5,Medical,6,1,Research Scientist,Unknown,3,3.0,No,3,4,2,1.0,,1,13,1,0,1,0,travel_rarely,2,Yes,Yes
+1323,775.0,34,Female,5,Life Sciences,3,2,Manufacturing Director,Unknown,3,3.0,No,1,2,3,,5121.0,1,14,0,0,0,3,travel_rarely,8,No,Yes
+1324,811.0,23,Male,3,Life Sciences,1,1,Laboratory Technician,Unknown,4,4.0,Yes,1,3,3,3.0,,2,21,0,0,0,2,Non-Travel,6,Yes,No
+1325,812.0,24,Male,3,Life Sciences,1,1,Laboratory Technician,Unknown,2,3.0,No,2,3,3,3.0,2694.0,3,11,1,0,0,4,Non-Travel,9,No,No
+1326,816.0,29,Female,2,Life Sciences,1,1,Laboratory Technician,Unknown,2,3.0,Yes,1,2,4,3.0,,1,11,1,0,0,1,travel_rarely,1,No,Yes
+1327,832.0,40,Male,4,Medical,6,2,Laboratory Technician,Unknown,2,3.0,No,3,1,4,3.0,5094.0,0,14,1,0,0,6,travel_frequently,16,No,Yes
+1328,833.0,30,Female,3,,5,2,Manufacturing Director,Research & Development,2,4.0,No,4,3,2,2.0,,0,24,0,0,0,4,travel_rarely,2,No,Yes
+1329,834.0,45,Female,3,,1,1,Research Scientist,Unknown,2,3.0,No,3,2,4,3.0,2274.0,0,14,1,0,0,3,Non-Travel,2,No,Yes
+1330,Unknown,27,Male,3,Medical,1,1,Research Scientist,Unknown,3,3.0,No,4,4,3,2.0,,3,11,0,0,0,6,Non-Travel,3,No,Yes
+1331,Unknown,37,Male,4,Marketing,4,2,Sales Executive,Unknown,2,,No,3,4,4,3.0,,2,19,1,0,0,2,Non-Travel,16,No,Yes
+1332,Unknown,32,Male,3,Life Sciences,0,1,Laboratory Technician,Unknown,3,,No,4,4,2,3.0,2314.0,1,12,3,0,2,2,Non-Travel,1,No,Yes
+1333,897.0,53,Male,3,Marketing,5,4,Sales Executive,Unknown,3,3.0,No,4,1,3,3.0,,1,14,2,2,2,3,travel_rarely,8,No,Yes
+1334,904.0,37,Male,2,,1,3,Sales Executive,Unknown,3,3.0,No,2,19,4,3.0,,0,13,10,0,9,2,Non-Travel,19,Yes,No
+1335,911.0,32,Male,4,,1,1,Laboratory Technician,Unknown,3,4.0,Yes,4,1,3,1.0,,0,24,1,0,1,2,travel_rarely,25,No,Yes
+1336,918.0,58,Male,1,,9,1,Laboratory Technician,Unknown,2,3.0,Yes,4,4,4,2.0,2380.0,1,14,1,0,0,3,travel_frequently,2,No,Yes
+1337,Unknown,43,Female,3,,4,2,Manufacturing Director,Unknown,3,4.0,No,2,1,3,4.0,,1,21,1,0,0,2,travel_rarely,8,No,No
+1338,923.0,21,Female,1,Other,1,1,Research Scientist,Research & Development,3,,Yes,4,4,1,2.0,,0,19,1,0,0,3,travel_rarely,18,No,No
+1339,934.0,34,Male,3,Life Sciences,1,1,Laboratory Technician,Unknown,3,3.0,No,2,48,2,3.0,2008.0,2,14,1,1,0,3,Non-Travel,48,No,Yes
+1340,940.0,58,Female,3,,2,3,Healthcare Representative,Unknown,2,,No,2,3,4,3.0,10552.0,1,13,6,0,4,3,Non-Travel,5,No,No
+1341,945.0,48,Male,4,Medical,4,1,Research Scientist,Unknown,3,3.0,No,3,4,1,2.0,2259.0,2,17,0,0,0,2,Non-Travel,20,No,No
+1342,951.0,32,Female,3,Life Sciences,6,1,Laboratory Technician,Unknown,2,,No,2,3,3,3.0,,0,20,3,0,2,3,non-travel,1,No,Yes
+1343,952.0,25,Male,2,Marketing,1,1,Sales Representative,Unknown,2,,Yes,2,3,3,3.0,2413.0,3,18,1,0,0,2,Non-Travel,19,Yes,No
+1344,954.0,40,Male,4,Marketing,2,3,Sales Executive,Sales,2,3.0,No,2,1,2,2.0,,1,12,1,0,0,2,Non-Travel,10,No,Yes
+1345,959.0,19,Male,3,Other,1,1,Sales Representative,Unknown,2,3.0,Yes,2,4,2,4.0,2121.0,0,13,1,0,0,3,Non-Travel,21,Yes,No
+1346,Unknown,20,Male,3,Technical Degree,1,1,Laboratory Technician,Research & Development,3,3.0,Yes,1,1,2,3.0,,0,19,1,0,0,2,travel_rarely,4,No,No
+1347,Unknown,33,Female,3,,0,2,Healthcare Representative,Unknown,2,3.0,No,4,2,1,3.0,,0,14,5,1,4,3,travel_rarely,1,No,Yes
+1348,Unknown,58,Male,3,,4,1,Research Scientist,Unknown,3,4.0,Yes,3,4,1,3.0,2479.0,0,24,1,0,0,4,travel_rarely,2,No,No
+1349,986.0,40,Female,3,,4,4,Sales Executive,Unknown,4,3.0,Yes,2,2,4,2.0,13194.0,0,16,1,0,0,2,non-travel,24,No,Yes
+1350,994.0,29,Female,3,,6,1,Research Scientist,Unknown,2,4.0,Yes,1,4,3,3.0,,0,20,0,0,0,5,travel_rarely,10,Yes,Yes
+1351,1003.0,47,Female,2,Life Sciences,1,2,Sales Executive,Unknown,3,3.0,No,4,4,3,3.0,4163.0,0,17,9,0,7,0,travel_rarely,18,Yes,No
+1352,1012.0,18,Male,2,,1,1,Research Scientist,Unknown,3,3.0,No,4,2,4,3.0,,0,15,0,0,0,2,Non-Travel,5,No,Yes
+1353,Unknown,20,Female,3,Medical,1,1,Research Scientist,Unknown,2,3.0,Yes,1,4,1,3.0,2600.0,0,15,1,0,0,2,Non-Travel,16,Yes,No
+1354,1029.0,42,Male,2,,6,5,Manager,Unknown,3,3.0,No,3,4,2,4.0,18303.0,0,13,1,0,0,3,Non-Travel,5,No,Yes
+1355,Unknown,50,Male,3,,4,1,Laboratory Technician,Research & Development,3,,No,4,1,2,3.0,2380.0,0,18,1,0,0,5,travel_rarely,9,No,Yes
+1356,1033.0,37,Female,2,Medical,5,2,Healthcare Representative,Unknown,1,3.0,Yes,2,1,1,1.0,4777.0,0,15,1,0,0,2,travel_rarely,11,No,Yes
+1357,Unknown,38,Male,4,Life Sciences,8,2,Sales Executive,Unknown,3,3.0,No,4,2,3,3.0,,0,12,1,0,0,1,Non-Travel,3,Yes,No
+1358,1052.0,36,Male,3,,7,2,Laboratory Technician,Unknown,3,3.0,Yes,3,1,2,2.0,,1,14,1,0,0,3,Non-Travel,15,No,Yes
+1359,1056.0,28,Male,1,Medical,1,1,Sales Representative,Sales,3,4.0,No,2,4,2,3.0,1052.0,0,22,1,0,0,5,travel_rarely,10,No,Yes
+1360,1076.0,43,Male,3,,5,3,Sales Executive,Unknown,2,3.0,No,4,3,3,3.0,,1,13,1,0,0,5,Non-Travel,25,No,Yes
+1361,1079.0,21,Female,3,,1,1,Laboratory Technician,Research & Development,2,,Yes,1,3,1,2.0,,0,13,1,1,0,6,travel_rarely,10,No,Yes
+1362,1081.0,51,Male,4,,9,1,Research Scientist,Unknown,3,,Yes,3,1,3,4.0,2461.0,3,12,10,2,7,2,travel_rarely,4,No,No
+1363,1105.0,37,Female,4,,2,2,Sales Executive,Sales,2,,No,4,4,3,3.0,,3,14,1,0,0,5,Non-Travel,10,Yes,No
+1364,1111.0,28,Male,3,Medical,1,1,Laboratory Technician,Research & Development,2,,Yes,2,1,1,3.0,2596.0,2,15,1,0,0,2,Non-Travel,1,No,No
+1365,1113.0,50,Male,4,,3,2,Sales Executive,Unknown,3,3.0,Yes,3,4,4,3.0,4728.0,0,14,0,0,0,4,Non-Travel,1,Yes,Yes
+1366,1115.0,34,Male,4,,3,1,Research Scientist,Unknown,2,3.0,No,4,3,4,3.0,,3,17,0,0,0,2,Non-Travel,3,No,Yes
+1367,1125.0,38,Male,2,Marketing,7,3,Sales Executive,Unknown,3,3.0,No,2,4,3,3.0,7351.0,0,16,1,0,0,2,travel_rarely,2,No,Yes
+1368,Unknown,42,Male,3,,4,2,Laboratory Technician,Unknown,1,3.0,No,4,2,1,3.0,,0,19,1,0,0,3,Non-Travel,29,No,No
+1369,1156.0,18,Male,1,,1,1,Laboratory Technician,Unknown,3,3.0,Yes,3,3,4,3.0,,0,12,0,0,0,0,Non-Travel,8,No,Yes
+1370,1158.0,41,Male,4,,3,1,Laboratory Technician,Unknown,3,3.0,No,4,2,1,,4766.0,1,11,1,0,0,4,Non-Travel,12,Yes,No
+1371,1172.0,35,Male,4,Medical,6,1,Laboratory Technician,Research & Development,2,3.0,No,3,4,2,3.0,2258.0,1,12,8,1,7,2,travel_rarely,1,No,Yes
+1372,1190.0,32,Female,1,,1,1,Sales Representative,Sales,3,3.0,No,1,3,3,3.0,2827.0,3,12,1,0,0,3,Non-Travel,2,No,Yes
+1373,Unknown,22,Male,4,Life Sciences,0,1,Research Scientist,Unknown,2,3.0,Yes,4,3,2,3.0,2853.0,1,11,0,0,0,5,Non-Travel,3,Yes,Yes
+1374,1206.0,44,Male,3,,2,1,Research Scientist,Unknown,1,,No,3,26,4,3.0,2290.0,0,13,0,0,0,3,non-travel,26,No,Yes
+1375,1210.0,41,Male,2,Life Sciences,6,1,Research Scientist,Unknown,2,3.0,Yes,1,1,1,1.0,2107.0,1,17,1,0,0,2,non-travel,5,No,Yes
+1376,Unknown,40,Male,4,,5,2,Sales Executive,Unknown,3,3.0,No,2,2,4,3.0,,3,12,0,0,0,2,travel_frequently,2,No,No
+1377,Unknown,24,Female,2,Life Sciences,1,1,Laboratory Technician,Unknown,3,3.0,Yes,2,4,1,1.0,2210.0,1,13,1,0,0,3,Non-Travel,17,No,Yes
+1378,1242.0,42,Female,5,Medical,3,3,Research Director,Unknown,3,3.0,No,1,1,3,3.0,13191.0,0,17,1,0,0,6,travel_frequently,26,Yes,No
+1379,1256.0,49,Male,2,Medical,2,5,Manager,Research & Development,2,,No,3,1,3,4.0,,1,13,1,0,0,2,Non-Travel,4,No,Yes
+1380,1258.0,48,Male,2,Technical Degree,5,1,Laboratory Technician,Unknown,4,3.0,No,2,4,3,2.0,,0,11,1,0,0,4,travel_rarely,2,No,Yes
+1381,1260.0,29,Male,3,,1,2,Healthcare Representative,Research & Development,3,3.0,No,4,3,2,3.0,,2,11,6,1,0,2,travel_rarely,7,No,Yes
+1382,1263.0,48,Male,3,Life Sciences,6,5,Research Director,Research & Development,2,3.0,No,4,4,3,4.0,18265.0,0,12,1,0,0,3,Non-Travel,1,No,Yes
+1383,Unknown,34,Female,3,Technical Degree,0,1,Research Scientist,Unknown,4,3.0,No,3,3,4,2.0,,0,17,1,0,0,5,Non-Travel,20,No,Yes
+1384,1269.0,19,Female,3,Life Sciences,1,1,Research Scientist,Unknown,4,3.0,No,4,2,4,3.0,,0,12,1,0,1,2,Non-Travel,25,No,Yes
+1385,1270.0,23,Male,2,,1,1,Research Scientist,Unknown,3,4.0,No,3,4,4,3.0,,1,22,1,0,1,2,Non-Travel,1,No,No
+1386,1273.0,25,Male,1,,1,1,Sales Representative,Unknown,1,,Yes,4,3,4,3.0,1118.0,0,14,1,1,0,4,travel_frequently,32,Yes,Yes
+1387,Unknown,42,Female,4,Medical,6,2,Research Scientist,Unknown,4,3.0,No,2,2,4,3.0,2372.0,0,16,1,0,0,2,Non-Travel,34,Yes,No
+1388,Unknown,51,Female,2,Medical,0,1,Laboratory Technician,Unknown,2,3.0,No,3,2,2,2.0,2838.0,0,14,7,7,7,6,travel_frequently,6,No,No
+1389,1306.0,45,Female,3,Medical,3,5,Manager,Unknown,3,4.0,No,2,2,3,3.0,18061.0,0,22,0,0,0,4,travel_frequently,25,No,No
+1390,1364.0,27,Female,3,Medical,8,1,Sales Representative,Unknown,4,,No,4,3,2,3.0,,1,14,1,0,0,4,Non-Travel,11,No,Yes
+1391,1368.0,18,Female,3,,1,1,Laboratory Technician,Unknown,3,3.0,No,4,4,3,4.0,1611.0,0,15,0,0,0,5,non-travel,1,No,No
+1392,1379.0,31,Female,3,,7,1,Sales Representative,Unknown,2,3.0,Yes,4,3,3,4.0,,0,14,1,0,0,3,travel_frequently,2,No,Yes
+1393,1427.0,31,Female,4,Life Sciences,1,1,Sales Representative,Unknown,1,,Yes,3,2,2,3.0,,0,12,1,0,0,3,travel_frequently,1,No,No
+1394,1433.0,31,Female,3,Life Sciences,1,1,Research Scientist,Unknown,2,3.0,Yes,2,1,3,4.0,,0,12,1,0,0,3,travel_rarely,8,No,No
+1395,1434.0,27,Male,1,Life Sciences,0,1,Laboratory Technician,Unknown,3,3.0,No,1,2,2,4.0,,0,14,5,1,4,3,travel_rarely,11,No,No
+1396,1458.0,39,Female,3,,2,1,Laboratory Technician,Unknown,2,4.0,Yes,1,1,2,4.0,,0,23,1,0,0,2,Non-Travel,2,Yes,Yes
+1397,1481.0,44,Female,5,Marketing,7,2,Sales Executive,Unknown,3,,No,3,1,3,2.0,4768.0,1,12,1,0,0,4,travel_frequently,1,No,No
+1398,1482.0,30,Male,3,,1,1,Research Scientist,Research & Development,3,3.0,No,3,25,2,2.0,1274.0,2,13,1,0,0,2,Non-Travel,25,No,No
+1399,Unknown,35,Male,1,Life Sciences,1,1,Sales Representative,Unknown,3,,No,3,4,1,3.0,2404.0,1,13,1,0,0,3,travel_rarely,26,No,Yes
+1400,1494.0,24,Male,3,,2,1,Laboratory Technician,Unknown,3,3.0,Yes,1,2,3,2.0,,0,11,0,0,0,2,travel_frequently,9,No,No
+1401,Unknown,24,Female,2,,1,1,Sales Representative,Unknown,3,3.0,No,2,4,3,,2033.0,1,13,1,0,0,2,Non-Travel,13,No,Yes
+1402,1504.0,28,Male,2,Medical,7,1,Laboratory Technician,Unknown,2,,Yes,1,3,3,2.0,2561.0,0,11,0,0,0,2,Non-Travel,2,No,Yes
+1403,Unknown,28,Male,3,Life Sciences,1,1,Research Scientist,Unknown,2,3.0,No,3,1,4,1.0,1563.0,1,14,1,0,0,2,travel_rarely,1,No,No
+1404,1515.0,33,Male,5,,2,2,Healthcare Representative,Unknown,3,3.0,No,3,4,1,3.0,6388.0,0,17,0,0,0,6,Non-Travel,8,No,Yes
+1405,1525.0,39,Female,3,,4,3,Manufacturing Director,Unknown,3,,No,2,2,4,3.0,8376.0,0,18,2,2,2,3,travel_rarely,6,No,No
+1406,1542.0,42,Male,3,Medical,4,1,Laboratory Technician,Unknown,2,,No,2,3,2,,4841.0,1,14,1,0,0,3,Non-Travel,2,No,Yes
+1407,1558.0,29,Male,3,,6,1,Research Scientist,Unknown,4,3.0,No,3,3,1,2.0,,2,18,1,0,0,2,travel_rarely,9,No,No
+1408,1564.0,35,Male,3,,1,1,Laboratory Technician,Unknown,2,3.0,No,1,4,2,3.0,,0,19,3,1,2,3,travel_rarely,1,No,No
+1409,Unknown,35,Female,3,,1,1,Laboratory Technician,Unknown,3,3.0,Yes,1,14,4,3.0,2074.0,1,12,1,0,0,2,travel_rarely,14,No,Yes
+1410,1577.0,34,Male,4,Medical,1,1,Research Scientist,Unknown,3,3.0,No,4,13,3,,2972.0,0,13,1,0,0,4,Non-Travel,13,No,No
+1411,1581.0,26,Female,3,,1,1,Research Scientist,Unknown,3,4.0,No,4,1,1,3.0,,0,21,1,0,0,5,travel_rarely,3,No,Yes
+1412,Unknown,36,Female,4,Life Sciences,6,2,Sales Executive,Unknown,3,3.0,No,3,2,1,3.0,6815.0,0,13,1,0,0,5,travel_rarely,1,No,Yes
+1413,1591.0,50,Male,3,Marketing,4,5,Manager,Unknown,3,,No,3,24,3,3.0,,1,16,1,0,0,2,Non-Travel,24,Yes,No
+1414,Unknown,42,Male,2,,8,5,Manager,Unknown,2,4.0,No,4,4,4,3.0,,0,22,1,0,1,2,travel_rarely,9,No,No
+1415,1601.0,35,Male,2,Life Sciences,1,1,Laboratory Technician,Unknown,2,3.0,No,4,3,4,2.0,2690.0,1,18,1,0,1,5,Non-Travel,7,No,No
+1416,1602.0,46,Male,4,Life Sciences,1,4,Manager,Unknown,4,3.0,No,1,4,2,1.0,17567.0,0,15,26,0,12,5,travel_rarely,1,No,No
+1417,1624.0,18,Female,2,Medical,1,1,Sales Representative,Sales,3,3.0,Yes,4,2,3,4.0,1569.0,0,12,0,0,0,2,travel_frequently,3,Yes,Yes
+1418,1669.0,29,Male,3,,1,2,Sales Executive,Unknown,2,,No,2,1,2,2.0,4187.0,1,13,10,0,9,3,Non-Travel,5,Yes,Yes
+1419,1673.0,31,Female,4,Life Sciences,1,2,Sales Executive,Unknown,3,3.0,No,4,1,1,,,2,11,10,0,2,2,Non-Travel,5,No,Yes
+1420,1678.0,41,Male,2,,3,3,Sales Executive,Unknown,3,3.0,No,3,4,4,3.0,,0,16,2,0,2,2,travel_rarely,23,No,Yes
+1421,Unknown,38,Female,2,,7,1,Laboratory Technician,Unknown,3,3.0,No,3,4,4,,3306.0,1,19,0,0,0,5,travel_rarely,4,No,Yes
+1422,Unknown,32,Male,4,Life Sciences,1,1,Laboratory Technician,Unknown,3,3.0,Yes,2,4,1,3.0,1393.0,0,12,1,0,0,2,travel_rarely,2,No,Yes
+1423,1697.0,60,Male,4,,3,3,Healthcare Representative,Unknown,1,4.0,No,4,3,3,4.0,10883.0,1,20,1,0,0,2,Non-Travel,1,No,No
+1424,1714.0,24,Male,1,,1,1,Human Resources,Unknown,1,,Yes,3,4,3,3.0,,1,11,1,0,0,2,Non-Travel,22,No,Yes
+1425,1724.0,40,Female,2,Life Sciences,2,2,Manufacturing Director,Unknown,3,3.0,No,1,2,2,3.0,,1,16,1,0,0,3,travel_rarely,8,Yes,Yes
+1426,Unknown,30,Male,1,,1,1,Research Scientist,Unknown,3,3.0,No,4,2,2,2.0,2862.0,1,12,10,0,8,2,travel_rarely,21,No,Yes
+1427,1731.0,47,Male,4,Marketing,7,2,Sales Executive,Unknown,3,3.0,No,2,3,4,1.0,,1,11,1,0,0,3,non-travel,2,No,Yes
+1428,Unknown,32,Male,2,,6,2,Sales Executive,Sales,1,3.0,Yes,2,1,2,3.0,6735.0,0,15,0,0,0,2,travel_rarely,1,No,No
+1429,1744.0,45,Female,3,Life Sciences,4,3,Human Resources,Unknown,1,4.0,No,3,41,3,4.0,9756.0,2,21,5,0,3,2,travel_rarely,41,No,Yes
+1430,1755.0,34,Male,4,,0,1,Research Scientist,Unknown,4,3.0,No,4,4,1,3.0,,3,14,5,1,2,3,Non-Travel,2,Yes,No
+1431,1758.0,33,Female,3,,2,3,Sales Executive,Unknown,3,4.0,Yes,1,1,3,2.0,,0,20,0,0,0,2,Non-Travel,16,Yes,Yes
+1432,1761.0,31,Male,4,,2,3,Sales Executive,Unknown,3,3.0,Yes,3,1,1,3.0,,3,13,1,0,0,2,travel_rarely,16,No,Yes
+1433,Unknown,29,Female,3,Technical Degree,1,1,Research Scientist,Unknown,2,3.0,No,1,4,3,3.0,,1,13,1,0,0,2,travel_rarely,4,No,Yes
+1434,1763.0,30,Male,3,,3,2,Healthcare Representative,Unknown,4,3.0,No,3,3,3,3.0,5294.0,1,16,7,1,7,3,Non-Travel,16,No,No
+1435,1766.0,38,Male,3,Medical,3,2,Healthcare Representative,Unknown,1,3.0,No,4,2,3,3.0,,1,16,1,1,0,2,travel_rarely,18,No,Yes
+1436,Unknown,43,Male,3,Technical Degree,9,1,Research Scientist,Unknown,2,3.0,Yes,3,3,4,3.0,2437.0,1,16,1,0,0,4,Non-Travel,17,Yes,No
+1437,Unknown,55,Male,3,,8,5,Research Director,Unknown,2,3.0,No,1,3,2,3.0,,3,12,1,0,0,2,travel_rarely,44,No,No
+1438,Unknown,21,Male,1,Marketing,1,1,Sales Representative,Unknown,3,3.0,Yes,2,2,2,3.0,,0,13,1,1,0,3,Non-Travel,7,No,Yes
+1439,1783.0,22,Female,1,Medical,1,1,Laboratory Technician,Unknown,3,3.0,Yes,1,3,3,3.0,,0,17,1,0,0,6,travel_rarely,45,Yes,Yes
+1440,Unknown,37,Male,2,Other,2,2,Human Resources,Unknown,3,3.0,No,2,3,3,2.0,4071.0,0,13,10,4,7,4,travel_rarely,8,No,Yes
+1441,Unknown,42,Male,3,,5,2,Healthcare Representative,Unknown,4,,No,1,2,3,2.0,,2,18,0,0,0,2,travel_rarely,13,No,No
+1442,1839.0,18,Female,3,,1,1,Research Scientist,Unknown,3,3.0,No,3,2,3,1.0,,0,16,0,0,0,4,Non-Travel,14,No,Yes
+1443,1842.0,31,Male,5,Human Resources,0,1,Human Resources,Unknown,4,3.0,Yes,1,4,3,3.0,2956.0,0,17,1,0,0,4,travel_rarely,18,No,Yes
+1444,1847.0,36,Female,4,,4,2,Research Scientist,Unknown,3,4.0,No,2,4,4,3.0,,1,22,1,0,0,2,travel_rarely,2,Yes,Yes
+1445,1853.0,32,Male,4,Marketing,8,2,Sales Executive,Unknown,3,3.0,No,4,4,3,4.0,4648.0,0,13,0,0,0,2,travel_frequently,10,No,Yes
+1446,Unknown,29,Male,1,Life Sciences,8,2,Healthcare Representative,Unknown,1,,No,3,4,4,,,2,17,7,1,6,3,Non-Travel,29,No,No
+1447,1860.0,42,Male,3,,4,1,Laboratory Technician,Unknown,3,,No,3,4,4,3.0,,0,13,0,0,0,3,travel_rarely,8,No,Yes
+1448,1865.0,29,Male,1,,1,1,Human Resources,Unknown,2,3.0,No,2,4,4,3.0,2804.0,0,11,1,0,0,3,travel_rarely,6,No,Yes
+1449,Unknown,29,Male,2,,1,1,Research Scientist,Unknown,2,,Yes,4,4,2,2.0,2439.0,0,24,1,1,0,3,Non-Travel,24,Yes,No
+1450,1875.0,28,Female,3,Medical,1,1,Sales Representative,Sales,3,3.0,No,2,2,4,3.0,2856.0,1,19,1,0,0,3,travel_rarely,3,No,Yes
+1451,1876.0,30,Male,3,,1,1,Sales Representative,Unknown,3,3.0,Yes,4,2,3,2.0,,0,13,1,0,0,3,Non-Travel,9,No,No
+1452,Unknown,22,Male,1,Life Sciences,1,1,Research Scientist,Research & Development,3,4.0,Yes,2,4,1,3.0,,0,23,1,0,0,2,travel_rarely,7,No,Yes
+1453,1893.0,26,Female,2,Life Sciences,1,1,Research Scientist,Unknown,2,3.0,No,3,2,3,2.0,2933.0,1,13,1,1,0,3,Non-Travel,1,Yes,No
+1454,1903.0,44,Male,4,,2,2,Healthcare Representative,Unknown,4,3.0,No,1,2,4,3.0,,1,15,2,2,2,5,travel_rarely,1,No,Yes
+1455,1928.0,29,Male,3,Technical Degree,1,1,Sales Representative,Sales,4,3.0,Yes,1,3,4,,1091.0,0,17,1,0,0,3,travel_frequently,24,No,Yes
+1456,1933.0,28,Female,2,Marketing,3,2,Sales Executive,Unknown,3,3.0,Yes,3,4,4,3.0,,0,11,2,2,2,0,travel_rarely,13,Yes,Yes
+1457,1935.0,56,Female,5,,4,2,Sales Executive,Unknown,2,3.0,No,1,4,3,3.0,,1,16,0,0,0,3,travel_rarely,11,No,Yes
+1458,1936.0,39,Male,2,,1,2,Manufacturing Director,Unknown,3,4.0,No,1,1,4,3.0,5151.0,1,25,10,7,9,3,travel_rarely,9,No,Yes
+1459,1938.0,58,Female,3,,4,4,Manager,Unknown,3,3.0,No,4,4,3,2.0,,1,13,1,0,0,2,Non-Travel,21,Yes,Yes
+1460,1943.0,42,Male,4,Marketing,3,2,Sales Executive,Sales,3,,No,4,2,3,3.0,,2,12,0,0,0,4,travel_rarely,12,No,No
+1461,1944.0,27,Female,3,,1,1,Human Resources,Unknown,2,3.0,Yes,2,1,1,3.0,2863.0,0,12,1,0,0,2,Non-Travel,22,No,No
+1462,1961.0,38,Male,3,,4,1,Sales Representative,Unknown,2,3.0,No,1,1,1,2.0,2858.0,0,14,1,0,0,3,travel_rarely,1,No,Yes
+1463,1966.0,32,Male,4,Life Sciences,8,2,Manufacturing Director,Unknown,2,4.0,No,4,4,2,3.0,,0,24,1,0,0,1,Non-Travel,5,No,Yes
+1464,1974.0,31,Female,1,Medical,1,1,Laboratory Technician,Unknown,1,3.0,No,4,4,3,3.0,1129.0,3,11,1,0,0,4,Non-Travel,2,No,Yes
+1465,Unknown,25,Female,3,,4,1,Human Resources,Unknown,3,3.0,No,2,3,3,3.0,,0,14,2,1,2,3,travel_rarely,2,No,No
+1466,2012.0,40,Male,4,,8,1,Laboratory Technician,Research & Development,3,3.0,No,4,1,3,2.0,,2,19,1,0,0,3,Non-Travel,44,No,Yes
+1467,Unknown,39,Male,3,,2,5,Manager,Unknown,3,3.0,No,4,4,3,2.0,19431.0,0,13,6,1,3,3,non-travel,9,No,No
+1468,2023.0,23,Male,3,,1,1,Sales Representative,Unknown,3,3.0,Yes,1,4,1,,,1,19,1,1,0,3,Non-Travel,9,No,No
+1469,2040.0,35,Female,4,Life Sciences,1,3,Human Resources,Unknown,3,3.0,No,4,3,3,,,0,16,9,1,7,2,travel_rarely,26,Yes,No
+1471,1947.0,28,Male,3,Medical,1,1,Research Scientist,Unknown,3,3.0,No,3,3,3,2.0,2144.0,0,14,5,1,4,3,non-travel,16,No,No
+1477,Unknown,41,Male,4,,1,4,Manager,Unknown,3,3.0,No,2,4,2,3.0,16015.0,0,19,22,0,4,2,Non-Travel,2,No,Yes
+1478,Unknown,39,Male,3,,0,3,Healthcare Representative,Research & Development,4,,No,4,3,1,2.0,9613.0,3,17,18,3,7,5,travel_rarely,1,No,Yes
+1481,524.0,31,Female,2,,1,2,Manufacturing Director,Unknown,3,3.0,No,1,2,2,1.0,4306.0,1,12,13,3,12,5,Non-Travel,7,No,Yes
+1486,1069.0,46,Male,4,Medical,9,5,Research Director,Unknown,3,3.0,No,4,4,4,3.0,,2,17,2,2,2,0,Non-Travel,1,No,Yes
+1488,1135.0,31,Male,3,,0,1,Sales Representative,Unknown,4,,No,4,3,1,3.0,2791.0,1,12,2,2,2,4,travel_frequently,20,No,No
+1492,1160.0,31,Male,3,Medical,1,1,Laboratory Technician,Research & Development,3,3.0,Yes,3,3,3,2.0,2610.0,1,12,2,2,2,5,Non-Travel,15,No,No
+1493,1161.0,37,Female,2,,7,2,Healthcare Representative,Unknown,2,3.0,No,4,3,3,3.0,5731.0,2,13,6,1,3,2,travel_rarely,25,No,No
+1494,1162.0,27,Male,3,,1,1,Research Scientist,Unknown,2,,No,3,4,3,3.0,2539.0,1,13,4,2,2,0,travel_rarely,6,No,No
+1496,Unknown,56,Female,4,,4,5,Manager,Unknown,3,3.0,No,1,4,4,3.0,,1,13,5,4,2,2,Non-Travel,4,No,No
+1504,Unknown,45,Female,4,,4,2,Sales Executive,Unknown,3,4.0,No,3,48,2,4.0,5154.0,2,22,8,5,7,3,non-travel,48,No,Yes
+1506,1869.0,46,Female,3,Life Sciences,5,3,Sales Executive,Unknown,3,4.0,Yes,2,3,3,3.0,7314.0,3,21,8,0,7,2,Non-Travel,10,No,No
+1509,1911.0,42,Male,3,Medical,9,3,Research Director,Unknown,3,3.0,No,1,3,2,4.0,,1,13,13,5,7,3,Non-Travel,6,No,No
+1512,423.0,31,Male,4,,0,1,Research Scientist,Research & Development,3,3.0,No,4,3,3,3.0,,1,12,5,0,3,4,travel_rarely,5,No,Yes
+1515,433.0,52,Male,4,Medical,2,2,Research Scientist,Unknown,2,,Yes,2,3,1,2.0,4941.0,0,15,8,7,7,3,Non-Travel,8,No,No
+1518,455.0,29,Male,5,Other,0,1,Laboratory Technician,Unknown,2,3.0,No,4,2,3,,3983.0,0,17,3,2,2,2,Non-Travel,9,No,No
+1519,460.0,37,Male,2,Medical,7,2,Manufacturing Director,Unknown,3,3.0,No,4,4,3,2.0,6347.0,2,16,6,0,4,2,Non-Travel,5,No,No
+1520,465.0,23,Male,1,,1,1,Research Scientist,Unknown,3,3.0,No,4,3,3,2.0,2904.0,2,12,4,0,2,2,Non-Travel,22,No,No
+1523,478.0,21,Female,1,,1,1,Sales Representative,Unknown,2,3.0,Yes,2,1,3,3.0,2174.0,0,11,3,1,2,3,Non-Travel,1,No,No
+1524,482.0,57,Male,4,Medical,2,2,Healthcare Representative,Unknown,3,3.0,No,3,4,3,3.0,6755.0,0,11,3,1,2,2,travel_rarely,1,No,No
+1526,Unknown,31,Male,4,Life Sciences,0,1,Research Scientist,Unknown,2,3.0,No,2,3,4,3.0,2657.0,0,16,2,2,2,5,travel_rarely,9,No,No
+1529,Unknown,49,Male,3,Other,8,3,Healthcare Representative,Unknown,2,4.0,No,3,2,3,3.0,10965.0,0,24,5,0,0,2,travel_rarely,7,No,No
+1541,Unknown,45,Male,2,Medical,0,4,Healthcare Representative,Unknown,3,3.0,No,4,3,2,3.0,,0,14,20,4,10,2,travel_rarely,33,Yes,Yes
+1545,389.0,55,Male,2,Technical Degree,3,2,Laboratory Technician,Research & Development,3,,No,4,17,4,3.0,,1,19,10,0,8,4,travel_rarely,17,No,Yes
+1546,401.0,26,Male,4,,1,2,Sales Executive,Unknown,2,3.0,Yes,4,4,2,,5828.0,0,12,8,7,4,0,travel_rarely,4,No,Yes
+1547,416.0,31,Male,3,Technical Degree,4,2,Sales Executive,Unknown,4,3.0,No,4,2,2,2.0,,1,11,8,7,7,3,travel_rarely,7,No,No
+1548,430.0,43,Female,4,Life Sciences,0,1,Laboratory Technician,Unknown,3,3.0,No,4,3,1,3.0,2455.0,0,19,8,1,7,5,travel_frequently,10,No,No
+1549,438.0,31,Male,3,Marketing,4,2,Sales Executive,Unknown,3,3.0,No,4,4,4,3.0,,3,12,7,1,7,3,travel_rarely,7,No,Yes
+1550,Unknown,32,Female,4,Medical,7,2,Research Scientist,Unknown,4,3.0,No,4,1,3,2.0,5055.0,0,16,7,0,7,0,Non-Travel,2,No,No
+1555,Unknown,29,Female,1,,1,2,Sales Executive,Unknown,2,3.0,No,2,4,1,3.0,,2,14,7,1,7,2,travel_rarely,10,Yes,Yes
+1556,Unknown,37,Male,3,Medical,4,2,Research Scientist,Unknown,4,3.0,No,1,3,1,3.0,5974.0,2,13,7,6,7,2,Non-Travel,6,No,Yes
+1557,476.0,26,Male,3,,1,2,Sales Executive,Unknown,3,3.0,No,3,3,2,3.0,,1,17,8,7,7,3,travel_rarely,1,No,No
+1565,Unknown,30,Female,3,,0,1,Laboratory Technician,Unknown,3,3.0,No,4,3,3,2.0,,0,14,11,6,7,2,non-travel,2,No,Yes
+1568,Unknown,45,Male,3,Other,0,2,Sales Executive,Unknown,3,3.0,No,2,4,2,4.0,4805.0,1,19,8,3,7,3,travel_rarely,2,No,No
+1571,621.0,34,Male,4,,1,2,Sales Executive,Unknown,4,3.0,No,4,4,4,3.0,5337.0,0,12,10,5,7,3,Non-Travel,21,No,No
+1576,Unknown,54,Male,4,,2,3,Human Resources,Unknown,3,,No,2,3,3,4.0,,1,15,9,7,1,1,Non-Travel,24,No,No
+1582,724.0,38,Female,4,Life Sciences,0,2,Healthcare Representative,Unknown,4,3.0,No,4,2,3,,,0,13,9,1,8,4,travel_rarely,1,No,No
+1585,728.0,47,Male,4,Marketing,2,2,Sales Executive,Unknown,3,3.0,No,1,4,4,3.0,4960.0,0,12,7,1,7,2,Non-Travel,14,No,No
+1588,Unknown,28,Female,2,,7,1,Research Scientist,Research & Development,1,3.0,Yes,2,1,4,3.0,2216.0,0,13,7,3,7,4,Non-Travel,1,Yes,Yes
+1595,803.0,38,Female,4,Life Sciences,6,2,Manufacturing Director,Unknown,4,3.0,No,1,1,4,3.0,5980.0,0,12,15,4,12,2,Non-Travel,2,No,No
+1596,Unknown,40,Female,2,Medical,1,2,Healthcare Representative,Unknown,4,4.0,No,2,3,4,3.0,4244.0,1,24,8,3,7,2,Non-Travel,2,No,Yes
+1599,Unknown,29,Male,2,,1,1,Research Scientist,Unknown,4,4.0,No,3,3,3,3.0,2700.0,1,24,10,0,7,3,travel_rarely,23,No,No
+1601,Unknown,28,Female,4,,1,2,Sales Executive,Sales,3,4.0,No,2,43,1,3.0,,0,20,8,7,5,2,Non-Travel,43,No,No
+1603,913.0,44,Male,2,,1,1,Research Scientist,Unknown,3,3.0,No,1,2,4,3.0,,0,13,8,7,1,0,Non-Travel,9,Yes,No
+1606,956.0,26,Male,3,Medical,1,2,Sales Executive,Sales,2,3.0,No,1,3,2,3.0,4294.0,0,12,7,0,7,2,travel_frequently,1,No,Yes
+1607,Unknown,31,Female,3,Medical,0,2,Healthcare Representative,Unknown,3,3.0,No,4,4,3,1.0,,2,11,9,8,5,2,Non-Travel,12,No,Yes
+1610,972.0,45,Male,2,,1,2,Laboratory Technician,Unknown,3,3.0,No,2,3,2,2.0,4447.0,0,12,9,0,8,5,non-travel,4,No,Yes
+1611,Unknown,39,Male,5,,0,3,Sales Executive,Unknown,4,3.0,No,3,13,4,3.0,,0,18,8,0,7,3,travel_rarely,13,No,Yes
