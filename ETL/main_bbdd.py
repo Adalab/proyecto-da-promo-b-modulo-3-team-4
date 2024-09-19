@@ -33,7 +33,11 @@ from src import soporte_funciones_bbdd as bbdd
 
 df = pd.read_csv('files/HR RAW DATA_CLEAN.csv', index_col = 0)
 
+print(df.shape)
+
 df.head(2)
+
+
 
 # %%
 # CREACION SCHEMA
@@ -97,19 +101,23 @@ bbdd.insercion_datos(query.query_insercion_satisfaction, 'AlumnaAdalab', 'Proyec
 
 columnas = ['idWork', 'JobLevel', 'JobRole', 'Department']
 
-df_completo = bbdd.union_tabla_work('AlumnaAdalab', 'Proyecto', df, columnas)
+df_completo = bbdd.union_tabla_work('AlumnaAdalab', 'Proyecto', df)
 
-print(df_completo)
+print(df_completo.shape)
 
 # %%
 
 columnas2 = ['idSatisfaction', 'JobInvolvement', 'PerformanceRating', 'EnvironmentSatisfaction', 'RelationshipSatisfaction', 'WorkLifeBalance', 'JobSatisfaction']
-df_completo = bbdd.union_tabla_satisfaction('AlumnaAdalab', 'Proyecto', df_completo, columnas2)
+df_completo = bbdd.union_tabla_satisfaction('AlumnaAdalab', 'Proyecto', df_completo)
+print(df_completo.shape)
+
+
+
+#%%
 print(df_completo)
 
 #%%
-
-valores_tabla_employee = list(set(zip(
+valores_tabla_employee = list((zip(
     df_completo['EmployeeNumber'].values,
     [int(x) for x in df_completo['Age'].values],
     df_completo['Gender'].values,   

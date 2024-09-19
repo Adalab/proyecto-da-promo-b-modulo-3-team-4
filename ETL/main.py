@@ -33,6 +33,11 @@ from src import soporte_funciones_bbdd as bbdd
 df = pd.read_csv("files/HR RAW DATA.csv", index_col=0)
 df.head(2)
 
+print(df.shape)
+
+print(df.duplicated(subset='employeenumber', keep=False).sum())
+df[df['employeenumber'].isnull() == True].duplicated(subset='employeenumber', keep=False).sum()
+
 # %%
 
 # LIMPIAMOS COLUMNAS DATAFRAME
@@ -79,6 +84,7 @@ df = transform.estandarizacion_remote_work(df)
 
 #%%
 
+
 df = transform.eliminar_employees_duplicados (df)
 
 
@@ -94,7 +100,26 @@ df = transform.imputacion_simple_overtime(df)
 
 #%% 
 
+# REALIZAMOS IMPUTACIONES EN FUNCION DE MEDIDAS DE ESTADISTICA DESCRIPTIVA 
+
+df = transform.limpieza_environment_satisfaction(df)
+
+#%%
+
+df = transform.imputacion_work_life_balance(df)
+
+
+#%% 
+
+df = transform.imputacion_performance_rating(df)
+
+#%% 
+
+print(df.shape)
+
 # GUARDAMOS EN UN CSV
 
 df.to_csv('files/HR RAW DATA_CLEAN.csv')
 
+
+# %%

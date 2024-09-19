@@ -80,7 +80,7 @@ def insercion_datos (query, contraseña, bbdd, valores):
 
 #%%
 
-def union_tabla_work(contraseña, bbdd, dataframe, columnas):
+def union_tabla_work(contraseña, bbdd, dataframe):
     cnx = mysql.connector.connect(
         user = "root", 
         password = contraseña, 
@@ -97,13 +97,13 @@ def union_tabla_work(contraseña, bbdd, dataframe, columnas):
     
     cnx.close()
     
-    dataframe_para_unir = pd.DataFrame(datos, columns = columnas)
+    dataframe_para_unir = pd.DataFrame(datos, columns = ['idWork', 'JobLevel', 'JobRole', 'Department'])
      
-    df_empleados_completo = pd.merge(dataframe,dataframe_para_unir, on = columnas.remove('idWork'))
+    df_empleados_completo = pd.merge(dataframe,dataframe_para_unir, on = ['JobLevel', 'JobRole', 'Department'])
     
     return df_empleados_completo
     
-def union_tabla_satisfaction(contraseña, bbdd, dataframe, columnas):
+def union_tabla_satisfaction(contraseña, bbdd, dataframe):
     
     cnx = mysql.connector.connect(
         user = "root", 
@@ -121,8 +121,8 @@ def union_tabla_satisfaction(contraseña, bbdd, dataframe, columnas):
     
     cnx.close()
     
-    dataframe_para_unir = pd.DataFrame(datos, columns = columnas)
+    dataframe_para_unir = pd.DataFrame(datos, columns = ['idSatisfaction', 'JobInvolvement', 'PerformanceRating', 'EnvironmentSatisfaction', 'RelationshipSatisfaction', 'WorkLifeBalance', 'JobSatisfaction'])
      
-    df_empleados_completo = pd.merge(dataframe,dataframe_para_unir, on = columnas.remove('idSatisfaction'))
+    df_empleados_completo = pd.merge(dataframe,dataframe_para_unir, on = ['JobInvolvement', 'PerformanceRating', 'EnvironmentSatisfaction', 'RelationshipSatisfaction', 'WorkLifeBalance', 'JobSatisfaction'], how='left')
     
     return df_empleados_completo

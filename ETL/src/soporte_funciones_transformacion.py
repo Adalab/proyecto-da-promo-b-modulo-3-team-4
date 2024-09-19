@@ -217,12 +217,19 @@ def estandarizacion_remote_work(dataframe):
 
 def eliminar_employees_duplicados (dataframe):
     
+    print(f"REGISTROS DUPLICADOS ANTES DE LIMPIEZA {dataframe.duplicated().sum()}")
     # Primero eliminamos los duplicados antes de modificar RemoteWork y Distance
     dataframe.drop_duplicates(inplace=True)
+  
     # filtramos del dataframe los registros que tienen EmployeeNumber repetido
     dup_con_nulos = dataframe[dataframe.duplicated(subset='EmployeeNumber',keep = False)].sort_values(by='EmployeeNumber', ascending=True)
+    
+
+    print("Numero filas duplicadas en employee number con NaN:", dup_con_nulos.shape[0])
     # Como tenemos NaN dentro de los registros repetidos, filtramos para tener el dataframe con registros repetidos sin incluir los nulos. 
     dup_sin_nulos = dup_con_nulos[dup_con_nulos['EmployeeNumber'].isnull() == False]
+    print("Numero de filas duplicadas en employee number sin NaN:", dup_sin_nulos.shape[0])
+    
     
     # Generamos una lista sobre la que poder iterar, que incluye todos los EmployeeNumber No nulos que tenemos repetidos
     lista_Employees_dup = list(dup_sin_nulos['EmployeeNumber'].unique())
@@ -250,8 +257,9 @@ def eliminar_employees_duplicados (dataframe):
         elif distancia_2 < distancia_1:
             # Esto es igual pero al reves, si la distancia 2 es menor, eliminamos el registro con la distancia 1. 
             dataframe.drop(dataframe[(dataframe['DistanceFromHome'] == distancia_1)&(dataframe['EmployeeNumber'] == employeenumber)].index, inplace=True)
-          
-        # dataframe.drop_duplicates(inplace=True)
+    
+    print(f"REGISTROS DUPLICADOS DESPUES DE LA LIMPIEZA {dataframe.duplicated().sum()}")
+    # dataframe.drop_duplicates(inplace=True)
     
     print("EmployeeNumber Duplicados (veremos que solo son aquellos registros nulos NaN, que despues vamos a imputar):")
     print(dataframe[dataframe.duplicated(subset='EmployeeNumber')]['EmployeeNumber'].unique())
@@ -303,3 +311,57 @@ def imputacion_simple_overtime(dataframe):
     return dataframe
 
 # %%
+
+def limpieza_environment_satisfaction (dataframe):
+    
+    # Convertimos a nulos los datos mayores que 4 puesto que sabemos que son valores erróneos y distorsionan los gráficos y los
+    # estadísticos
+
+    dataframe['EnvironmentSatisfaction'] = dataframe['EnvironmentSatisfaction'].apply(lambda x: np.nan if x > 4 else x)
+    
+    # Calculamos la moda
+
+    moda = dataframe['EnvironmentSatisfaction'].mode()[0]
+    
+    # Imputamos la moda a los nulos que se correspondian con esa recogida incorrecta de datos
+    
+    dataframe['EnvironmentSatisfaction'] = dataframe['EnvironmentSatisfaction'].fillna(moda)
+    
+    print(f"Comprobamos que las categorias que tenemos en EnvironmentSatisfaction despues de la limpieza son \n{dataframe['EnvironmentSatisfaction'].unique()}")
+    
+    return dataframe
+
+#%%
+
+def imputacion_work_life_balance (dataframe):
+
+    # Calculamos la moda
+
+    moda = dataframe['WorkLifeBalance'].mode()[0]
+    
+    # Imputamos la moda a los nulos que se correspondian con esa recogida incorrecta de datos
+    
+    dataframe['WorkLifeBalance'] = dataframe['WorkLifeBalance'].fillna(moda)
+    
+    print(f"Comprobamos que las ya no tenemos nulos en WorkLifeBalance")
+    
+    print(f"NULOS ==> {dataframe['WorkLifeBalance'].isnull().sum()}")
+    
+    return dataframe
+
+#%%
+
+def imputacion_performance_rating(dataframe): 
+    
+    # Calculamos con la mediana para imputar los nulos
+
+    mediana= dataframe['PerformanceRating'].median()
+
+    # Realizamos la imputacion
+    dataframe['PerformanceRating'] = dataframe['PerformanceRating'].fillna(mediana)
+
+    print(f"Comprobamos que las ya no tenemos nulos en PerformanceRating")
+    
+    print(f"NULOS ==> {dataframe['PerformanceRating'].isnull().sum()}")
+    
+    return dataframe
