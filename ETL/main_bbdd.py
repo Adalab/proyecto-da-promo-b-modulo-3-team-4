@@ -31,7 +31,7 @@ from src import soporte_funciones_bbdd as bbdd
 
 # ABRIMOS CSV
 
-df = pd.read_csv('files/HR RAW DATA_CLEAN.csv', index_col = 0)
+df = pd.read_csv('../data/HR RAW DATA_CLEAN.csv', index_col = 0)
 
 print(df.shape)
 

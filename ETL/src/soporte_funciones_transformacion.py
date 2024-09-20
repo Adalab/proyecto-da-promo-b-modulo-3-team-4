@@ -10,9 +10,10 @@ pd.set_option("display.max_columns", None)
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Importamos librerías para análisis estadístico
-import scipy.stats as stats
-from scipy.stats import shapiro, kstest, ttest_ind, mannwhitneyu, expon, chisquare
+# import libraries for imputation using advanced statistical methods
+# -----------------------------------------------------------------------
+from sklearn.impute import SimpleImputer
+from sklearn.impute import KNNImputer
 
 
 #%%
@@ -365,3 +366,29 @@ def imputacion_performance_rating(dataframe):
     print(f"NULOS ==> {dataframe['PerformanceRating'].isnull().sum()}")
     
     return dataframe
+
+
+#%%
+
+def imputacion_monthly_income(dataframe):
+    # creamos un df solo con variables numéricas, además de JobRole
+    df_nums = dataframe[["JobRole", "MonthlyIncome", "JobLevel", "Age", "Education"]]
+
+    df_original = df_nums.copy()
+
+    df_knn_imputed_1 = df_original.copy()
+    df_encoded_knn_1 = pd.get_dummies(df_knn_imputed_1, columns=["JobRole"], drop_first=True)
+
+    # Initialize the imputer
+    imputer = KNNImputer(n_neighbors=5)
+
+    # Apply the imputer
+    df_imputed_knn_values_1 = pd.DataFrame(imputer.fit_transform(df_encoded_knn_1), columns=df_encoded_knn_1.columns)
+    df_knn_imputed_1["MonthlyIncome"] = df_imputed_knn_values_1["MonthlyIncome"]
+    
+    dataframe ['MonthlyIncome'] = df_imputed_knn_values_1['MonthlyIncome']
+    print(f"NULOS EN MonthlyIncome ==> {dataframe['MonthlyIncome'].isnull().sum()}")
+   
+    return dataframe
+
+# %%

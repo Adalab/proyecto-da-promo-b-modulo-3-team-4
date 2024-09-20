@@ -11,9 +11,10 @@ pd.set_option("display.max_columns", None)
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Importamos librerías para análisis estadístico
-import scipy.stats as stats
-from scipy.stats import shapiro, kstest, ttest_ind, mannwhitneyu, expon, chisquare
+# import libraries for imputation using advanced statistical methods
+# -----------------------------------------------------------------------
+from sklearn.impute import SimpleImputer
+from sklearn.impute import KNNImputer
 
 import sys
 import os
@@ -30,13 +31,12 @@ from src import soporte_funciones_bbdd as bbdd
 #%%
 
 # Abrimos Dataframe
-df = pd.read_csv("files/HR RAW DATA.csv", index_col=0)
+df = pd.read_csv("../data/HR RAW DATA.csv", index_col=0)
 df.head(2)
 
+#%% 
 print(df.shape)
 
-print(df.duplicated(subset='employeenumber', keep=False).sum())
-df[df['employeenumber'].isnull() == True].duplicated(subset='employeenumber', keep=False).sum()
 
 # %%
 
@@ -64,6 +64,8 @@ df = transform.conversion_edad_numero(df)
 
 df = transform.correccion_tipografica_JobRole(df)
 
+
+
 # %%
 
 # CAMBIAMOS COMAS POR PUNTOS
@@ -90,6 +92,7 @@ df = transform.eliminar_employees_duplicados (df)
 
 #%%
 
+
 # REALIZAMOS IMPUTACIONES SIMPLES
 
 df = transform.imputacion_simple_employee_number(df)
@@ -113,13 +116,19 @@ df = transform.imputacion_work_life_balance(df)
 
 df = transform.imputacion_performance_rating(df)
 
+#%%
+
+df = transform.imputacion_monthly_income(df)
+
+
 #%% 
 
 print(df.shape)
+df.columns
 
 # GUARDAMOS EN UN CSV
 
-df.to_csv('files/HR RAW DATA_CLEAN.csv')
+df.to_csv('../data/HR RAW DATA_CLEAN.csv')
 
-
+df.head(1)
 # %%
