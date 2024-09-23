@@ -1,8 +1,8 @@
-# Proyecto-da-promo-b-modulo-3-team-4
+# <p align="center">Proyecto-da-promo-b-modulo-3-team-4
 
 <span style ='color:blue'></span>
 
-## <span style ='color:blue'> Proyecto: Optimización de Talento </span>
+## <p align="center"><span style ='color:blue'> Proyecto: Optimización de Talento </span>
 
 <strong>Resumen:</strong>
 <p align="justify">
